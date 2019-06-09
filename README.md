@@ -4,17 +4,17 @@ Material de l'assignatura SEAX de l'EPSEVG-UPC. L'objectiu de és el de crear un
 
 ## Continguts
 
-* p1
-* p2
-* p3
-* p4
-* p5
-* p6
-* p7
-* p8
-* p9
-* p10
-* to
+* [p1](https://github.com/pmontp19/seax/tree/master/p1)
+* [p2](https://github.com/pmontp19/seax/tree/master/p2)
+* [p3](https://github.com/pmontp19/seax/tree/master/p3)
+* [p4](https://github.com/pmontp19/seax/tree/master/p4)
+* [p5](https://github.com/pmontp19/seax/tree/master/p5)
+* [p6](https://github.com/pmontp19/seax/tree/master/p6)
+* [p7](https://github.com/pmontp19/seax/tree/master/p7)
+* [p8](https://github.com/pmontp19/seax/tree/master/p8)
+* [p9](https://github.com/pmontp19/seax/tree/master/p9)
+* [p10](https://github.com/pmontp19/seax/tree/master/p10)
+* [to](https://github.com/pmontp19/seax/tree/master/to)
 
 ## Alerta
 
@@ -23,7 +23,7 @@ Les entregues no estan corregides ni estan revisades, per tant és possible que 
 ## TODO
 
 * [ ] Code highlight de p6 a p10
-* [ ] Fer enllaços a README.md a les pràctiques
+* [x] Fer enllaços a README.md a les pràctiques
 * [ ] Posar els enunciats de cada pràctica (no els tinc)
 
 ## Contribute

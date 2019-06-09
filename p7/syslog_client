@@ -1,0 +1,1721 @@
+May  1 00:08:31 seax liblogging-stdlog:  [origin software="rsyslogd" swVersion="8.24.0" x-pid="283" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+May  1 00:08:31 seax anacron[1178]: Job `cron.daily' terminated
+May  1 00:08:31 seax anacron[1178]: Normal exit (1 job run)
+May  1 00:08:31 seax systemd[1]: anacron.timer: Adding 1min 640.762ms random time.
+May  1 00:17:01 seax CRON[1281]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+May  1 01:01:31 seax systemd[1]: Started Run anacron jobs.
+May  1 01:01:31 seax anacron[1292]: Anacron 2.3 started on 2018-05-01
+May  1 01:01:31 seax anacron[1292]: Normal exit (0 jobs run)
+May  1 01:01:31 seax systemd[1]: anacron.timer: Adding 3min 55.365840s random time.
+May  1 01:17:01 seax CRON[1299]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+May  1 02:04:31 seax systemd[1]: Started Run anacron jobs.
+May  1 02:04:31 seax anacron[1312]: Anacron 2.3 started on 2018-05-01
+May  1 02:04:31 seax anacron[1312]: Normal exit (0 jobs run)
+May  1 02:04:31 seax systemd[1]: anacron.timer: Adding 4min 57.934202s random time.
+May  1 02:17:01 seax CRON[1318]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+May  1 03:05:38 seax systemd[1]: Started Run anacron jobs.
+May  1 03:05:38 seax anacron[1346]: Anacron 2.3 started on 2018-05-01
+May  1 03:05:38 seax anacron[1346]: Normal exit (0 jobs run)
+May  1 03:05:38 seax systemd[1]: anacron.timer: Adding 2min 34.129201s random time.
+May  1 03:17:01 seax CRON[1351]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+May  1 04:02:38 seax systemd[1]: Started Run anacron jobs.
+May  1 04:02:38 seax anacron[1364]: Anacron 2.3 started on 2018-05-01
+May  1 04:02:38 seax anacron[1364]: Normal exit (0 jobs run)
+May  1 04:02:38 seax systemd[1]: anacron.timer: Adding 52.612877s random time.
+May  1 04:17:01 seax CRON[1371]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+May  1 05:01:31 seax systemd[1]: Started Run anacron jobs.
+May  1 05:01:31 seax anacron[1390]: Anacron 2.3 started on 2018-05-01
+May  1 05:01:31 seax anacron[1390]: Normal exit (0 jobs run)
+May  1 05:01:31 seax systemd[1]: anacron.timer: Adding 22.643158s random time.
+May  1 05:10:21 seax systemd[1]: Stopped target Sound Card.
+May  1 05:10:21 seax systemd[1]: Stopping Session 1 of user entel.
+May  1 05:10:21 seax systemd[1]: Stopped target Timers.
+May  1 05:10:21 seax systemd[1]: Stopped Daily apt upgrade and clean activities.
+May  1 05:10:21 seax systemd[1]: Stopping Session 3 of user entel.
+May  1 05:10:21 seax systemd[1]: Stopping User Manager for UID 1000...
+May  1 05:10:21 seax systemd[670]: Stopped target Default.
+May  1 05:10:21 seax systemd[670]: Stopped target Basic System.
+May  1 05:10:21 seax systemd[670]: Stopped target Sockets.
+May  1 05:10:21 seax systemd[670]: Closed GnuPG cryptographic agent (access for web browsers).
+May  1 05:10:21 seax systemd[670]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+May  1 05:10:21 seax systemd[670]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+May  1 05:10:21 seax systemd[670]: Stopped target Paths.
+May  1 05:10:21 seax systemd[670]: Stopped target Timers.
+May  1 05:10:21 seax systemd[670]: Closed GnuPG cryptographic agent and passphrase cache.
+May  1 05:10:21 seax systemd[670]: Reached target Shutdown.
+Apr 27 13:38:51 seax kernel: [    0.000000] Linux version 4.9.0-6-686 (debian-kernel@lists.debian.org) (gcc version 6.3.0 20170516 (Debian 6.3.0-18+deb9u1) ) #1 SMP Debian 4.9.82-1+deb9u3 (2018-03-02)
+Apr 27 13:38:51 seax kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+Apr 27 13:38:51 seax kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+Apr 27 13:38:51 seax kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x004: 'AVX registers'
+Apr 27 13:38:51 seax kernel: [    0.000000] x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+Apr 27 13:38:51 seax kernel: [    0.000000] x86/fpu: Enabled xstate features 0x7, context size is 832 bytes, using 'standard' format.
+Apr 27 13:38:51 seax kernel: [    0.000000] x86/fpu: Using 'eager' FPU context switches.
+Apr 27 13:38:51 seax kernel: [    0.000000] e820: BIOS-provided physical RAM map:
+Apr 27 13:38:51 seax kernel: [    0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
+Apr 27 13:38:51 seax kernel: [    0.000000] BIOS-e820: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+Apr 27 13:38:51 seax kernel: [    0.000000] BIOS-e820: [mem 0x00000000000f0000-0x00000000000fffff] reserved
+Apr 27 13:38:51 seax kernel: [    0.000000] BIOS-e820: [mem 0x0000000000100000-0x000000000ffeffff] usable
+Apr 27 13:38:51 seax kernel: [    0.000000] BIOS-e820: [mem 0x000000000fff0000-0x000000000fffffff] ACPI data
+Apr 27 13:38:51 seax kernel: [    0.000000] BIOS-e820: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+Apr 27 13:38:51 seax kernel: [    0.000000] BIOS-e820: [mem 0x00000000fee00000-0x00000000fee00fff] reserved
+Apr 27 13:38:51 seax kernel: [    0.000000] BIOS-e820: [mem 0x00000000fffc0000-0x00000000ffffffff] reserved
+Apr 27 13:38:51 seax kernel: [    0.000000] Notice: NX (Execute Disable) protection missing in CPU!
+Apr 27 13:38:51 seax kernel: [    0.000000] SMBIOS 2.5 present.
+Apr 27 13:38:51 seax kernel: [    0.000000] DMI: innotek GmbH VirtualBox/VirtualBox, BIOS VirtualBox 12/01/2006
+Apr 27 13:38:51 seax kernel: [    0.000000] Hypervisor detected: KVM
+Apr 27 13:38:51 seax kernel: [    0.000000] e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+Apr 27 13:38:51 seax kernel: [    0.000000] e820: remove [mem 0x000a0000-0x000fffff] usable
+Apr 27 13:38:51 seax kernel: [    0.000000] e820: last_pfn = 0xfff0 max_arch_pfn = 0x100000
+Apr 27 13:38:51 seax kernel: [    0.000000] MTRR default type: uncachable
+Apr 27 13:38:51 seax kernel: [    0.000000] MTRR variable ranges disabled:
+Apr 27 13:38:51 seax kernel: [    0.000000] MTRR: Disabled
+Apr 27 13:38:51 seax kernel: [    0.000000] x86/PAT: MTRRs disabled, skipping PAT initialization too.
+Apr 27 13:38:51 seax kernel: [    0.000000] CPU MTRRs all blank - virtualized system.
+Apr 27 13:38:51 seax kernel: [    0.000000] x86/PAT: Configuration [0-7]: WB  WT  UC- UC  WB  WT  UC- UC  
+Apr 27 13:38:51 seax kernel: [    0.000000] initial memory mapped: [mem 0x00000000-0x02bfffff]
+Apr 27 13:38:51 seax kernel: [    0.000000] Base memory trampoline at [c009b000] 9b000 size 16384
+Apr 27 13:38:51 seax kernel: [    0.000000] BRK [0x0291d000, 0x0291dfff] PGTABLE
+Apr 27 13:38:51 seax kernel: [    0.000000] RAMDISK: [mem 0x0e808000-0x0f853fff]
+Apr 27 13:38:51 seax kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Apr 27 13:38:51 seax kernel: [    0.000000] ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+Apr 27 13:38:51 seax kernel: [    0.000000] ACPI: XSDT 0x000000000FFF0030 000034 (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+Apr 27 13:38:51 seax kernel: [    0.000000] ACPI: FACP 0x000000000FFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+Apr 27 13:38:51 seax kernel: [    0.000000] ACPI: DSDT 0x000000000FFF0410 0021FF (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+Apr 27 13:38:51 seax kernel: [    0.000000] ACPI: FACS 0x000000000FFF0200 000040
+Apr 27 13:38:51 seax kernel: [    0.000000] ACPI: FACS 0x000000000FFF0200 000040
+Apr 27 13:38:51 seax kernel: [    0.000000] ACPI: SSDT 0x000000000FFF0240 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+Apr 27 13:38:51 seax kernel: [    0.000000] 0MB HIGHMEM available.
+Apr 27 13:38:51 seax kernel: [    0.000000] 255MB LOWMEM available.
+Apr 27 13:38:51 seax kernel: [    0.000000]   mapped low ram: 0 - 0fff0000
+Apr 27 13:38:51 seax kernel: [    0.000000]   low ram: 0 - 0fff0000
+Apr 27 13:38:51 seax kernel: [    0.000000] kvm-clock: Using msrs 4b564d01 and 4b564d00
+Apr 27 13:38:51 seax kernel: [    0.000000] kvm-clock: cpu 0, msr 0:ffef001, primary cpu clock
+Apr 27 13:38:51 seax kernel: [    0.000000] kvm-clock: using sched offset of 119301002395169 cycles
+Apr 27 13:38:51 seax kernel: [    0.000000] clocksource: kvm-clock: mask: 0xffffffffffffffff max_cycles: 0x1cd42e4dffb, max_idle_ns: 881590591483 ns
+Apr 27 13:38:51 seax kernel: [    0.000000] Zone ranges:
+Apr 27 13:38:51 seax kernel: [    0.000000]   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+Apr 27 13:38:51 seax kernel: [    0.000000]   Normal   [mem 0x0000000001000000-0x000000000ffeffff]
+Apr 27 13:38:51 seax kernel: [    0.000000]   HighMem  empty
+Apr 27 13:38:51 seax kernel: [    0.000000] Movable zone start for each node
+Apr 27 13:38:51 seax kernel: [    0.000000] Early memory node ranges
+Apr 27 13:38:51 seax kernel: [    0.000000]   node   0: [mem 0x0000000000001000-0x000000000009efff]
+Apr 27 13:38:51 seax kernel: [    0.000000]   node   0: [mem 0x0000000000100000-0x000000000ffeffff]
+Apr 27 13:38:51 seax kernel: [    0.000000] Initmem setup node 0 [mem 0x0000000000001000-0x000000000ffeffff]
+Apr 27 13:38:51 seax kernel: [    0.000000] On node 0 totalpages: 65422
+Apr 27 13:38:51 seax kernel: [    0.000000] free_area_init_node: node 0, pgdat c27ca440, node_mem_map cfdaf024
+Apr 27 13:38:51 seax kernel: [    0.000000]   DMA zone: 36 pages used for memmap
+Apr 27 13:38:51 seax kernel: [    0.000000]   DMA zone: 0 pages reserved
+Apr 27 13:38:51 seax kernel: [    0.000000]   DMA zone: 3998 pages, LIFO batch:0
+Apr 27 13:38:51 seax kernel: [    0.000000]   Normal zone: 540 pages used for memmap
+Apr 27 13:38:51 seax kernel: [    0.000000]   Normal zone: 61424 pages, LIFO batch:15
+Apr 27 13:38:51 seax kernel: [    0.000000] Using APIC driver default
+Apr 27 13:38:51 seax kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x4008
+Apr 27 13:38:51 seax kernel: [    0.000000] Found and enabled local APIC!
+Apr 27 13:38:51 seax kernel: [    0.000000] smpboot: Boot CPU (id 0) not listed by BIOS
+Apr 27 13:38:51 seax kernel: [    0.000000] smpboot: Allowing 1 CPUs, 0 hotplug CPUs
+Apr 27 13:38:51 seax kernel: [    0.000000] PM: Registered nosave memory: [mem 0x00000000-0x00000fff]
+Apr 27 13:38:51 seax kernel: [    0.000000] PM: Registered nosave memory: [mem 0x0009f000-0x0009ffff]
+Apr 27 13:38:51 seax kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000a0000-0x000effff]
+Apr 27 13:38:51 seax kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000f0000-0x000fffff]
+Apr 27 13:38:51 seax kernel: [    0.000000] e820: [mem 0x10000000-0xfebfffff] available for PCI devices
+Apr 27 13:38:51 seax kernel: [    0.000000] Booting paravirtualized kernel on KVM
+Apr 27 13:38:51 seax kernel: [    0.000000] clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+Apr 27 13:38:51 seax kernel: [    0.000000] setup_percpu: NR_CPUS:32 nr_cpumask_bits:32 nr_cpu_ids:1 nr_node_ids:1
+Apr 27 13:38:51 seax kernel: [    0.000000] percpu: Embedded 19 pages/cpu @cfd99000 s47948 r0 d29876 u77824
+Apr 27 13:38:51 seax kernel: [    0.000000] pcpu-alloc: s47948 r0 d29876 u77824 alloc=19*4096
+Apr 27 13:38:51 seax kernel: [    0.000000] pcpu-alloc: [0] 0 
+Apr 27 13:38:51 seax kernel: [    0.000000] PV qspinlock hash table entries: 512 (order: 0, 4096 bytes)
+Apr 27 13:38:51 seax kernel: [    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 64846
+Apr 27 13:38:51 seax kernel: [    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-4.9.0-6-686 root=UUID=d4fbc9c2-8b67-4039-b33f-d81794e0dc19 ro quiet
+Apr 27 13:38:51 seax kernel: [    0.000000] PID hash table entries: 1024 (order: 0, 4096 bytes)
+Apr 27 13:38:51 seax kernel: [    0.000000] Dentry cache hash table entries: 32768 (order: 5, 131072 bytes)
+Apr 27 13:38:51 seax kernel: [    0.000000] Inode-cache hash table entries: 16384 (order: 4, 65536 bytes)
+Apr 27 13:38:51 seax kernel: [    0.000000] Initializing CPU#0
+Apr 27 13:38:51 seax kernel: [    0.000000] Initializing HighMem for node 0 (00000000:00000000)
+Apr 27 13:38:51 seax kernel: [    0.000000] Memory: 232980K/261688K available (5723K kernel code, 648K rwdata, 1704K rodata, 716K init, 452K bss, 28708K reserved, 0K cma-reserved, 0K highmem)
+Apr 27 13:38:51 seax kernel: [    0.000000] virtual kernel memory layout:
+Apr 27 13:38:51 seax kernel: [    0.000000]     fixmap  : 0xffd36000 - 0xfffff000   (2852 kB)
+Apr 27 13:38:51 seax kernel: [    0.000000]     pkmap   : 0xff800000 - 0xffc00000   (4096 kB)
+Apr 27 13:38:51 seax kernel: [    0.000000]     vmalloc : 0xd07f0000 - 0xff7fe000   ( 752 MB)
+Apr 27 13:38:51 seax kernel: [    0.000000]     lowmem  : 0xc0000000 - 0xcfff0000   ( 255 MB)
+Apr 27 13:38:51 seax kernel: [    0.000000]       .init : 0xc27e7000 - 0xc289a000   ( 716 kB)
+Apr 27 13:38:51 seax kernel: [    0.000000]       .data : 0xc259710a - 0xc27e5100   (2359 kB)
+Apr 27 13:38:51 seax kernel: [    0.000000]       .text : 0xc2000000 - 0xc259710a   (5724 kB)
+Apr 27 13:38:51 seax kernel: [    0.000000] Checking if this processor honours the WP bit even in supervisor mode...Ok.
+Apr 27 13:38:51 seax kernel: [    0.000000] Hierarchical RCU implementation.
+Apr 27 13:38:51 seax kernel: [    0.000000] 	Build-time adjustment of leaf fanout to 32.
+Apr 27 13:38:51 seax kernel: [    0.000000] 	RCU restricting CPUs from NR_CPUS=32 to nr_cpu_ids=1.
+Apr 27 13:38:51 seax kernel: [    0.000000] RCU: Adjusting geometry for rcu_fanout_leaf=32, nr_cpu_ids=1
+Apr 27 13:38:51 seax kernel: [    0.000000] NR_IRQS:2304 nr_irqs:32 16
+Apr 27 13:38:51 seax kernel: [    0.000000] CPU 0 irqstacks, hard=ce42e000 soft=ce430000
+Apr 27 13:38:51 seax kernel: [    0.000000] Console: colour VGA+ 80x25
+Apr 27 13:38:51 seax kernel: [    0.000000] console [tty0] enabled
+Apr 27 13:38:51 seax kernel: [    0.000000] tsc: Detected 2496.002 MHz processor
+Apr 27 13:38:51 seax kernel: [    0.028397] Calibrating delay loop (skipped) preset value.. 4992.00 BogoMIPS (lpj=9984008)
+Apr 27 13:38:51 seax kernel: [    0.028403] pid_max: default: 32768 minimum: 301
+Apr 27 13:38:51 seax kernel: [    0.028432] ACPI: Core revision 20160831
+Apr 27 13:38:51 seax kernel: [    0.030507] ACPI: 2 ACPI AML tables successfully acquired and loaded
+Apr 27 13:38:51 seax kernel: [    0.030516] ACPI: setting ELCR to 0200 (from 0e00)
+Apr 27 13:38:51 seax kernel: [    0.030544] Security Framework initialized
+Apr 27 13:38:51 seax kernel: [    0.030545] Yama: disabled by default; enable with sysctl kernel.yama.*
+Apr 27 13:38:51 seax kernel: [    0.030551] AppArmor: AppArmor disabled by boot time parameter
+Apr 27 13:38:51 seax kernel: [    0.030562] Mount-cache hash table entries: 1024 (order: 0, 4096 bytes)
+Apr 27 13:38:51 seax kernel: [    0.030564] Mountpoint-cache hash table entries: 1024 (order: 0, 4096 bytes)
+Apr 27 13:38:51 seax kernel: [    0.030798] CPU: Physical Processor ID: 0
+Apr 27 13:38:51 seax kernel: [    0.030818] mce: CPU supports 0 MCE banks
+Apr 27 13:38:51 seax kernel: [    0.030840] process: using mwait in idle threads
+Apr 27 13:38:51 seax kernel: [    0.030852] Last level iTLB entries: 4KB 64, 2MB 8, 4MB 8
+Apr 27 13:38:51 seax kernel: [    0.030853] Last level dTLB entries: 4KB 64, 2MB 0, 4MB 0, 1GB 4
+Apr 27 13:38:51 seax kernel: [    0.030854] Spectre V2 : Mitigation: Full generic retpoline
+Apr 27 13:38:51 seax kernel: [    0.030855] Spectre V2 : Filling RSB on context switch
+Apr 27 13:38:51 seax kernel: [    0.048348] Freeing SMP alternatives memory: 24K
+Apr 27 13:38:51 seax kernel: [    0.056324] ftrace: allocating 23721 entries in 47 pages
+Apr 27 13:38:51 seax kernel: [    0.105083] smpboot: Max logical packages: 1
+Apr 27 13:38:51 seax kernel: [    0.105094] smpboot: SMP motherboard not detected
+Apr 27 13:38:51 seax kernel: [    0.105095] smpboot: SMP disabled
+Apr 27 13:38:51 seax kernel: [    0.105098] Enabling APIC mode:  Flat.  Using 0 I/O APICs
+Apr 27 13:38:51 seax kernel: [    0.211799] Performance Events: unsupported p6 CPU model 78 no PMU driver, software events only.
+Apr 27 13:38:51 seax kernel: [    0.211814] KVM setup paravirtual spinlock
+Apr 27 13:38:51 seax kernel: [    0.212301] x86: Booted up 1 node, 1 CPUs
+Apr 27 13:38:51 seax kernel: [    0.212302] smpboot: Total of 1 processors activated (4992.00 BogoMIPS)
+Apr 27 13:38:51 seax kernel: [    0.212419] devtmpfs: initialized
+Apr 27 13:38:51 seax kernel: [    0.212618] clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645041785100000 ns
+Apr 27 13:38:51 seax kernel: [    0.212620] futex hash table entries: 256 (order: 2, 16384 bytes)
+Apr 27 13:38:51 seax kernel: [    0.212638] pinctrl core: initialized pinctrl subsystem
+Apr 27 13:38:51 seax kernel: [    0.212724] NET: Registered protocol family 16
+Apr 27 13:38:51 seax kernel: [    0.212877] cpuidle: using governor ladder
+Apr 27 13:38:51 seax kernel: [    0.212878] cpuidle: using governor menu
+Apr 27 13:38:51 seax kernel: [    0.212918] ACPI: bus type PCI registered
+Apr 27 13:38:51 seax kernel: [    0.212920] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Apr 27 13:38:51 seax kernel: [    0.213068] PCI: PCI BIOS revision 2.10 entry at 0xfda26, last bus=0
+Apr 27 13:38:51 seax kernel: [    0.213068] PCI: Using configuration type 1 for base access
+Apr 27 13:38:51 seax kernel: [    0.213805] HugeTLB registered 4 MB page size, pre-allocated 0 pages
+Apr 27 13:38:51 seax kernel: [    0.213928] ACPI: Added _OSI(Module Device)
+Apr 27 13:38:51 seax kernel: [    0.213929] ACPI: Added _OSI(Processor Device)
+Apr 27 13:38:51 seax kernel: [    0.213930] ACPI: Added _OSI(3.0 _SCP Extensions)
+Apr 27 13:38:51 seax kernel: [    0.213931] ACPI: Added _OSI(Processor Aggregator Device)
+Apr 27 13:38:51 seax kernel: [    0.214189] ACPI: Executed 1 blocks of module-level executable AML code
+Apr 27 13:38:51 seax kernel: [    0.217223] ACPI: Interpreter enabled
+Apr 27 13:38:51 seax kernel: [    0.217238] ACPI: (supports S0 S5)
+Apr 27 13:38:51 seax kernel: [    0.217239] ACPI: Using PIC for interrupt routing
+Apr 27 13:38:51 seax kernel: [    0.217414] PCI: Ignoring host bridge windows from ACPI; if necessary, use "pci=use_crs" and report a bug
+Apr 27 13:38:51 seax kernel: [    0.221713] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+Apr 27 13:38:51 seax kernel: [    0.221717] acpi PNP0A03:00: _OSC: OS supports [ASPM ClockPM Segments MSI]
+Apr 27 13:38:51 seax kernel: [    0.221733] acpi PNP0A03:00: _OSC: not requesting OS control; OS requires [ExtendedConfig ASPM ClockPM MSI]
+Apr 27 13:38:51 seax kernel: [    0.221735] acpi PNP0A03:00: fail to add MMCONFIG information, can't access extended PCI configuration space under this bridge.
+Apr 27 13:38:51 seax kernel: [    0.221801] acpi PNP0A03:00: host bridge window [io  0x0cf8-0x0cff] (ignored)
+Apr 27 13:38:51 seax kernel: [    0.221802] acpi PNP0A03:00: host bridge window [io  0x0000-0x0cf7 window] (ignored)
+Apr 27 13:38:51 seax kernel: [    0.221804] acpi PNP0A03:00: host bridge window [io  0x0d00-0xffff window] (ignored)
+Apr 27 13:38:51 seax kernel: [    0.221805] acpi PNP0A03:00: host bridge window [mem 0x000a0000-0x000bffff window] (ignored)
+Apr 27 13:38:51 seax kernel: [    0.221806] acpi PNP0A03:00: host bridge window [mem 0x10000000-0xfdffffff window] (ignored)
+Apr 27 13:38:51 seax kernel: [    0.221807] PCI: root bus 00: using default resources
+Apr 27 13:38:51 seax kernel: [    0.222093] PCI host bridge to bus 0000:00
+Apr 27 13:38:51 seax kernel: [    0.222095] pci_bus 0000:00: root bus resource [io  0x0000-0xffff]
+Apr 27 13:38:51 seax kernel: [    0.222096] pci_bus 0000:00: root bus resource [mem 0x00000000-0xffffffff]
+Apr 27 13:38:51 seax kernel: [    0.222098] pci_bus 0000:00: root bus resource [bus 00-ff]
+Apr 27 13:38:51 seax kernel: [    0.222156] pci 0000:00:00.0: [8086:1237] type 00 class 0x060000
+Apr 27 13:38:51 seax kernel: [    0.222744] pci 0000:00:01.0: [8086:7000] type 00 class 0x060100
+Apr 27 13:38:51 seax kernel: [    0.223511] pci 0000:00:01.1: [8086:7111] type 00 class 0x01018a
+Apr 27 13:38:51 seax kernel: [    0.223980] pci 0000:00:01.1: reg 0x20: [io  0xd000-0xd00f]
+Apr 27 13:38:51 seax kernel: [    0.224212] pci 0000:00:01.1: legacy IDE quirk: reg 0x10: [io  0x01f0-0x01f7]
+Apr 27 13:38:51 seax kernel: [    0.224213] pci 0000:00:01.1: legacy IDE quirk: reg 0x14: [io  0x03f6]
+Apr 27 13:38:51 seax kernel: [    0.224214] pci 0000:00:01.1: legacy IDE quirk: reg 0x18: [io  0x0170-0x0177]
+Apr 27 13:38:51 seax kernel: [    0.224215] pci 0000:00:01.1: legacy IDE quirk: reg 0x1c: [io  0x0376]
+Apr 27 13:38:51 seax kernel: [    0.224443] pci 0000:00:02.0: [80ee:beef] type 00 class 0x030000
+Apr 27 13:38:51 seax kernel: [    0.225075] pci 0000:00:02.0: reg 0x10: [mem 0xe0000000-0xe0ffffff pref]
+Apr 27 13:38:51 seax kernel: [    0.229063] pci 0000:00:03.0: [8086:100e] type 00 class 0x020000
+Apr 27 13:38:51 seax kernel: [    0.229361] pci 0000:00:03.0: reg 0x10: [mem 0xf0000000-0xf001ffff]
+Apr 27 13:38:51 seax kernel: [    0.229738] pci 0000:00:03.0: reg 0x18: [io  0xd010-0xd017]
+Apr 27 13:38:51 seax kernel: [    0.231013] pci 0000:00:04.0: [80ee:cafe] type 00 class 0x088000
+Apr 27 13:38:51 seax kernel: [    0.231251] pci 0000:00:04.0: reg 0x10: [io  0xd020-0xd03f]
+Apr 27 13:38:51 seax kernel: [    0.231458] pci 0000:00:04.0: reg 0x14: [mem 0xf0400000-0xf07fffff]
+Apr 27 13:38:51 seax kernel: [    0.231664] pci 0000:00:04.0: reg 0x18: [mem 0xf0800000-0xf0803fff pref]
+Apr 27 13:38:51 seax kernel: [    0.232939] pci 0000:00:05.0: [8086:2415] type 00 class 0x040100
+Apr 27 13:38:51 seax kernel: [    0.233039] pci 0000:00:05.0: reg 0x10: [io  0xd100-0xd1ff]
+Apr 27 13:38:51 seax kernel: [    0.233110] pci 0000:00:05.0: reg 0x14: [io  0xd200-0xd23f]
+Apr 27 13:38:51 seax kernel: [    0.233698] pci 0000:00:06.0: [106b:003f] type 00 class 0x0c0310
+Apr 27 13:38:51 seax kernel: [    0.234029] pci 0000:00:06.0: reg 0x10: [mem 0xf0804000-0xf0804fff]
+Apr 27 13:38:51 seax kernel: [    0.235441] pci 0000:00:07.0: [8086:7113] type 00 class 0x068000
+Apr 27 13:38:51 seax kernel: [    0.235874] pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+Apr 27 13:38:51 seax kernel: [    0.235885] pci 0000:00:07.0: quirk: [io  0x4100-0x410f] claimed by PIIX4 SMB
+Apr 27 13:38:51 seax kernel: [    0.236213] pci 0000:00:0b.0: [8086:265c] type 00 class 0x0c0320
+Apr 27 13:38:51 seax kernel: [    0.236450] pci 0000:00:0b.0: reg 0x10: [mem 0xf0805000-0xf0805fff]
+Apr 27 13:38:51 seax kernel: [    0.238029] pci 0000:00:0d.0: [8086:2829] type 00 class 0x010601
+Apr 27 13:38:51 seax kernel: [    0.238303] pci 0000:00:0d.0: reg 0x10: [io  0xd240-0xd247]
+Apr 27 13:38:51 seax kernel: [    0.238515] pci 0000:00:0d.0: reg 0x14: [io  0xd248-0xd24b]
+Apr 27 13:38:51 seax kernel: [    0.238776] pci 0000:00:0d.0: reg 0x18: [io  0xd250-0xd257]
+Apr 27 13:38:51 seax kernel: [    0.238987] pci 0000:00:0d.0: reg 0x1c: [io  0xd258-0xd25b]
+Apr 27 13:38:51 seax kernel: [    0.239195] pci 0000:00:0d.0: reg 0x20: [io  0xd260-0xd26f]
+Apr 27 13:38:51 seax kernel: [    0.239402] pci 0000:00:0d.0: reg 0x24: [mem 0xf0806000-0xf0807fff]
+Apr 27 13:38:51 seax kernel: [    0.240146] pci_bus 0000:00: on NUMA node 0
+Apr 27 13:38:51 seax kernel: [    0.241212] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+Apr 27 13:38:51 seax kernel: [    0.241453] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+Apr 27 13:38:51 seax kernel: [    0.241546] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+Apr 27 13:38:51 seax kernel: [    0.241648] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+Apr 27 13:38:51 seax kernel: [    0.241781] ACPI: Enabled 2 GPEs in block 00 to 07
+Apr 27 13:38:51 seax kernel: [    0.241903] vgaarb: setting as boot device: PCI:0000:00:02.0
+Apr 27 13:38:51 seax kernel: [    0.241905] vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+Apr 27 13:38:51 seax kernel: [    0.241907] vgaarb: loaded
+Apr 27 13:38:51 seax kernel: [    0.241908] vgaarb: bridge control possible 0000:00:02.0
+Apr 27 13:38:51 seax kernel: [    0.241986] PCI: Using ACPI for IRQ routing
+Apr 27 13:38:51 seax kernel: [    0.241988] PCI: pci_cache_line_size set to 64 bytes
+Apr 27 13:38:51 seax kernel: [    0.242194] e820: reserve RAM buffer [mem 0x0009fc00-0x0009ffff]
+Apr 27 13:38:51 seax kernel: [    0.242199] e820: reserve RAM buffer [mem 0x0fff0000-0x0fffffff]
+Apr 27 13:38:51 seax kernel: [    0.242359] clocksource: Switched to clocksource kvm-clock
+Apr 27 13:38:51 seax kernel: [    0.249892] VFS: Disk quotas dquot_6.6.0
+Apr 27 13:38:51 seax kernel: [    0.249905] VFS: Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+Apr 27 13:38:51 seax kernel: [    0.249982] pnp: PnP ACPI init
+Apr 27 13:38:51 seax kernel: [    0.250042] pnp 00:00: Plug and Play ACPI device, IDs PNP0303 (active)
+Apr 27 13:38:51 seax kernel: [    0.250107] pnp 00:01: Plug and Play ACPI device, IDs PNP0f03 (active)
+Apr 27 13:38:51 seax kernel: [    0.250826] pnp: PnP ACPI: found 2 devices
+Apr 27 13:38:51 seax kernel: [    0.250831] PnPBIOS: Disabled by ACPI PNP
+Apr 27 13:38:51 seax kernel: [    0.286800] clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+Apr 27 13:38:51 seax kernel: [    0.286812] pci_bus 0000:00: resource 4 [io  0x0000-0xffff]
+Apr 27 13:38:51 seax kernel: [    0.286814] pci_bus 0000:00: resource 5 [mem 0x00000000-0xffffffff]
+Apr 27 13:38:51 seax kernel: [    0.286867] NET: Registered protocol family 2
+Apr 27 13:38:51 seax kernel: [    0.287029] TCP established hash table entries: 2048 (order: 1, 8192 bytes)
+Apr 27 13:38:51 seax kernel: [    0.287032] TCP bind hash table entries: 2048 (order: 2, 16384 bytes)
+Apr 27 13:38:51 seax kernel: [    0.287035] TCP: Hash tables configured (established 2048 bind 2048)
+Apr 27 13:38:51 seax kernel: [    0.287042] UDP hash table entries: 256 (order: 1, 8192 bytes)
+Apr 27 13:38:51 seax kernel: [    0.287046] UDP-Lite hash table entries: 256 (order: 1, 8192 bytes)
+Apr 27 13:38:51 seax kernel: [    0.287067] NET: Registered protocol family 1
+Apr 27 13:38:51 seax kernel: [    0.287078] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+Apr 27 13:38:51 seax kernel: [    0.287110] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+Apr 27 13:38:51 seax kernel: [    0.287165] pci 0000:00:02.0: Video device with shadowed ROM at [mem 0x000c0000-0x000dffff]
+Apr 27 13:38:51 seax kernel: [    0.288089] ACPI: PCI Interrupt Link [LNKB] enabled at IRQ 10
+Apr 27 13:38:51 seax kernel: [    0.288090] PCI: setting IRQ 10 as level-triggered
+Apr 27 13:38:51 seax kernel: [    0.289991] ACPI: PCI Interrupt Link [LNKC] enabled at IRQ 9
+Apr 27 13:38:51 seax kernel: [    0.289992] PCI: setting IRQ 9 as level-triggered
+Apr 27 13:38:51 seax kernel: [    0.290624] PCI: CLS 0 bytes, default 64
+Apr 27 13:38:51 seax kernel: [    0.290674] Unpacking initramfs...
+Apr 27 13:38:51 seax kernel: [    0.581002] Freeing initrd memory: 16688K
+Apr 27 13:38:51 seax kernel: [    0.581128] platform rtc_cmos: registered platform RTC device (no PNP device found)
+Apr 27 13:38:51 seax kernel: [    0.581335] audit: initializing netlink subsys (disabled)
+Apr 27 13:38:51 seax kernel: [    0.581346] audit: type=2000 audit(1525285133.011:1): initialized
+Apr 27 13:38:51 seax kernel: [    0.581592] workingset: timestamp_bits=14 max_order=16 bucket_order=2
+Apr 27 13:38:51 seax kernel: [    0.581604] zbud: loaded
+Apr 27 13:38:51 seax kernel: [    0.582000] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 250)
+Apr 27 13:38:51 seax kernel: [    0.582049] io scheduler noop registered
+Apr 27 13:38:51 seax kernel: [    0.582050] io scheduler deadline registered
+Apr 27 13:38:51 seax kernel: [    0.582058] io scheduler cfq registered (default)
+Apr 27 13:38:51 seax kernel: [    0.582115] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+Apr 27 13:38:51 seax kernel: [    0.582119] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+Apr 27 13:38:51 seax kernel: [    0.582145] GHES: HEST is not enabled!
+Apr 27 13:38:51 seax kernel: [    0.582158] isapnp: Scanning for PnP cards...
+Apr 27 13:38:51 seax kernel: [    0.941912] isapnp: No Plug & Play device found
+Apr 27 13:38:51 seax kernel: [    0.941992] Serial: 8250/16550 driver, 4 ports, IRQ sharing enabled
+Apr 27 13:38:51 seax kernel: [    0.942394] Linux agpgart interface v0.103
+Apr 27 13:38:51 seax kernel: [    0.942736] i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f03:PS2M] at 0x60,0x64 irq 1,12
+Apr 27 13:38:51 seax kernel: [    0.943113] serio: i8042 KBD port at 0x60,0x64 irq 1
+Apr 27 13:38:51 seax kernel: [    0.943118] serio: i8042 AUX port at 0x60,0x64 irq 12
+Apr 27 13:38:51 seax kernel: [    0.943214] mousedev: PS/2 mouse device common for all mice
+Apr 27 13:38:51 seax kernel: [    0.943501] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input0
+Apr 27 13:38:51 seax kernel: [    0.943900] rtc_cmos rtc_cmos: rtc core: registered rtc_cmos as rtc0
+Apr 27 13:38:51 seax kernel: [    0.943923] rtc_cmos rtc_cmos: alarms up to one day, 114 bytes nvram
+Apr 27 13:38:51 seax kernel: [    0.943942] ledtrig-cpu: registered to indicate activity on CPUs
+Apr 27 13:38:51 seax kernel: [    0.944124] NET: Registered protocol family 10
+Apr 27 13:38:51 seax kernel: [    0.944353] mip6: Mobile IPv6
+Apr 27 13:38:51 seax kernel: [    0.944354] NET: Registered protocol family 17
+Apr 27 13:38:51 seax kernel: [    0.944356] mpls_gso: MPLS GSO support
+Apr 27 13:38:51 seax kernel: [    0.944445] Using IPI No-Shortcut mode
+Apr 27 13:38:51 seax kernel: [    0.944597] registered taskstats version 1
+Apr 27 13:38:51 seax kernel: [    0.944608] zswap: loaded using pool lzo/zbud
+Apr 27 13:38:51 seax kernel: [    0.944691] ima: No TPM chip found, activating TPM-bypass!
+Apr 27 13:38:51 seax kernel: [    0.945061] rtc_cmos rtc_cmos: setting system clock to 2018-04-27 17:38:49 UTC (1524850729)
+Apr 27 13:38:51 seax kernel: [    0.945085] PM: Hibernation image not present or could not be loaded.
+Apr 27 13:38:51 seax kernel: [    0.945188] Freeing unused kernel memory: 716K
+Apr 27 13:38:51 seax kernel: [    0.945215] Write protecting the kernel text: 5728k
+Apr 27 13:38:51 seax kernel: [    0.945242] Write protecting the kernel read-only data: 1708k
+Apr 27 13:38:51 seax kernel: [    0.956849] random: udevadm: uninitialized urandom read (16 bytes read)
+Apr 27 13:38:51 seax kernel: [    0.956973] random: udevadm: uninitialized urandom read (16 bytes read)
+Apr 27 13:38:51 seax kernel: [    0.957379] random: udevadm: uninitialized urandom read (16 bytes read)
+Apr 27 13:38:51 seax kernel: [    0.957448] random: udevadm: uninitialized urandom read (16 bytes read)
+Apr 27 13:38:51 seax kernel: [    0.957678] random: udevadm: uninitialized urandom read (16 bytes read)
+Apr 27 13:38:51 seax kernel: [    0.957737] random: udevadm: uninitialized urandom read (16 bytes read)
+Apr 27 13:38:51 seax kernel: [    0.957794] random: udevadm: uninitialized urandom read (16 bytes read)
+Apr 27 13:38:51 seax kernel: [    0.957848] random: udevadm: uninitialized urandom read (16 bytes read)
+Apr 27 13:38:51 seax kernel: [    0.957909] random: udevadm: uninitialized urandom read (16 bytes read)
+Apr 27 13:38:51 seax kernel: [    0.957962] random: udevadm: uninitialized urandom read (16 bytes read)
+Apr 27 13:38:51 seax kernel: [    0.982280] SCSI subsystem initialized
+Apr 27 13:38:51 seax kernel: [    0.984826] e1000: Intel(R) PRO/1000 Network Driver - version 7.3.21-k8-NAPI
+Apr 27 13:38:51 seax kernel: [    0.984827] e1000: Copyright (c) 1999-2006 Intel Corporation.
+Apr 27 13:38:51 seax kernel: [    0.993735] ACPI: bus type USB registered
+Apr 27 13:38:51 seax kernel: [    0.993754] usbcore: registered new interface driver usbfs
+Apr 27 13:38:51 seax kernel: [    0.993763] usbcore: registered new interface driver hub
+Apr 27 13:38:51 seax kernel: [    0.995390] usbcore: registered new device driver usb
+Apr 27 13:38:51 seax kernel: [    0.996173] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+Apr 27 13:38:51 seax kernel: [    0.996313] ehci-pci: EHCI PCI platform driver
+Apr 27 13:38:51 seax kernel: [    0.996788] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Apr 27 13:38:51 seax kernel: [    1.003015] libata version 3.00 loaded.
+Apr 27 13:38:51 seax kernel: [    1.208713] psmouse serio1: hgpk: ID: 10 00 64
+Apr 27 13:38:51 seax kernel: [    1.215689] input: ImExPS/2 Generic Explorer Mouse as /devices/platform/i8042/serio1/input/input2
+Apr 27 13:38:51 seax kernel: [    1.391630] e1000 0000:00:03.0 eth0: (PCI:33MHz:32-bit) 08:00:27:37:e4:4b
+Apr 27 13:38:51 seax kernel: [    1.391635] e1000 0000:00:03.0 eth0: Intel(R) PRO/1000 Network Connection
+Apr 27 13:38:51 seax kernel: [    1.391715] piix4_smbus 0000:00:07.0: SMBus Host Controller at 0x4100, revision 0
+Apr 27 13:38:51 seax kernel: [    1.392574] ehci-pci 0000:00:0b.0: EHCI Host Controller
+Apr 27 13:38:51 seax kernel: [    1.392581] ehci-pci 0000:00:0b.0: new USB bus registered, assigned bus number 1
+Apr 27 13:38:51 seax kernel: [    1.392800] ehci-pci 0000:00:0b.0: irq 9, io mem 0xf0805000
+Apr 27 13:38:51 seax kernel: [    1.394737] e1000 0000:00:03.0 enp0s3: renamed from eth0
+Apr 27 13:38:51 seax kernel: [    1.407216] ehci-pci 0000:00:0b.0: USB 2.0 started, EHCI 1.00
+Apr 27 13:38:51 seax kernel: [    1.407269] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+Apr 27 13:38:51 seax kernel: [    1.407271] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Apr 27 13:38:51 seax kernel: [    1.407272] usb usb1: Product: EHCI Host Controller
+Apr 27 13:38:51 seax kernel: [    1.407274] usb usb1: Manufacturer: Linux 4.9.0-6-686 ehci_hcd
+Apr 27 13:38:51 seax kernel: [    1.407275] usb usb1: SerialNumber: 0000:00:0b.0
+Apr 27 13:38:51 seax kernel: [    1.407542] hub 1-0:1.0: USB hub found
+Apr 27 13:38:51 seax kernel: [    1.407621] hub 1-0:1.0: 12 ports detected
+Apr 27 13:38:51 seax kernel: [    1.407948] ahci 0000:00:0d.0: version 3.0
+Apr 27 13:38:51 seax kernel: [    1.409166] ACPI: PCI Interrupt Link [LNKA] enabled at IRQ 11
+Apr 27 13:38:51 seax kernel: [    1.409168] PCI: setting IRQ 11 as level-triggered
+Apr 27 13:38:51 seax kernel: [    1.409243] ahci 0000:00:0d.0: SSS flag set, parallel bus scan disabled
+Apr 27 13:38:51 seax kernel: [    1.409377] ahci 0000:00:0d.0: AHCI 0001.0100 32 slots 1 ports 3 Gbps 0x1 impl SATA mode
+Apr 27 13:38:51 seax kernel: [    1.409379] ahci 0000:00:0d.0: flags: 64bit ncq stag only ccc 
+Apr 27 13:38:51 seax kernel: [    1.409742] ohci-pci: OHCI PCI platform driver
+Apr 27 13:38:51 seax kernel: [    1.411195] scsi host0: ahci
+Apr 27 13:38:51 seax kernel: [    1.411264] ata1: SATA max UDMA/133 abar m8192@0xf0806000 port 0xf0806100 irq 11
+Apr 27 13:38:51 seax kernel: [    1.411437] ata_piix 0000:00:01.1: version 2.13
+Apr 27 13:38:51 seax kernel: [    1.412494] scsi host1: ata_piix
+Apr 27 13:38:51 seax kernel: [    1.412638] scsi host2: ata_piix
+Apr 27 13:38:51 seax kernel: [    1.412679] ata2: PATA max UDMA/33 cmd 0x1f0 ctl 0x3f6 bmdma 0xd000 irq 14
+Apr 27 13:38:51 seax kernel: [    1.412680] ata3: PATA max UDMA/33 cmd 0x170 ctl 0x376 bmdma 0xd008 irq 15
+Apr 27 13:38:51 seax kernel: [    1.413475] ohci-pci 0000:00:06.0: OHCI PCI host controller
+Apr 27 13:38:51 seax kernel: [    1.413481] ohci-pci 0000:00:06.0: new USB bus registered, assigned bus number 2
+Apr 27 13:38:51 seax kernel: [    1.413513] ohci-pci 0000:00:06.0: irq 10, io mem 0xf0804000
+Apr 27 13:38:51 seax kernel: [    1.470880] usb usb2: New USB device found, idVendor=1d6b, idProduct=0001
+Apr 27 13:38:51 seax kernel: [    1.470882] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Apr 27 13:38:51 seax kernel: [    1.470884] usb usb2: Product: OHCI PCI host controller
+Apr 27 13:38:51 seax kernel: [    1.470885] usb usb2: Manufacturer: Linux 4.9.0-6-686 ohci_hcd
+Apr 27 13:38:51 seax kernel: [    1.470886] usb usb2: SerialNumber: 0000:00:06.0
+Apr 27 13:38:51 seax kernel: [    1.471155] hub 2-0:1.0: USB hub found
+Apr 27 13:38:51 seax kernel: [    1.471309] hub 2-0:1.0: 12 ports detected
+Apr 27 13:38:51 seax kernel: [    1.574983] ata3.00: ATAPI: VBOX CD-ROM, 1.0, max UDMA/133
+Apr 27 13:38:51 seax kernel: [    1.575460] ata3.00: configured for UDMA/33
+Apr 27 13:38:51 seax kernel: [    1.606725] tsc: Refined TSC clocksource calibration: 2494.230 MHz
+Apr 27 13:38:51 seax kernel: [    1.606728] clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x23f3ef00b85, max_idle_ns: 440795229986 ns
+Apr 27 13:38:51 seax kernel: [    1.724962] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Apr 27 13:38:51 seax kernel: [    1.725137] ata1.00: ATA-6: VBOX HARDDISK, 1.0, max UDMA/133
+Apr 27 13:38:51 seax kernel: [    1.725139] ata1.00: 8388608 sectors, multi 128: LBA48 NCQ (depth 31/32)
+Apr 27 13:38:51 seax kernel: [    1.725250] ata1.00: configured for UDMA/133
+Apr 27 13:38:51 seax kernel: [    1.725366] scsi 0:0:0:0: Direct-Access     ATA      VBOX HARDDISK    1.0  PQ: 0 ANSI: 5
+Apr 27 13:38:51 seax kernel: [    1.726017] scsi 2:0:0:0: CD-ROM            VBOX     CD-ROM           1.0  PQ: 0 ANSI: 5
+Apr 27 13:38:51 seax kernel: [    1.730391] sd 0:0:0:0: [sda] 8388608 512-byte logical blocks: (4.29 GB/4.00 GiB)
+Apr 27 13:38:51 seax kernel: [    1.730418] sd 0:0:0:0: [sda] Write Protect is off
+Apr 27 13:38:51 seax kernel: [    1.730420] sd 0:0:0:0: [sda] Mode Sense: 00 3a 00 00
+Apr 27 13:38:51 seax kernel: [    1.730431] sd 0:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+Apr 27 13:38:51 seax kernel: [    1.732885] sr 2:0:0:0: [sr0] scsi3-mmc drive: 32x/32x xa/form2 tray
+Apr 27 13:38:51 seax kernel: [    1.732888] cdrom: Uniform CD-ROM driver Revision: 3.20
+Apr 27 13:38:51 seax kernel: [    1.733468] sr 2:0:0:0: Attached scsi CD-ROM sr0
+Apr 27 13:38:51 seax kernel: [    1.734360]  sda: sda1 sda2 < sda5 >
+Apr 27 13:38:51 seax kernel: [    1.734679] sd 0:0:0:0: [sda] Attached SCSI disk
+Apr 27 13:38:51 seax kernel: [    1.743219] random: fast init done
+Apr 27 13:38:51 seax kernel: [    1.799674] PM: Starting manual resume from disk
+Apr 27 13:38:51 seax kernel: [    1.799676] PM: Hibernation image partition 8:5 present
+Apr 27 13:38:51 seax kernel: [    1.799676] PM: Looking for hibernation image.
+Apr 27 13:38:51 seax kernel: [    1.800295] PM: Image not found (code -22)
+Apr 27 13:38:51 seax kernel: [    1.800296] PM: Hibernation image not present or could not be loaded.
+Apr 27 13:38:51 seax kernel: [    1.850517] EXT4-fs (sda1): mounted filesystem with ordered data mode. Opts: (null)
+Apr 27 13:38:51 seax kernel: [    1.898457] usb 2-1: new full-speed USB device number 2 using ohci-pci
+Apr 27 13:38:51 seax kernel: [    2.001633] ip_tables: (C) 2000-2006 Netfilter Core Team
+Apr 27 13:38:51 seax kernel: [    2.207403] usb 2-1: New USB device found, idVendor=80ee, idProduct=0021
+Apr 27 13:38:51 seax kernel: [    2.207405] usb 2-1: New USB device strings: Mfr=1, Product=3, SerialNumber=0
+Apr 27 13:38:51 seax kernel: [    2.207407] usb 2-1: Product: USB Tablet
+Apr 27 13:38:51 seax kernel: [    2.207408] usb 2-1: Manufacturer: VirtualBox
+Apr 27 13:38:51 seax kernel: [    2.229148] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+Apr 27 13:38:51 seax kernel: [    2.431379] hidraw: raw HID events driver (C) Jiri Kosina
+Apr 27 13:38:51 seax kernel: [    2.457319] usbcore: registered new interface driver usbhid
+Apr 27 13:38:51 seax kernel: [    2.457320] usbhid: USB HID core driver
+Apr 27 13:38:51 seax kernel: [    2.476363] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input3
+Apr 27 13:38:51 seax kernel: [    2.476367] ACPI: Power Button [PWRF]
+Apr 27 13:38:51 seax kernel: [    2.476491] input: Sleep Button as /devices/LNXSYSTM:00/LNXSLPBN:00/input/input4
+Apr 27 13:38:51 seax kernel: [    2.476493] ACPI: Sleep Button [SLPF]
+Apr 27 13:38:51 seax kernel: [    2.485263] ACPI: AC Adapter [AC] (on-line)
+Apr 27 13:38:51 seax kernel: [    2.485699] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Apr 27 13:38:51 seax kernel: [    2.485820] input: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A03:00/LNXVIDEO:00/input/input5
+Apr 27 13:38:51 seax kernel: [    2.489994] ACPI: Battery Slot [BAT0] (battery present)
+Apr 27 13:38:51 seax kernel: [    2.539105] vboxguest: loading out-of-tree module taints kernel.
+Apr 27 13:38:51 seax kernel: [    2.551737] ACPI: PCI Interrupt Link [LNKD] enabled at IRQ 11
+Apr 27 13:38:51 seax kernel: [    2.553327] vgdrvHeartbeatInit: Setting up heartbeat to trigger every 2000 milliseconds
+Apr 27 13:38:51 seax kernel: [    2.553470] input: Unspecified device as /devices/pci0000:00/0000:00:04.0/input/input6
+Apr 27 13:38:51 seax kernel: [    2.553552] vboxguest: misc device minor 58, IRQ 11, I/O port d020, MMIO at 00000000f0400000 (size 0x400000)
+Apr 27 13:38:51 seax kernel: [    2.553553] vboxguest: Successfully loaded version 5.2.8 (interface 0x00010004)
+Apr 27 13:38:51 seax kernel: [    2.568718] input: PC Speaker as /devices/platform/pcspkr/input/input7
+Apr 27 13:38:51 seax kernel: [    2.594896] RAPL PMU: API unit is 2^-32 Joules, 5 fixed counters, 10737418240 ms ovfl timer
+Apr 27 13:38:51 seax kernel: [    2.594897] RAPL PMU: hw unit of domain pp0-core 2^-0 Joules
+Apr 27 13:38:51 seax kernel: [    2.594898] RAPL PMU: hw unit of domain package 2^-0 Joules
+Apr 27 13:38:51 seax kernel: [    2.594898] RAPL PMU: hw unit of domain dram 2^-0 Joules
+Apr 27 13:38:51 seax kernel: [    2.594899] RAPL PMU: hw unit of domain pp1-gpu 2^-0 Joules
+Apr 27 13:38:51 seax kernel: [    2.594899] RAPL PMU: hw unit of domain psys 2^-0 Joules
+Apr 27 13:38:51 seax kernel: [    2.604057] sd 0:0:0:0: Attached scsi generic sg0 type 0
+Apr 27 13:38:51 seax kernel: [    2.604086] sr 2:0:0:0: Attached scsi generic sg1 type 5
+Apr 27 13:38:51 seax kernel: [    2.614101] [drm] Initialized
+Apr 27 13:38:51 seax kernel: [    2.658944] [drm] VRAM 01000000
+Apr 27 13:38:51 seax kernel: [    2.663567] [TTM] Zone  kernel: Available graphics memory: 125204 kiB
+Apr 27 13:38:51 seax kernel: [    2.663568] [TTM] Initializing pool allocator
+Apr 27 13:38:51 seax kernel: [    2.670167] fbcon: vboxdrmfb (fb0) is primary device
+Apr 27 13:38:51 seax kernel: [    2.740638] Console: switching to colour frame buffer device 100x37
+Apr 27 13:38:51 seax kernel: [    2.741877] vboxvideo 0000:00:02.0: fb0: vboxdrmfb frame buffer device
+Apr 27 13:38:51 seax kernel: [    2.741883] [drm] Initialized vboxvideo 1.0.0 20130823 for 0000:00:02.0 on minor 0
+Apr 27 13:38:51 seax kernel: [    2.771700] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb2/2-1/2-1:1.0/0003:80EE:0021.0001/input/input8
+Apr 27 13:38:51 seax kernel: [    2.771781] hid-generic 0003:80EE:0021.0001: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Apr 27 13:38:51 seax kernel: [    2.862607] Adding 522236k swap on /dev/sda5.  Priority:-1 extents:1 across:522236k FS
+Apr 27 13:38:51 seax kernel: [    3.302295] IPv6: ADDRCONF(NETDEV_UP): enp0s3: link is not ready
+Apr 27 13:38:51 seax systemd[1]: Starting Flush Journal to Persistent Storage...
+Apr 27 13:38:51 seax systemd[1]: Started udev Coldplug all Devices.
+Apr 27 13:38:51 seax systemd[1]: Started Flush Journal to Persistent Storage.
+Apr 27 13:38:51 seax systemd[1]: Started udev Kernel Device Manager.
+Apr 27 13:38:51 seax systemd[1]: Found device 82540EM Gigabit Ethernet Controller (PRO/1000 MT Desktop Adapter).
+Apr 27 13:38:51 seax systemd[1]: Found device VBOX_HARDDISK 5.
+Apr 27 13:38:51 seax systemd[1]: Activating swap /dev/disk/by-uuid/8d6f2842-03b9-4611-9caa-db73d28fcabb...
+Apr 27 13:38:51 seax systemd[1]: Activated swap /dev/disk/by-uuid/8d6f2842-03b9-4611-9caa-db73d28fcabb.
+Apr 27 13:38:51 seax systemd[1]: Reached target Swap.
+Apr 27 13:38:51 seax systemd[1]: Started Set the console keyboard layout.
+Apr 27 13:38:51 seax systemd[1]: Reached target Local File Systems (Pre).
+Apr 27 13:38:51 seax systemd[1]: Reached target Local File Systems.
+Apr 27 13:38:51 seax systemd[1]: Starting Raise network interfaces...
+Apr 27 13:38:51 seax systemd[1]: Starting Create Volatile Files and Directories...
+Apr 27 13:38:51 seax systemd[1]: Starting Set console font and keymap...
+Apr 27 13:38:51 seax systemd[1]: Started ifup for enp0s3.
+Apr 27 13:38:51 seax systemd[1]: Started Create Volatile Files and Directories.
+Apr 27 13:38:51 seax systemd[1]: Starting Update UTMP about System Boot/Shutdown...
+Apr 27 13:38:51 seax systemd[1]: Started Set console font and keymap.
+Apr 27 13:38:51 seax systemd[1]: Started Update UTMP about System Boot/Shutdown.
+Apr 27 13:38:51 seax systemd[1]: Reached target System Initialization.
+Apr 27 13:38:51 seax systemd[1]: Started Daily Cleanup of Temporary Directories.
+Apr 27 13:38:51 seax systemd[1]: Listening on D-Bus System Message Bus Socket.
+Apr 27 13:38:51 seax systemd[1]: Reached target Sockets.
+Apr 27 13:38:51 seax systemd[1]: apt-daily.timer: Adding 4h 23min 45.818371s random time.
+Apr 27 13:38:51 seax systemd[1]: Started Daily apt download activities.
+Apr 27 13:38:51 seax systemd[1]: Reached target Basic System.
+Apr 27 13:38:51 seax systemd[1]: Started D-Bus System Message Bus.
+Apr 27 13:38:51 seax systemd[1]: Started Regular background program processing daemon.
+Apr 27 13:38:51 seax systemd[1]: Starting vboxadd.service...
+Apr 27 13:38:51 seax systemd[1]: Starting System Logging Service...
+Apr 27 13:38:51 seax systemd[1]: Started irqbalance daemon.
+Apr 27 13:38:51 seax systemd[1]: anacron.timer: Adding 4min 6.462122s random time.
+Apr 27 13:38:51 seax systemd[1]: Started Trigger anacron every hour.
+Apr 27 13:38:51 seax systemd[1]: Started Run anacron jobs.
+Apr 27 13:38:51 seax systemd[1]: anacron.timer: Adding 1min 33.963358s random time.
+Apr 27 13:38:51 seax systemd[1]: anacron.timer: Adding 4min 51.948991s random time.
+Apr 27 13:38:51 seax systemd[1]: Starting Login Service...
+Apr 27 13:38:51 seax systemd[1]: apt-daily-upgrade.timer: Adding 10min 40.356620s random time.
+Apr 27 13:38:51 seax systemd[1]: Started Daily apt upgrade and clean activities.
+Apr 27 13:38:51 seax systemd[1]: Reached target Timers.
+Apr 27 13:38:51 seax liblogging-stdlog:  [origin software="rsyslogd" swVersion="8.24.0" x-pid="343" x-info="http://www.rsyslog.com"] start
+Apr 27 13:38:51 seax systemd[1]: Started System Logging Service.
+Apr 27 13:38:51 seax anacron[345]: Anacron 2.3 started on 2018-04-27
+Apr 27 13:38:51 seax anacron[345]: Will run job `cron.daily' in 5 min.
+Apr 27 13:38:51 seax anacron[345]: Jobs will be executed sequentially
+Apr 27 13:38:51 seax cron[341]: (CRON) INFO (pidfile fd = 3)
+Apr 27 13:38:51 seax cron[341]: (CRON) INFO (Running @reboot jobs)
+Apr 27 13:38:51 seax /usr/sbin/irqbalance: Balancing is ineffective on systems with a single cpu.  Shutting down
+Apr 27 13:38:51 seax systemd[1]: Started Login Service.
+Apr 27 13:38:52 seax sh[297]: enp0s3=enp0s3
+Apr 27 13:38:52 seax systemd[1]: Started Raise network interfaces.
+Apr 27 13:38:52 seax systemd[1]: Reached target Network.
+Apr 27 13:38:52 seax systemd[1]: Starting Permit User Sessions...
+Apr 27 13:38:52 seax systemd[1]: Starting OpenBSD Secure Shell server...
+Apr 27 13:38:52 seax systemd[1]: Reached target Network is Online.
+Apr 27 13:38:52 seax systemd[1]: Starting LSB: exim Mail Transport Agent...
+Apr 27 13:38:52 seax systemd[1]: Started Permit User Sessions.
+Apr 27 13:38:52 seax systemd[1]: Started Getty on tty1.
+Apr 27 13:38:52 seax systemd[1]: Reached target Login Prompts.
+Apr 27 13:38:52 seax kernel: [    3.659166] snd_intel8x0 0000:00:05.0: white list rate for 1028:0177 is 48000
+Apr 27 13:38:52 seax systemd[1]: Reached target Sound Card.
+Apr 27 13:38:52 seax systemd[1]: Started OpenBSD Secure Shell server.
+Apr 27 13:38:52 seax vboxadd[342]: VirtualBox Guest Additions: Starting.
+Apr 27 13:38:52 seax vboxadd[342]: /opt/VBoxGuestAdditions-5.2.8/init/vboxadd: 256: /opt/VBoxGuestAdditions-5.2.8/init/vboxadd: cannot create : Directory nonexistent
+Apr 27 13:38:52 seax kernel: [    3.825653] vboxsf: Successfully loaded version 5.2.8 (interface 0x00010004)
+Apr 27 13:38:52 seax systemd[1]: Started vboxadd.service.
+Apr 27 13:38:52 seax systemd[1]: Starting vboxadd-service.service...
+Apr 27 13:38:52 seax vboxadd-service[511]: vboxadd-service.sh: Starting VirtualBox Guest Addition service.
+Apr 27 13:38:52 seax vboxadd-service.sh: Starting VirtualBox Guest Addition service.
+Apr 27 13:38:52 seax kernel: [    3.918962] VBoxService 5.2.8 r121009 (verbosity: 0) linux.x86 (Feb 26 2018 16:01:06) release log
+Apr 27 13:38:52 seax kernel: [    3.918962] 00:00:00.000193 main     Log opened 2018-04-27T17:38:52.473780000Z
+Apr 27 13:38:52 seax kernel: [    3.919013] 00:00:00.000333 main     OS Product: Linux
+Apr 27 13:38:52 seax kernel: [    3.919039] 00:00:00.000367 main     OS Release: 4.9.0-6-686
+Apr 27 13:38:52 seax kernel: [    3.919067] 00:00:00.000393 main     OS Version: #1 SMP Debian 4.9.82-1+deb9u3 (2018-03-02)
+Apr 27 13:38:52 seax kernel: [    3.919111] 00:00:00.000421 main     Executable: /opt/VBoxGuestAdditions-5.2.8/sbin/VBoxService
+Apr 27 13:38:52 seax kernel: [    3.919111] 00:00:00.000422 main     Process ID: 543
+Apr 27 13:38:52 seax kernel: [    3.919111] 00:00:00.000423 main     Package type: LINUX_32BITS_GENERIC
+Apr 27 13:38:52 seax vboxadd-service.sh: VirtualBox Guest Addition service started.
+Apr 27 13:38:52 seax kernel: [    3.924352] 00:00:00.005654 main     5.2.8 r121009 started. Verbose level = 0
+Apr 27 13:38:52 seax systemd[1]: Started vboxadd-service.service.
+May  1 05:10:35 seax systemd[1]: Time has been changed
+May  1 05:10:35 seax systemd[1]: apt-daily.timer: Adding 5h 4min 26.986311s random time.
+May  1 05:10:35 seax systemd[1]: apt-daily-upgrade.timer: Adding 1min 38.282180s random time.
+May  1 05:10:35 seax systemd[1]: anacron.timer: Adding 4min 8.752147s random time.
+May  1 05:10:35 seax kernel: [    3.944183] 00:00:00.025485 automount vbsvcAutoMountWorker: Shared folder 'p6' was mounted to '/media/sf_p6'
+May  1 05:10:36 seax kernel: [    5.318914] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+May  1 05:10:36 seax kernel: [    5.319322] IPv6: ADDRCONF(NETDEV_CHANGE): enp0s3: link becomes ready
+May  1 05:10:37 seax exim4[394]: Starting MTA: exim4.
+May  1 05:10:37 seax systemd[1]: Started LSB: exim Mail Transport Agent.
+May  1 05:10:37 seax systemd[1]: Reached target Multi-User System.
+May  1 05:10:37 seax systemd[1]: Reached target Graphical Interface.
+May  1 05:10:37 seax systemd[1]: Starting Update UTMP about System Runlevel Changes...
+May  1 05:10:37 seax kernel: [    6.360992] random: crng init done
+May  1 05:10:37 seax systemd[1]: Started Update UTMP about System Runlevel Changes.
+May  1 05:10:37 seax systemd[1]: Startup finished in 1.795s (kernel) + 4.405s (userspace) = 6.200s.
+May  1 05:10:40 seax systemd[1]: Created slice User Slice of entel.
+May  1 05:10:40 seax systemd[1]: Starting User Manager for UID 1000...
+May  1 05:10:40 seax systemd[1]: Started Session 1 of user entel.
+May  1 05:10:40 seax systemd[691]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+May  1 05:10:40 seax systemd[691]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+May  1 05:10:40 seax systemd[691]: Listening on GnuPG cryptographic agent and passphrase cache.
+May  1 05:10:40 seax systemd[691]: Reached target Timers.
+May  1 05:10:40 seax systemd[691]: Listening on GnuPG cryptographic agent (access for web browsers).
+May  1 05:10:40 seax systemd[691]: Reached target Sockets.
+May  1 05:10:40 seax systemd[691]: Reached target Paths.
+May  1 05:10:40 seax systemd[691]: Reached target Basic System.
+May  1 05:10:40 seax systemd[691]: Reached target Default.
+May  1 05:10:40 seax systemd[691]: Startup finished in 24ms.
+May  1 05:10:40 seax systemd[1]: Started User Manager for UID 1000.
+May  1 05:10:45 seax kernel: [   13.936091] 00:00:10.017389 timesync vgsvcTimeSyncWorker: Radical guest time change: 315 113 034 677 000ns (GuestNow=1 525 165 845 522 323 000 ns GuestLast=1 524 850 732 487 646 000 ns fSetTimeLastLoop=true )
+May  1 05:15:34 seax anacron[345]: Job `cron.daily' started
+May  1 05:15:34 seax anacron[731]: Updated timestamp for job `cron.daily' to 2018-05-01
+May  1 05:15:35 seax anacron[345]: Job `cron.daily' terminated
+May  1 05:15:35 seax anacron[345]: Normal exit (1 job run)
+May  1 05:15:35 seax systemd[1]: anacron.timer: Adding 42.752613s random time.
+May  1 05:17:01 seax CRON[809]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+May  1 05:25:42 seax systemd[1]: Starting Cleanup of Temporary Directories...
+May  1 05:25:42 seax systemd[1]: Started Cleanup of Temporary Directories.
+May  1 06:01:02 seax systemd[1]: Started Run anacron jobs.
+May  1 06:01:02 seax anacron[943]: Anacron 2.3 started on 2018-05-01
+May  1 06:01:02 seax anacron[943]: Will run job `cron.daily' in 5 min.
+May  1 06:01:02 seax anacron[943]: Jobs will be executed sequentially
+May  1 06:02:02 seax systemd[1]: Starting Daily apt upgrade and clean activities...
+May  1 06:02:03 seax systemd[1]: Started Daily apt upgrade and clean activities.
+May  1 06:02:03 seax systemd[1]: apt-daily-upgrade.timer: Adding 30min 50.604103s random time.
+May  1 06:02:03 seax systemd[1]: apt-daily-upgrade.timer: Adding 11min 49.002165s random time.
+May  1 06:06:02 seax anacron[943]: Job `cron.daily' started
+May  1 06:06:02 seax anacron[995]: Updated timestamp for job `cron.daily' to 2018-05-01
+May  1 06:06:02 seax anacron[943]: Job `cron.daily' terminated
+May  1 06:06:02 seax anacron[943]: Normal exit (1 job run)
+May  1 06:06:02 seax systemd[1]: anacron.timer: Adding 4min 23.523537s random time.
+May  1 06:17:01 seax CRON[1075]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+May  1 06:25:01 seax CRON[1080]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+May  1 06:52:01 seax CRON[1123]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.monthly ))
+May  1 07:04:30 seax systemd[1]: Started Run anacron jobs.
+May  1 07:04:30 seax anacron[1148]: Anacron 2.3 started on 2018-05-01
+May  1 07:04:30 seax anacron[1148]: Normal exit (0 jobs run)
+May  1 07:04:30 seax systemd[1]: anacron.timer: Adding 4min 59.392055s random time.
+May  1 07:17:01 seax CRON[1155]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+May  1 07:30:01 seax CRON[1160]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+May  1 08:05:02 seax systemd[1]: Started Run anacron jobs.
+May  1 08:05:02 seax anacron[1226]: Anacron 2.3 started on 2018-05-01
+May  1 08:05:02 seax anacron[1226]: Normal exit (0 jobs run)
+May  1 08:05:02 seax systemd[1]: anacron.timer: Adding 3min 38.998499s random time.
+May  1 08:17:01 seax CRON[1232]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+May  1 09:03:42 seax systemd[1]: Started Run anacron jobs.
+May  1 09:03:42 seax anacron[1244]: Anacron 2.3 started on 2018-05-01
+May  1 09:03:42 seax anacron[1244]: Normal exit (0 jobs run)
+May  1 09:03:42 seax systemd[1]: anacron.timer: Adding 2min 23.974836s random time.
+May  1 09:17:01 seax CRON[1251]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+May  1 10:02:30 seax systemd[1]: Started Run anacron jobs.
+May  1 10:02:30 seax anacron[1301]: Anacron 2.3 started on 2018-05-01
+May  1 10:02:30 seax anacron[1301]: Normal exit (0 jobs run)
+May  1 10:02:30 seax systemd[1]: anacron.timer: Adding 2min 32.726944s random time.
+May  1 10:17:01 seax CRON[1308]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+May  1 11:03:02 seax systemd[1]: Started Run anacron jobs.
+May  1 11:03:02 seax anacron[1565]: Anacron 2.3 started on 2018-05-01
+May  1 11:03:02 seax anacron[1565]: Normal exit (0 jobs run)
+May  1 11:03:02 seax systemd[1]: anacron.timer: Adding 4min 4.326936s random time.
+May  1 11:04:30 seax systemd[1]: Starting Daily apt download activities...
+May  1 11:04:31 seax systemd[1]: Started Daily apt download activities.
+May  1 11:04:31 seax systemd[1]: apt-daily.timer: Adding 11h 13min 10.272645s random time.
+May  1 11:04:31 seax systemd[1]: apt-daily.timer: Adding 8h 59.709575s random time.
+May  1 11:17:01 seax CRON[1617]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+May  1 12:04:30 seax systemd[1]: Started Run anacron jobs.
+May  1 12:04:30 seax anacron[1629]: Anacron 2.3 started on 2018-05-01
+May  1 12:04:30 seax anacron[1629]: Normal exit (0 jobs run)
+May  1 12:04:30 seax systemd[1]: anacron.timer: Adding 2min 25.300957s random time.
+May  1 12:17:01 seax CRON[1636]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+May  1 13:02:30 seax systemd[1]: Started Run anacron jobs.
+May  1 13:02:30 seax anacron[1647]: Anacron 2.3 started on 2018-05-01
+May  1 13:02:30 seax anacron[1647]: Normal exit (0 jobs run)
+May  1 13:02:30 seax systemd[1]: anacron.timer: Adding 25.788883s random time.
+May  1 13:17:01 seax CRON[1654]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+May  1 14:00:30 seax systemd[1]: Started Run anacron jobs.
+May  1 14:00:30 seax anacron[1695]: Anacron 2.3 started on 2018-05-01
+May  1 14:00:30 seax anacron[1695]: Normal exit (0 jobs run)
+May  1 14:00:30 seax systemd[1]: anacron.timer: Adding 1min 39.679959s random time.
+May  1 14:17:01 seax CRON[1703]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+May  1 15:02:02 seax systemd[1]: Started Run anacron jobs.
+May  1 15:02:02 seax anacron[1714]: Anacron 2.3 started on 2018-05-01
+May  1 15:02:02 seax anacron[1714]: Normal exit (0 jobs run)
+May  1 15:02:02 seax systemd[1]: anacron.timer: Adding 1min 41.802932s random time.
+May  1 15:17:01 seax CRON[1721]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+May  1 15:56:14 seax systemd[1]: Stopping Session 1 of user entel.
+May  1 15:56:14 seax systemd[1]: Stopped target Graphical Interface.
+May  1 15:56:14 seax systemd[1]: Stopped target Multi-User System.
+May  1 15:56:14 seax systemd[1]: Stopping D-Bus System Message Bus...
+May  1 15:56:14 seax systemd[1]: Stopped target Login Prompts.
+May  1 15:56:14 seax systemd[1]: Stopping Getty on tty1...
+May  3 05:17:26 seax kernel: [    0.000000] Linux version 4.9.0-6-686 (debian-kernel@lists.debian.org) (gcc version 6.3.0 20170516 (Debian 6.3.0-18+deb9u1) ) #1 SMP Debian 4.9.82-1+deb9u3 (2018-03-02)
+May  3 05:17:26 seax kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+May  3 05:17:26 seax kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+May  3 05:17:26 seax kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x004: 'AVX registers'
+May  3 05:17:26 seax kernel: [    0.000000] x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+May  3 05:17:26 seax kernel: [    0.000000] x86/fpu: Enabled xstate features 0x7, context size is 832 bytes, using 'standard' format.
+May  3 05:17:26 seax kernel: [    0.000000] x86/fpu: Using 'eager' FPU context switches.
+May  3 05:17:26 seax kernel: [    0.000000] e820: BIOS-provided physical RAM map:
+May  3 05:17:26 seax kernel: [    0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
+May  3 05:17:26 seax kernel: [    0.000000] BIOS-e820: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+May  3 05:17:26 seax kernel: [    0.000000] BIOS-e820: [mem 0x00000000000f0000-0x00000000000fffff] reserved
+May  3 05:17:26 seax kernel: [    0.000000] BIOS-e820: [mem 0x0000000000100000-0x000000000ffeffff] usable
+May  3 05:17:26 seax kernel: [    0.000000] BIOS-e820: [mem 0x000000000fff0000-0x000000000fffffff] ACPI data
+May  3 05:17:26 seax kernel: [    0.000000] BIOS-e820: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+May  3 05:17:26 seax kernel: [    0.000000] BIOS-e820: [mem 0x00000000fee00000-0x00000000fee00fff] reserved
+May  3 05:17:26 seax kernel: [    0.000000] BIOS-e820: [mem 0x00000000fffc0000-0x00000000ffffffff] reserved
+May  3 05:17:26 seax kernel: [    0.000000] Notice: NX (Execute Disable) protection missing in CPU!
+May  3 05:17:26 seax kernel: [    0.000000] SMBIOS 2.5 present.
+May  3 05:17:26 seax kernel: [    0.000000] DMI: innotek GmbH VirtualBox/VirtualBox, BIOS VirtualBox 12/01/2006
+May  3 05:17:26 seax kernel: [    0.000000] Hypervisor detected: KVM
+May  3 05:17:26 seax kernel: [    0.000000] e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+May  3 05:17:26 seax kernel: [    0.000000] e820: remove [mem 0x000a0000-0x000fffff] usable
+May  3 05:17:26 seax kernel: [    0.000000] e820: last_pfn = 0xfff0 max_arch_pfn = 0x100000
+May  3 05:17:26 seax kernel: [    0.000000] MTRR default type: uncachable
+May  3 05:17:26 seax kernel: [    0.000000] MTRR variable ranges disabled:
+May  3 05:17:26 seax kernel: [    0.000000] MTRR: Disabled
+May  3 05:17:26 seax kernel: [    0.000000] x86/PAT: MTRRs disabled, skipping PAT initialization too.
+May  3 05:17:26 seax kernel: [    0.000000] CPU MTRRs all blank - virtualized system.
+May  3 05:17:26 seax kernel: [    0.000000] x86/PAT: Configuration [0-7]: WB  WT  UC- UC  WB  WT  UC- UC  
+May  3 05:17:26 seax kernel: [    0.000000] initial memory mapped: [mem 0x00000000-0x05bfffff]
+May  3 05:17:26 seax kernel: [    0.000000] Base memory trampoline at [c009b000] 9b000 size 16384
+May  3 05:17:26 seax kernel: [    0.000000] BRK [0x05929000, 0x05929fff] PGTABLE
+May  3 05:17:26 seax kernel: [    0.000000] RAMDISK: [mem 0x0e808000-0x0f853fff]
+May  3 05:17:26 seax kernel: [    0.000000] ACPI: Early table checksum verification disabled
+May  3 05:17:26 seax kernel: [    0.000000] ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+May  3 05:17:26 seax kernel: [    0.000000] ACPI: XSDT 0x000000000FFF0030 000034 (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+May  3 05:17:26 seax kernel: [    0.000000] ACPI: FACP 0x000000000FFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+May  3 05:17:26 seax kernel: [    0.000000] ACPI: DSDT 0x000000000FFF0410 0021FF (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+May  3 05:17:26 seax kernel: [    0.000000] ACPI: FACS 0x000000000FFF0200 000040
+May  3 05:17:26 seax kernel: [    0.000000] ACPI: FACS 0x000000000FFF0200 000040
+May  3 05:17:26 seax kernel: [    0.000000] ACPI: SSDT 0x000000000FFF0240 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+May  3 05:17:26 seax kernel: [    0.000000] 0MB HIGHMEM available.
+May  3 05:17:26 seax kernel: [    0.000000] 255MB LOWMEM available.
+May  3 05:17:26 seax kernel: [    0.000000]   mapped low ram: 0 - 0fff0000
+May  3 05:17:26 seax kernel: [    0.000000]   low ram: 0 - 0fff0000
+May  3 05:17:26 seax kernel: [    0.000000] kvm-clock: Using msrs 4b564d01 and 4b564d00
+May  3 05:17:26 seax kernel: [    0.000000] kvm-clock: cpu 0, msr 0:ffef001, primary cpu clock
+May  3 05:17:26 seax kernel: [    0.000000] kvm-clock: using sched offset of 10064387536 cycles
+May  3 05:17:26 seax kernel: [    0.000000] clocksource: kvm-clock: mask: 0xffffffffffffffff max_cycles: 0x1cd42e4dffb, max_idle_ns: 881590591483 ns
+May  3 05:17:26 seax kernel: [    0.000000] Zone ranges:
+May  3 05:17:26 seax kernel: [    0.000000]   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+May  3 05:17:26 seax kernel: [    0.000000]   Normal   [mem 0x0000000001000000-0x000000000ffeffff]
+May  3 05:17:26 seax kernel: [    0.000000]   HighMem  empty
+May  3 05:17:26 seax kernel: [    0.000000] Movable zone start for each node
+May  3 05:17:26 seax kernel: [    0.000000] Early memory node ranges
+May  3 05:17:26 seax kernel: [    0.000000]   node   0: [mem 0x0000000000001000-0x000000000009efff]
+May  3 05:17:26 seax kernel: [    0.000000]   node   0: [mem 0x0000000000100000-0x000000000ffeffff]
+May  3 05:17:26 seax kernel: [    0.000000] Initmem setup node 0 [mem 0x0000000000001000-0x000000000ffeffff]
+May  3 05:17:26 seax kernel: [    0.000000] On node 0 totalpages: 65422
+May  3 05:17:26 seax kernel: [    0.000000] free_area_init_node: node 0, pgdat c57ca440, node_mem_map cfdaf024
+May  3 05:17:26 seax kernel: [    0.000000]   DMA zone: 36 pages used for memmap
+May  3 05:17:26 seax kernel: [    0.000000]   DMA zone: 0 pages reserved
+May  3 05:17:26 seax kernel: [    0.000000]   DMA zone: 3998 pages, LIFO batch:0
+May  3 05:17:26 seax kernel: [    0.000000]   Normal zone: 540 pages used for memmap
+May  3 05:17:26 seax kernel: [    0.000000]   Normal zone: 61424 pages, LIFO batch:15
+May  3 05:17:26 seax kernel: [    0.000000] Using APIC driver default
+May  3 05:17:26 seax kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x4008
+May  3 05:17:26 seax kernel: [    0.000000] Found and enabled local APIC!
+May  3 05:17:26 seax kernel: [    0.000000] smpboot: Boot CPU (id 0) not listed by BIOS
+May  3 05:17:26 seax kernel: [    0.000000] smpboot: Allowing 1 CPUs, 0 hotplug CPUs
+May  3 05:17:26 seax kernel: [    0.000000] PM: Registered nosave memory: [mem 0x00000000-0x00000fff]
+May  3 05:17:26 seax kernel: [    0.000000] PM: Registered nosave memory: [mem 0x0009f000-0x0009ffff]
+May  3 05:17:26 seax kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000a0000-0x000effff]
+May  3 05:17:26 seax kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000f0000-0x000fffff]
+May  3 05:17:26 seax kernel: [    0.000000] e820: [mem 0x10000000-0xfebfffff] available for PCI devices
+May  3 05:17:26 seax kernel: [    0.000000] Booting paravirtualized kernel on KVM
+May  3 05:17:26 seax kernel: [    0.000000] clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+May  3 05:17:26 seax kernel: [    0.000000] setup_percpu: NR_CPUS:32 nr_cpumask_bits:32 nr_cpu_ids:1 nr_node_ids:1
+May  3 05:17:26 seax kernel: [    0.000000] percpu: Embedded 19 pages/cpu @cfd99000 s47948 r0 d29876 u77824
+May  3 05:17:26 seax kernel: [    0.000000] pcpu-alloc: s47948 r0 d29876 u77824 alloc=19*4096
+May  3 05:17:26 seax kernel: [    0.000000] pcpu-alloc: [0] 0 
+May  3 05:17:26 seax kernel: [    0.000000] PV qspinlock hash table entries: 512 (order: 0, 4096 bytes)
+May  3 05:17:26 seax kernel: [    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 64846
+May  3 05:17:26 seax kernel: [    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-4.9.0-6-686 root=UUID=d4fbc9c2-8b67-4039-b33f-d81794e0dc19 ro quiet
+May  3 05:17:26 seax kernel: [    0.000000] PID hash table entries: 1024 (order: 0, 4096 bytes)
+May  3 05:17:26 seax kernel: [    0.000000] Dentry cache hash table entries: 32768 (order: 5, 131072 bytes)
+May  3 05:17:26 seax kernel: [    0.000000] Inode-cache hash table entries: 16384 (order: 4, 65536 bytes)
+May  3 05:17:26 seax kernel: [    0.000000] Initializing CPU#0
+May  3 05:17:26 seax kernel: [    0.000000] Initializing HighMem for node 0 (00000000:00000000)
+May  3 05:17:26 seax kernel: [    0.000000] Memory: 232932K/261688K available (5723K kernel code, 648K rwdata, 1704K rodata, 716K init, 452K bss, 28756K reserved, 0K cma-reserved, 0K highmem)
+May  3 05:17:26 seax kernel: [    0.000000] virtual kernel memory layout:
+May  3 05:17:26 seax kernel: [    0.000000]     fixmap  : 0xffd36000 - 0xfffff000   (2852 kB)
+May  3 05:17:26 seax kernel: [    0.000000]     pkmap   : 0xff800000 - 0xffc00000   (4096 kB)
+May  3 05:17:26 seax kernel: [    0.000000]     vmalloc : 0xd07f0000 - 0xff7fe000   ( 752 MB)
+May  3 05:17:26 seax kernel: [    0.000000]     lowmem  : 0xc0000000 - 0xcfff0000   ( 255 MB)
+May  3 05:17:26 seax kernel: [    0.000000]       .init : 0xc57e7000 - 0xc589a000   ( 716 kB)
+May  3 05:17:26 seax kernel: [    0.000000]       .data : 0xc559710a - 0xc57e5100   (2359 kB)
+May  3 05:17:26 seax kernel: [    0.000000]       .text : 0xc5000000 - 0xc559710a   (5724 kB)
+May  3 05:17:26 seax kernel: [    0.000000] Checking if this processor honours the WP bit even in supervisor mode...Ok.
+May  3 05:17:26 seax kernel: [    0.000000] Hierarchical RCU implementation.
+May  3 05:17:26 seax kernel: [    0.000000] 	Build-time adjustment of leaf fanout to 32.
+May  3 05:17:26 seax kernel: [    0.000000] 	RCU restricting CPUs from NR_CPUS=32 to nr_cpu_ids=1.
+May  3 05:17:26 seax kernel: [    0.000000] RCU: Adjusting geometry for rcu_fanout_leaf=32, nr_cpu_ids=1
+May  3 05:17:26 seax kernel: [    0.000000] NR_IRQS:2304 nr_irqs:32 16
+May  3 05:17:26 seax kernel: [    0.000000] CPU 0 irqstacks, hard=ce42e000 soft=ce430000
+May  3 05:17:26 seax kernel: [    0.000000] Console: colour VGA+ 80x25
+May  3 05:17:26 seax kernel: [    0.000000] console [tty0] enabled
+May  3 05:17:26 seax kernel: [    0.000000] tsc: Detected 2496.002 MHz processor
+May  3 05:17:26 seax kernel: [    0.038387] Calibrating delay loop (skipped) preset value.. 4992.00 BogoMIPS (lpj=9984008)
+May  3 05:17:26 seax kernel: [    0.038391] pid_max: default: 32768 minimum: 301
+May  3 05:17:26 seax kernel: [    0.038427] ACPI: Core revision 20160831
+May  3 05:17:26 seax kernel: [    0.040941] ACPI: 2 ACPI AML tables successfully acquired and loaded
+May  3 05:17:26 seax kernel: [    0.040956] ACPI: setting ELCR to 0200 (from 0e00)
+May  3 05:17:26 seax kernel: [    0.040994] Security Framework initialized
+May  3 05:17:26 seax kernel: [    0.040996] Yama: disabled by default; enable with sysctl kernel.yama.*
+May  3 05:17:26 seax kernel: [    0.041003] AppArmor: AppArmor disabled by boot time parameter
+May  3 05:17:26 seax kernel: [    0.041018] Mount-cache hash table entries: 1024 (order: 0, 4096 bytes)
+May  3 05:17:26 seax kernel: [    0.041020] Mountpoint-cache hash table entries: 1024 (order: 0, 4096 bytes)
+May  3 05:17:26 seax kernel: [    0.041305] CPU: Physical Processor ID: 0
+May  3 05:17:26 seax kernel: [    0.041322] mce: CPU supports 0 MCE banks
+May  3 05:17:26 seax kernel: [    0.041343] process: using mwait in idle threads
+May  3 05:17:26 seax kernel: [    0.041379] Last level iTLB entries: 4KB 64, 2MB 8, 4MB 8
+May  3 05:17:26 seax kernel: [    0.041382] Last level dTLB entries: 4KB 64, 2MB 0, 4MB 0, 1GB 4
+May  3 05:17:26 seax kernel: [    0.041386] Spectre V2 : Mitigation: Full generic retpoline
+May  3 05:17:26 seax kernel: [    0.041388] Spectre V2 : Filling RSB on context switch
+May  3 05:17:26 seax kernel: [    0.060992] Freeing SMP alternatives memory: 24K
+May  3 05:17:26 seax kernel: [    0.069120] ftrace: allocating 23721 entries in 47 pages
+May  3 05:17:26 seax kernel: [    0.127301] smpboot: Max logical packages: 1
+May  3 05:17:26 seax kernel: [    0.127317] smpboot: SMP motherboard not detected
+May  3 05:17:26 seax kernel: [    0.127317] smpboot: SMP disabled
+May  3 05:17:26 seax kernel: [    0.127321] Enabling APIC mode:  Flat.  Using 0 I/O APICs
+May  3 05:17:26 seax kernel: [    0.235585] Performance Events: unsupported p6 CPU model 78 no PMU driver, software events only.
+May  3 05:17:26 seax kernel: [    0.235605] KVM setup paravirtual spinlock
+May  3 05:17:26 seax kernel: [    0.236097] x86: Booted up 1 node, 1 CPUs
+May  3 05:17:26 seax kernel: [    0.236098] smpboot: Total of 1 processors activated (4992.00 BogoMIPS)
+May  3 05:17:26 seax kernel: [    0.236206] devtmpfs: initialized
+May  3 05:17:26 seax kernel: [    0.236448] clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645041785100000 ns
+May  3 05:17:26 seax kernel: [    0.236451] futex hash table entries: 256 (order: 2, 16384 bytes)
+May  3 05:17:26 seax kernel: [    0.236474] pinctrl core: initialized pinctrl subsystem
+May  3 05:17:26 seax kernel: [    0.236597] NET: Registered protocol family 16
+May  3 05:17:26 seax kernel: [    0.236805] cpuidle: using governor ladder
+May  3 05:17:26 seax kernel: [    0.236806] cpuidle: using governor menu
+May  3 05:17:26 seax kernel: [    0.236889] ACPI: bus type PCI registered
+May  3 05:17:26 seax kernel: [    0.236891] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+May  3 05:17:26 seax kernel: [    0.237113] PCI: PCI BIOS revision 2.10 entry at 0xfda26, last bus=0
+May  3 05:17:26 seax kernel: [    0.237114] PCI: Using configuration type 1 for base access
+May  3 05:17:26 seax kernel: [    0.238481] HugeTLB registered 4 MB page size, pre-allocated 0 pages
+May  3 05:17:26 seax kernel: [    0.238680] ACPI: Added _OSI(Module Device)
+May  3 05:17:26 seax kernel: [    0.238682] ACPI: Added _OSI(Processor Device)
+May  3 05:17:26 seax kernel: [    0.238683] ACPI: Added _OSI(3.0 _SCP Extensions)
+May  3 05:17:26 seax kernel: [    0.238684] ACPI: Added _OSI(Processor Aggregator Device)
+May  3 05:17:26 seax kernel: [    0.239054] ACPI: Executed 1 blocks of module-level executable AML code
+May  3 05:17:26 seax kernel: [    0.242934] ACPI: Interpreter enabled
+May  3 05:17:26 seax kernel: [    0.242951] ACPI: (supports S0 S5)
+May  3 05:17:26 seax kernel: [    0.242953] ACPI: Using PIC for interrupt routing
+May  3 05:17:26 seax kernel: [    0.243157] PCI: Ignoring host bridge windows from ACPI; if necessary, use "pci=use_crs" and report a bug
+May  3 05:17:26 seax kernel: [    0.249124] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+May  3 05:17:26 seax kernel: [    0.249129] acpi PNP0A03:00: _OSC: OS supports [ASPM ClockPM Segments MSI]
+May  3 05:17:26 seax kernel: [    0.249150] acpi PNP0A03:00: _OSC: not requesting OS control; OS requires [ExtendedConfig ASPM ClockPM MSI]
+May  3 05:17:26 seax kernel: [    0.249154] acpi PNP0A03:00: fail to add MMCONFIG information, can't access extended PCI configuration space under this bridge.
+May  3 05:17:26 seax kernel: [    0.249244] acpi PNP0A03:00: host bridge window [io  0x0cf8-0x0cff] (ignored)
+May  3 05:17:26 seax kernel: [    0.249246] acpi PNP0A03:00: host bridge window [io  0x0000-0x0cf7 window] (ignored)
+May  3 05:17:26 seax kernel: [    0.249248] acpi PNP0A03:00: host bridge window [io  0x0d00-0xffff window] (ignored)
+May  3 05:17:26 seax kernel: [    0.249249] acpi PNP0A03:00: host bridge window [mem 0x000a0000-0x000bffff window] (ignored)
+May  3 05:17:26 seax kernel: [    0.249251] acpi PNP0A03:00: host bridge window [mem 0x10000000-0xfdffffff window] (ignored)
+May  3 05:17:26 seax kernel: [    0.249252] PCI: root bus 00: using default resources
+May  3 05:17:26 seax kernel: [    0.249558] PCI host bridge to bus 0000:00
+May  3 05:17:26 seax kernel: [    0.249560] pci_bus 0000:00: root bus resource [io  0x0000-0xffff]
+May  3 05:17:26 seax kernel: [    0.249562] pci_bus 0000:00: root bus resource [mem 0x00000000-0xffffffff]
+May  3 05:17:26 seax kernel: [    0.249564] pci_bus 0000:00: root bus resource [bus 00-ff]
+May  3 05:17:26 seax kernel: [    0.249619] pci 0000:00:00.0: [8086:1237] type 00 class 0x060000
+May  3 05:17:26 seax kernel: [    0.250557] pci 0000:00:01.0: [8086:7000] type 00 class 0x060100
+May  3 05:17:26 seax kernel: [    0.251646] pci 0000:00:01.1: [8086:7111] type 00 class 0x01018a
+May  3 05:17:26 seax kernel: [    0.252324] pci 0000:00:01.1: reg 0x20: [io  0xd000-0xd00f]
+May  3 05:17:26 seax kernel: [    0.252586] pci 0000:00:01.1: legacy IDE quirk: reg 0x10: [io  0x01f0-0x01f7]
+May  3 05:17:26 seax kernel: [    0.252588] pci 0000:00:01.1: legacy IDE quirk: reg 0x14: [io  0x03f6]
+May  3 05:17:26 seax kernel: [    0.252590] pci 0000:00:01.1: legacy IDE quirk: reg 0x18: [io  0x0170-0x0177]
+May  3 05:17:26 seax kernel: [    0.252592] pci 0000:00:01.1: legacy IDE quirk: reg 0x1c: [io  0x0376]
+May  3 05:17:26 seax kernel: [    0.252971] pci 0000:00:02.0: [80ee:beef] type 00 class 0x030000
+May  3 05:17:26 seax kernel: [    0.254128] pci 0000:00:02.0: reg 0x10: [mem 0xe0000000-0xe0ffffff pref]
+May  3 05:17:26 seax kernel: [    0.259668] pci 0000:00:03.0: [8086:100e] type 00 class 0x020000
+May  3 05:17:26 seax kernel: [    0.260114] pci 0000:00:03.0: reg 0x10: [mem 0xf0000000-0xf001ffff]
+May  3 05:17:26 seax kernel: [    0.260560] pci 0000:00:03.0: reg 0x18: [io  0xd010-0xd017]
+May  3 05:17:26 seax kernel: [    0.261829] pci 0000:00:04.0: [80ee:cafe] type 00 class 0x088000
+May  3 05:17:26 seax kernel: [    0.262101] pci 0000:00:04.0: reg 0x10: [io  0xd020-0xd03f]
+May  3 05:17:26 seax kernel: [    0.262330] pci 0000:00:04.0: reg 0x14: [mem 0xf0400000-0xf07fffff]
+May  3 05:17:26 seax kernel: [    0.262562] pci 0000:00:04.0: reg 0x18: [mem 0xf0800000-0xf0803fff pref]
+May  3 05:17:26 seax kernel: [    0.263621] pci 0000:00:05.0: [8086:2415] type 00 class 0x040100
+May  3 05:17:26 seax kernel: [    0.263730] pci 0000:00:05.0: reg 0x10: [io  0xd100-0xd1ff]
+May  3 05:17:26 seax kernel: [    0.263802] pci 0000:00:05.0: reg 0x14: [io  0xd200-0xd23f]
+May  3 05:17:26 seax kernel: [    0.264459] pci 0000:00:06.0: [106b:003f] type 00 class 0x0c0310
+May  3 05:17:26 seax kernel: [    0.264761] pci 0000:00:06.0: reg 0x10: [mem 0xf0804000-0xf0804fff]
+May  3 05:17:26 seax kernel: [    0.266234] pci 0000:00:07.0: [8086:7113] type 00 class 0x068000
+May  3 05:17:26 seax kernel: [    0.266756] pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+May  3 05:17:26 seax kernel: [    0.266767] pci 0000:00:07.0: quirk: [io  0x4100-0x410f] claimed by PIIX4 SMB
+May  3 05:17:26 seax kernel: [    0.267075] pci 0000:00:0b.0: [8086:265c] type 00 class 0x0c0320
+May  3 05:17:26 seax kernel: [    0.267464] pci 0000:00:0b.0: reg 0x10: [mem 0xf0805000-0xf0805fff]
+May  3 05:17:26 seax kernel: [    0.270016] pci 0000:00:0d.0: [8086:2829] type 00 class 0x010601
+May  3 05:17:26 seax kernel: [    0.270374] pci 0000:00:0d.0: reg 0x10: [io  0xd240-0xd247]
+May  3 05:17:26 seax kernel: [    0.270630] pci 0000:00:0d.0: reg 0x14: [io  0xd248-0xd24b]
+May  3 05:17:26 seax kernel: [    0.270865] pci 0000:00:0d.0: reg 0x18: [io  0xd250-0xd257]
+May  3 05:17:26 seax kernel: [    0.271107] pci 0000:00:0d.0: reg 0x1c: [io  0xd258-0xd25b]
+May  3 05:17:26 seax kernel: [    0.271346] pci 0000:00:0d.0: reg 0x20: [io  0xd260-0xd26f]
+May  3 05:17:26 seax kernel: [    0.271573] pci 0000:00:0d.0: reg 0x24: [mem 0xf0806000-0xf0807fff]
+May  3 05:17:26 seax kernel: [    0.272402] pci_bus 0000:00: on NUMA node 0
+May  3 05:17:26 seax kernel: [    0.273584] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+May  3 05:17:26 seax kernel: [    0.273992] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+May  3 05:17:26 seax kernel: [    0.274131] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+May  3 05:17:26 seax kernel: [    0.275065] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+May  3 05:17:26 seax kernel: [    0.275272] ACPI: Enabled 2 GPEs in block 00 to 07
+May  3 05:17:26 seax kernel: [    0.275451] vgaarb: setting as boot device: PCI:0000:00:02.0
+May  3 05:17:26 seax kernel: [    0.275453] vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+May  3 05:17:26 seax kernel: [    0.275455] vgaarb: loaded
+May  3 05:17:26 seax kernel: [    0.275456] vgaarb: bridge control possible 0000:00:02.0
+May  3 05:17:26 seax kernel: [    0.275558] PCI: Using ACPI for IRQ routing
+May  3 05:17:26 seax kernel: [    0.275560] PCI: pci_cache_line_size set to 64 bytes
+May  3 05:17:26 seax kernel: [    0.275876] e820: reserve RAM buffer [mem 0x0009fc00-0x0009ffff]
+May  3 05:17:26 seax kernel: [    0.275883] e820: reserve RAM buffer [mem 0x0fff0000-0x0fffffff]
+May  3 05:17:26 seax kernel: [    0.276132] clocksource: Switched to clocksource kvm-clock
+May  3 05:17:26 seax kernel: [    0.286181] VFS: Disk quotas dquot_6.6.0
+May  3 05:17:26 seax kernel: [    0.286197] VFS: Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+May  3 05:17:26 seax kernel: [    0.286294] pnp: PnP ACPI init
+May  3 05:17:26 seax kernel: [    0.286378] pnp 00:00: Plug and Play ACPI device, IDs PNP0303 (active)
+May  3 05:17:26 seax kernel: [    0.286467] pnp 00:01: Plug and Play ACPI device, IDs PNP0f03 (active)
+May  3 05:17:26 seax kernel: [    0.288761] pnp: PnP ACPI: found 2 devices
+May  3 05:17:26 seax kernel: [    0.288772] PnPBIOS: Disabled by ACPI PNP
+May  3 05:17:26 seax kernel: [    0.326457] clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+May  3 05:17:26 seax kernel: [    0.326468] pci_bus 0000:00: resource 4 [io  0x0000-0xffff]
+May  3 05:17:26 seax kernel: [    0.326470] pci_bus 0000:00: resource 5 [mem 0x00000000-0xffffffff]
+May  3 05:17:26 seax kernel: [    0.326529] NET: Registered protocol family 2
+May  3 05:17:26 seax kernel: [    0.326703] TCP established hash table entries: 2048 (order: 1, 8192 bytes)
+May  3 05:17:26 seax kernel: [    0.326706] TCP bind hash table entries: 2048 (order: 2, 16384 bytes)
+May  3 05:17:26 seax kernel: [    0.326708] TCP: Hash tables configured (established 2048 bind 2048)
+May  3 05:17:26 seax kernel: [    0.326715] UDP hash table entries: 256 (order: 1, 8192 bytes)
+May  3 05:17:26 seax kernel: [    0.326720] UDP-Lite hash table entries: 256 (order: 1, 8192 bytes)
+May  3 05:17:26 seax kernel: [    0.326741] NET: Registered protocol family 1
+May  3 05:17:26 seax kernel: [    0.326752] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+May  3 05:17:26 seax kernel: [    0.326784] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+May  3 05:17:26 seax kernel: [    0.326837] pci 0000:00:02.0: Video device with shadowed ROM at [mem 0x000c0000-0x000dffff]
+May  3 05:17:26 seax kernel: [    0.327712] ACPI: PCI Interrupt Link [LNKB] enabled at IRQ 10
+May  3 05:17:26 seax kernel: [    0.327713] PCI: setting IRQ 10 as level-triggered
+May  3 05:17:26 seax kernel: [    0.329365] ACPI: PCI Interrupt Link [LNKC] enabled at IRQ 9
+May  3 05:17:26 seax systemd[1]: Starting Flush Journal to Persistent Storage...
+May  3 05:17:26 seax systemd[1]: Started Flush Journal to Persistent Storage.
+May  3 05:17:26 seax systemd[1]: Found device 82540EM Gigabit Ethernet Controller (PRO/1000 MT Desktop Adapter).
+May  3 05:17:26 seax systemd[1]: Found device VBOX_HARDDISK 5.
+May  3 05:17:26 seax systemd[1]: Activating swap /dev/disk/by-uuid/8d6f2842-03b9-4611-9caa-db73d28fcabb...
+May  3 05:17:26 seax systemd[1]: Activated swap /dev/disk/by-uuid/8d6f2842-03b9-4611-9caa-db73d28fcabb.
+May  3 05:17:26 seax systemd[1]: Reached target Swap.
+May  3 05:17:26 seax systemd[1]: Started Set the console keyboard layout.
+May  3 05:17:26 seax systemd[1]: Reached target Local File Systems (Pre).
+May  3 05:17:26 seax systemd[1]: Reached target Local File Systems.
+May  3 05:17:26 seax systemd[1]: Starting Raise network interfaces...
+May  3 05:17:26 seax systemd[1]: Starting Create Volatile Files and Directories...
+May  3 05:17:26 seax systemd[1]: Started ifup for enp0s3.
+May  3 05:17:26 seax systemd[1]: Starting Set console font and keymap...
+May  3 05:17:26 seax systemd[1]: Started Set console font and keymap.
+May  3 05:17:26 seax systemd[1]: Started Create Volatile Files and Directories.
+May  3 05:17:26 seax systemd[1]: Starting Update UTMP about System Boot/Shutdown...
+May  3 05:17:26 seax systemd[1]: Started Update UTMP about System Boot/Shutdown.
+May  3 05:17:26 seax systemd[1]: Reached target System Initialization.
+May  3 05:17:26 seax systemd[1]: apt-daily.timer: Adding 11h 30min 52.486034s random time.
+May  3 05:17:26 seax systemd[1]: Started Daily apt download activities.
+May  3 05:17:26 seax systemd[1]: Started Daily Cleanup of Temporary Directories.
+May  3 05:17:26 seax systemd[1]: Listening on D-Bus System Message Bus Socket.
+May  3 05:17:26 seax systemd[1]: Reached target Sockets.
+May  3 05:17:26 seax systemd[1]: apt-daily-upgrade.timer: Adding 21min 38.802147s random time.
+May  3 05:17:26 seax systemd[1]: Started Daily apt upgrade and clean activities.
+May  3 05:17:26 seax systemd[1]: Reached target Basic System.
+May  3 05:17:26 seax systemd[1]: Started Regular background program processing daemon.
+May  3 05:17:26 seax systemd[1]: Started irqbalance daemon.
+May  3 05:17:26 seax systemd[1]: Starting System Logging Service...
+May  3 05:17:26 seax systemd[1]: anacron.timer: Adding 3min 23.650480s random time.
+May  3 05:17:26 seax systemd[1]: Started Trigger anacron every hour.
+May  3 05:17:26 seax systemd[1]: Reached target Timers.
+May  3 05:17:26 seax systemd[1]: Started D-Bus System Message Bus.
+May  3 05:17:26 seax cron[319]: (CRON) INFO (pidfile fd = 3)
+May  3 05:17:26 seax cron[319]: (CRON) INFO (Running @reboot jobs)
+May  3 05:17:26 seax /usr/sbin/irqbalance: Balancing is ineffective on systems with a single cpu.  Shutting down
+May  3 05:17:26 seax liblogging-stdlog:  [origin software="rsyslogd" swVersion="8.24.0" x-pid="321" x-info="http://www.rsyslog.com"] start
+May  3 05:17:26 seax kernel: [    0.329367] PCI: setting IRQ 9 as level-triggered
+May  3 05:17:26 seax kernel: [    0.330311] PCI: CLS 0 bytes, default 64
+May  3 05:17:26 seax kernel: [    0.330380] Unpacking initramfs...
+May  3 05:17:26 seax kernel: [    0.749525] Freeing initrd memory: 16688K
+May  3 05:17:26 seax kernel: [    0.749671] platform rtc_cmos: registered platform RTC device (no PNP device found)
+May  3 05:17:26 seax kernel: [    0.750001] audit: initializing netlink subsys (disabled)
+May  3 05:17:26 seax kernel: [    0.750016] audit: type=2000 audit(1525339053.852:1): initialized
+May  3 05:17:26 seax kernel: [    0.750271] workingset: timestamp_bits=14 max_order=16 bucket_order=2
+May  3 05:17:26 seax kernel: [    0.750287] zbud: loaded
+May  3 05:17:26 seax kernel: [    0.750887] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 250)
+May  3 05:17:26 seax kernel: [    0.750916] io scheduler noop registered
+May  3 05:17:26 seax kernel: [    0.750917] io scheduler deadline registered
+May  3 05:17:26 seax kernel: [    0.750926] io scheduler cfq registered (default)
+May  3 05:17:26 seax kernel: [    0.750992] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+May  3 05:17:26 seax kernel: [    0.750997] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+May  3 05:17:26 seax kernel: [    0.751027] GHES: HEST is not enabled!
+May  3 05:17:26 seax kernel: [    0.751043] isapnp: Scanning for PnP cards...
+May  3 05:17:26 seax kernel: [    1.170658] isapnp: No Plug & Play device found
+May  3 05:17:26 seax kernel: [    1.170756] Serial: 8250/16550 driver, 4 ports, IRQ sharing enabled
+May  3 05:17:26 seax kernel: [    1.171297] Linux agpgart interface v0.103
+May  3 05:17:26 seax kernel: [    1.171662] i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f03:PS2M] at 0x60,0x64 irq 1,12
+May  3 05:17:26 seax kernel: [    1.172116] serio: i8042 KBD port at 0x60,0x64 irq 1
+May  3 05:17:26 seax kernel: [    1.172124] serio: i8042 AUX port at 0x60,0x64 irq 12
+May  3 05:17:26 seax kernel: [    1.172269] mousedev: PS/2 mouse device common for all mice
+May  3 05:17:26 seax kernel: [    1.172779] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input0
+May  3 05:17:26 seax kernel: [    1.173321] rtc_cmos rtc_cmos: rtc core: registered rtc_cmos as rtc0
+May  3 05:17:26 seax kernel: [    1.173354] rtc_cmos rtc_cmos: alarms up to one day, 114 bytes nvram
+May  3 05:17:26 seax kernel: [    1.173384] ledtrig-cpu: registered to indicate activity on CPUs
+May  3 05:17:26 seax kernel: [    1.173616] NET: Registered protocol family 10
+May  3 05:17:26 seax kernel: [    1.173841] mip6: Mobile IPv6
+May  3 05:17:26 seax kernel: [    1.173843] NET: Registered protocol family 17
+May  3 05:17:26 seax kernel: [    1.173845] mpls_gso: MPLS GSO support
+May  3 05:17:26 seax kernel: [    1.173945] Using IPI No-Shortcut mode
+May  3 05:17:26 seax kernel: [    1.174031] registered taskstats version 1
+May  3 05:17:26 seax kernel: [    1.174040] zswap: loaded using pool lzo/zbud
+May  3 05:17:26 seax kernel: [    1.174118] ima: No TPM chip found, activating TPM-bypass!
+May  3 05:17:26 seax kernel: [    1.174471] rtc_cmos rtc_cmos: setting system clock to 2018-05-03 09:17:23 UTC (1525339043)
+May  3 05:17:26 seax kernel: [    1.174497] PM: Hibernation image not present or could not be loaded.
+May  3 05:17:26 seax kernel: [    1.174623] Freeing unused kernel memory: 716K
+May  3 05:17:26 seax kernel: [    1.174665] Write protecting the kernel text: 5728k
+May  3 05:17:26 seax kernel: [    1.174700] Write protecting the kernel read-only data: 1708k
+May  3 05:17:26 seax kernel: [    1.191252] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:17:26 seax kernel: [    1.191432] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:17:26 seax kernel: [    1.191972] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:17:26 seax kernel: [    1.192073] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:17:26 seax kernel: [    1.192460] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:17:26 seax kernel: [    1.192545] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:17:26 seax kernel: [    1.193066] random: systemd-udevd: uninitialized urandom read (16 bytes read)
+May  3 05:17:26 seax kernel: [    1.193181] random: systemd-udevd: uninitialized urandom read (16 bytes read)
+May  3 05:17:26 seax kernel: [    1.194299] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:17:26 seax kernel: [    1.194409] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:17:26 seax kernel: [    1.223351] SCSI subsystem initialized
+May  3 05:17:26 seax kernel: [    1.234086] ACPI: bus type USB registered
+May  3 05:17:26 seax kernel: [    1.234117] usbcore: registered new interface driver usbfs
+May  3 05:17:26 seax kernel: [    1.234132] usbcore: registered new interface driver hub
+May  3 05:17:26 seax kernel: [    1.239785] piix4_smbus 0000:00:07.0: SMBus Host Controller at 0x4100, revision 0
+May  3 05:17:26 seax kernel: [    1.240776] usbcore: registered new device driver usb
+May  3 05:17:26 seax kernel: [    1.241776] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+May  3 05:17:26 seax kernel: [    1.241983] ehci-pci: EHCI PCI platform driver
+May  3 05:17:26 seax kernel: [    1.242932] ehci-pci 0000:00:0b.0: EHCI Host Controller
+May  3 05:17:26 seax kernel: [    1.242944] ehci-pci 0000:00:0b.0: new USB bus registered, assigned bus number 1
+May  3 05:17:26 seax kernel: [    1.243454] ehci-pci 0000:00:0b.0: irq 9, io mem 0xf0805000
+May  3 05:17:26 seax kernel: [    1.246130] e1000: Intel(R) PRO/1000 Network Driver - version 7.3.21-k8-NAPI
+May  3 05:17:26 seax kernel: [    1.246131] e1000: Copyright (c) 1999-2006 Intel Corporation.
+May  3 05:17:26 seax kernel: [    1.249704] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+May  3 05:17:26 seax kernel: [    1.256806] ehci-pci 0000:00:0b.0: USB 2.0 started, EHCI 1.00
+May  3 05:17:26 seax kernel: [    1.256852] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+May  3 05:17:26 seax kernel: [    1.256854] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+May  3 05:17:26 seax kernel: [    1.256855] usb usb1: Product: EHCI Host Controller
+May  3 05:17:26 seax kernel: [    1.256856] usb usb1: Manufacturer: Linux 4.9.0-6-686 ehci_hcd
+May  3 05:17:26 seax kernel: [    1.256858] usb usb1: SerialNumber: 0000:00:0b.0
+May  3 05:17:26 seax kernel: [    1.256965] hub 1-0:1.0: USB hub found
+May  3 05:17:26 seax kernel: [    1.256971] hub 1-0:1.0: 12 ports detected
+May  3 05:17:26 seax kernel: [    1.257476] ohci-pci: OHCI PCI platform driver
+May  3 05:17:26 seax kernel: [    1.258189] ohci-pci 0000:00:06.0: OHCI PCI host controller
+May  3 05:17:26 seax kernel: [    1.258196] ohci-pci 0000:00:06.0: new USB bus registered, assigned bus number 2
+May  3 05:17:26 seax kernel: [    1.258233] ohci-pci 0000:00:06.0: irq 10, io mem 0xf0804000
+May  3 05:17:26 seax kernel: [    1.259738] libata version 3.00 loaded.
+May  3 05:17:26 seax kernel: [    1.318408] usb usb2: New USB device found, idVendor=1d6b, idProduct=0001
+May  3 05:17:26 seax kernel: [    1.318411] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+May  3 05:17:26 seax kernel: [    1.318413] usb usb2: Product: OHCI PCI host controller
+May  3 05:17:26 seax kernel: [    1.318415] usb usb2: Manufacturer: Linux 4.9.0-6-686 ohci_hcd
+May  3 05:17:26 seax kernel: [    1.318416] usb usb2: SerialNumber: 0000:00:06.0
+May  3 05:17:26 seax kernel: [    1.319118] hub 2-0:1.0: USB hub found
+May  3 05:17:26 seax kernel: [    1.319153] hub 2-0:1.0: 12 ports detected
+May  3 05:17:26 seax kernel: [    1.458336] psmouse serio1: hgpk: ID: 10 00 64
+May  3 05:17:26 seax kernel: [    1.467559] input: ImExPS/2 Generic Explorer Mouse as /devices/platform/i8042/serio1/input/input2
+May  3 05:17:26 seax kernel: [    1.743792] e1000 0000:00:03.0 eth0: (PCI:33MHz:32-bit) 08:00:27:37:e4:4b
+May  3 05:17:26 seax kernel: [    1.743805] e1000 0000:00:03.0 eth0: Intel(R) PRO/1000 Network Connection
+May  3 05:17:26 seax kernel: [    1.743843] ahci 0000:00:0d.0: version 3.0
+May  3 05:17:26 seax kernel: [    1.746140] ACPI: PCI Interrupt Link [LNKA] enabled at IRQ 11
+May  3 05:17:26 seax kernel: [    1.746142] PCI: setting IRQ 11 as level-triggered
+May  3 05:17:26 seax kernel: [    1.746306] ahci 0000:00:0d.0: SSS flag set, parallel bus scan disabled
+May  3 05:17:26 seax kernel: [    1.746561] ahci 0000:00:0d.0: AHCI 0001.0100 32 slots 1 ports 3 Gbps 0x1 impl SATA mode
+May  3 05:17:26 seax kernel: [    1.746566] ahci 0000:00:0d.0: flags: 64bit ncq stag only ccc 
+May  3 05:17:26 seax kernel: [    1.749140] e1000 0000:00:03.0 enp0s3: renamed from eth0
+May  3 05:17:26 seax kernel: [    1.751815] scsi host0: ahci
+May  3 05:17:26 seax kernel: [    1.751947] ata1: SATA max UDMA/133 abar m8192@0xf0806000 port 0xf0806100 irq 11
+May  3 05:17:26 seax kernel: [    1.752243] ata_piix 0000:00:01.1: version 2.13
+May  3 05:17:26 seax kernel: [    1.753861] scsi host1: ata_piix
+May  3 05:17:26 seax kernel: [    1.754119] scsi host2: ata_piix
+May  3 05:17:26 seax kernel: [    1.754176] ata2: PATA max UDMA/33 cmd 0x1f0 ctl 0x3f6 bmdma 0xd000 irq 14
+May  3 05:17:26 seax kernel: [    1.754177] ata3: PATA max UDMA/33 cmd 0x170 ctl 0x376 bmdma 0xd008 irq 15
+May  3 05:17:26 seax kernel: [    1.756704] tsc: Refined TSC clocksource calibration: 2495.951 MHz
+May  3 05:17:26 seax kernel: [    1.756709] clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x23fa48b87a5, max_idle_ns: 440795206109 ns
+May  3 05:17:26 seax kernel: [    1.764232] usb 2-1: new full-speed USB device number 2 using ohci-pci
+May  3 05:17:26 seax kernel: [    1.912799] ata3.00: ATAPI: VBOX CD-ROM, 1.0, max UDMA/133
+May  3 05:17:26 seax kernel: [    1.913179] ata3.00: configured for UDMA/33
+May  3 05:17:26 seax kernel: [    2.067826] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+May  3 05:17:26 seax kernel: [    2.067991] ata1.00: ATA-6: VBOX HARDDISK, 1.0, max UDMA/133
+May  3 05:17:26 seax kernel: [    2.067994] ata1.00: 8388608 sectors, multi 128: LBA48 NCQ (depth 31/32)
+May  3 05:17:26 seax kernel: [    2.068217] ata1.00: configured for UDMA/133
+May  3 05:17:26 seax kernel: [    2.068399] scsi 0:0:0:0: Direct-Access     ATA      VBOX HARDDISK    1.0  PQ: 0 ANSI: 5
+May  3 05:17:26 seax kernel: [    2.070995] scsi 2:0:0:0: CD-ROM            VBOX     CD-ROM           1.0  PQ: 0 ANSI: 5
+May  3 05:17:26 seax kernel: [    2.077529] sd 0:0:0:0: [sda] 8388608 512-byte logical blocks: (4.29 GB/4.00 GiB)
+May  3 05:17:26 seax kernel: [    2.077562] sd 0:0:0:0: [sda] Write Protect is off
+May  3 05:17:26 seax kernel: [    2.077565] sd 0:0:0:0: [sda] Mode Sense: 00 3a 00 00
+May  3 05:17:26 seax kernel: [    2.077579] sd 0:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+May  3 05:17:26 seax kernel: [    2.080641]  sda: sda1 sda2 < sda5 >
+May  3 05:17:26 seax kernel: [    2.081023] sd 0:0:0:0: [sda] Attached SCSI disk
+May  3 05:17:26 seax kernel: [    2.082466] sr 2:0:0:0: [sr0] scsi3-mmc drive: 32x/32x xa/form2 tray
+May  3 05:17:26 seax kernel: [    2.082468] cdrom: Uniform CD-ROM driver Revision: 3.20
+May  3 05:17:26 seax kernel: [    2.082699] sr 2:0:0:0: Attached scsi CD-ROM sr0
+May  3 05:17:26 seax kernel: [    2.090107] random: fast init done
+May  3 05:17:26 seax kernel: [    2.092205] usb 2-1: New USB device found, idVendor=80ee, idProduct=0021
+May  3 05:17:26 seax kernel: [    2.092207] usb 2-1: New USB device strings: Mfr=1, Product=3, SerialNumber=0
+May  3 05:17:26 seax kernel: [    2.092209] usb 2-1: Product: USB Tablet
+May  3 05:17:26 seax kernel: [    2.092211] usb 2-1: Manufacturer: VirtualBox
+May  3 05:17:26 seax kernel: [    2.111759] hidraw: raw HID events driver (C) Jiri Kosina
+May  3 05:17:26 seax kernel: [    2.126591] usbcore: registered new interface driver usbhid
+May  3 05:17:26 seax kernel: [    2.126592] usbhid: USB HID core driver
+May  3 05:17:26 seax kernel: [    2.134566] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb2/2-1/2-1:1.0/0003:80EE:0021.0001/input/input3
+May  3 05:17:26 seax kernel: [    2.135458] hid-generic 0003:80EE:0021.0001: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+May  3 05:17:26 seax kernel: [    2.180460] PM: Starting manual resume from disk
+May  3 05:17:26 seax kernel: [    2.180463] PM: Hibernation image partition 8:5 present
+May  3 05:17:26 seax kernel: [    2.180464] PM: Looking for hibernation image.
+May  3 05:17:26 seax kernel: [    2.180851] PM: Image not found (code -22)
+May  3 05:17:26 seax kernel: [    2.180853] PM: Hibernation image not present or could not be loaded.
+May  3 05:17:26 seax kernel: [    2.245318] EXT4-fs (sda1): mounted filesystem with ordered data mode. Opts: (null)
+May  3 05:17:26 seax kernel: [    2.411860] ip_tables: (C) 2000-2006 Netfilter Core Team
+May  3 05:17:26 seax kernel: [    2.645838] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+May  3 05:17:26 seax kernel: [    2.944181] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input4
+May  3 05:17:26 seax kernel: [    2.944186] ACPI: Power Button [PWRF]
+May  3 05:17:26 seax kernel: [    2.944422] input: Sleep Button as /devices/LNXSYSTM:00/LNXSLPBN:00/input/input5
+May  3 05:17:26 seax kernel: [    2.944425] ACPI: Sleep Button [SLPF]
+May  3 05:17:26 seax kernel: [    2.965109] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+May  3 05:17:26 seax kernel: [    2.965210] input: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A03:00/LNXVIDEO:00/input/input6
+May  3 05:17:26 seax kernel: [    2.967824] ACPI: Battery Slot [BAT0] (battery present)
+May  3 05:17:26 seax kernel: [    2.969217] ACPI: AC Adapter [AC] (off-line)
+May  3 05:17:26 seax kernel: [    3.028167] [drm] Initialized
+May  3 05:17:26 seax kernel: [    3.081441] vboxguest: loading out-of-tree module taints kernel.
+May  3 05:17:26 seax kernel: [    3.098914] ACPI: PCI Interrupt Link [LNKD] enabled at IRQ 11
+May  3 05:17:26 seax kernel: [    3.105132] vgdrvHeartbeatInit: Setting up heartbeat to trigger every 2000 milliseconds
+May  3 05:17:26 seax kernel: [    3.105283] input: Unspecified device as /devices/pci0000:00/0000:00:04.0/input/input7
+May  3 05:17:26 seax kernel: [    3.111183] vboxguest: misc device minor 58, IRQ 11, I/O port d020, MMIO at 00000000f0400000 (size 0x400000)
+May  3 05:17:26 seax kernel: [    3.111185] vboxguest: Successfully loaded version 5.2.8 (interface 0x00010004)
+May  3 05:17:26 seax kernel: [    3.122276] input: PC Speaker as /devices/platform/pcspkr/input/input8
+May  3 05:17:26 seax kernel: [    3.124241] sd 0:0:0:0: Attached scsi generic sg0 type 0
+May  3 05:17:26 seax kernel: [    3.124283] sr 2:0:0:0: Attached scsi generic sg1 type 5
+May  3 05:17:26 seax kernel: [    3.188552] [drm] VRAM 01000000
+May  3 05:17:26 seax kernel: [    3.196489] [TTM] Zone  kernel: Available graphics memory: 125180 kiB
+May  3 05:17:26 seax kernel: [    3.196491] [TTM] Initializing pool allocator
+May  3 05:17:26 seax kernel: [    3.198275] fbcon: vboxdrmfb (fb0) is primary device
+May  3 05:17:26 seax kernel: [    3.211599] RAPL PMU: API unit is 2^-32 Joules, 5 fixed counters, 10737418240 ms ovfl timer
+May  3 05:17:26 seax kernel: [    3.211600] RAPL PMU: hw unit of domain pp0-core 2^-0 Joules
+May  3 05:17:26 seax kernel: [    3.211601] RAPL PMU: hw unit of domain package 2^-0 Joules
+May  3 05:17:26 seax kernel: [    3.211602] RAPL PMU: hw unit of domain dram 2^-0 Joules
+May  3 05:17:26 seax kernel: [    3.211603] RAPL PMU: hw unit of domain pp1-gpu 2^-0 Joules
+May  3 05:17:26 seax kernel: [    3.211603] RAPL PMU: hw unit of domain psys 2^-0 Joules
+May  3 05:17:26 seax kernel: [    3.262217] Console: switching to colour frame buffer device 100x37
+May  3 05:17:26 seax kernel: [    3.263719] vboxvideo 0000:00:02.0: fb0: vboxdrmfb frame buffer device
+May  3 05:17:26 seax kernel: [    3.263723] [drm] Initialized vboxvideo 1.0.0 20130823 for 0000:00:02.0 on minor 0
+May  3 05:17:26 seax kernel: [    3.451210] Adding 522236k swap on /dev/sda5.  Priority:-1 extents:1 across:522236k FS
+May  3 05:17:26 seax kernel: [    3.963743] snd_intel8x0 0000:00:05.0: white list rate for 1028:0177 is 48000
+May  3 05:17:26 seax systemd[1]: anacron.timer: Adding 3min 6.952659s random time.
+May  3 05:17:26 seax systemd[1]: Starting Login Service...
+May  3 05:17:26 seax systemd[1]: Starting vboxadd.service...
+May  3 05:17:26 seax systemd[1]: Started System Logging Service.
+May  3 05:17:26 seax systemd[1]: anacron.timer: Adding 1min 26.976444s random time.
+May  3 05:17:26 seax systemd[1]: Reached target Sound Card.
+May  3 05:17:26 seax systemd[1]: Started Login Service.
+May  3 05:17:26 seax kernel: [    4.082680] IPv6: ADDRCONF(NETDEV_UP): enp0s3: link is not ready
+May  3 05:17:26 seax kernel: [    4.088820] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+May  3 05:17:26 seax kernel: [    4.089351] IPv6: ADDRCONF(NETDEV_CHANGE): enp0s3: link becomes ready
+May  3 05:17:26 seax sh[297]: enp0s3=enp0s3
+May  3 05:17:26 seax systemd[1]: Started Raise network interfaces.
+May  3 05:17:26 seax systemd[1]: Reached target Network.
+May  3 05:17:26 seax systemd[1]: Reached target Network is Online.
+May  3 05:17:26 seax systemd[1]: apt-daily.timer: Adding 3h 1min 59.208263s random time.
+May  3 05:17:26 seax systemd[1]: apt-daily-upgrade.timer: Adding 43min 3.424181s random time.
+May  3 05:17:26 seax systemd[1]: Starting LSB: exim Mail Transport Agent...
+May  3 05:17:26 seax systemd[1]: Starting OpenBSD Secure Shell server...
+May  3 05:17:26 seax systemd[1]: Starting Permit User Sessions...
+May  3 05:17:26 seax systemd[1]: Started Permit User Sessions.
+May  3 05:17:26 seax systemd[1]: Started Getty on tty1.
+May  3 05:17:26 seax systemd[1]: Reached target Login Prompts.
+May  3 05:17:26 seax systemd[1]: Started OpenBSD Secure Shell server.
+May  3 05:17:26 seax vboxadd[334]: VirtualBox Guest Additions: Starting.
+May  3 05:17:26 seax vboxadd[334]: /opt/VBoxGuestAdditions-5.2.8/init/vboxadd: 256: /opt/VBoxGuestAdditions-5.2.8/init/vboxadd: cannot create : Directory nonexistent
+May  3 05:17:26 seax kernel: [    4.546485] vboxsf: Successfully loaded version 5.2.8 (interface 0x00010004)
+May  3 05:17:26 seax systemd[1]: Started vboxadd.service.
+May  3 05:17:26 seax systemd[1]: Starting vboxadd-service.service...
+May  3 05:17:26 seax vboxadd-service[574]: vboxadd-service.sh: Starting VirtualBox Guest Addition service.
+May  3 05:17:26 seax vboxadd-service.sh: Starting VirtualBox Guest Addition service.
+May  3 05:17:27 seax vboxadd-service.sh: VirtualBox Guest Addition service started.
+May  3 05:17:27 seax kernel: [    4.676532] VBoxService 5.2.8 r121009 (verbosity: 0) linux.x86 (Feb 26 2018 16:01:06) release log
+May  3 05:17:27 seax kernel: [    4.676532] 00:00:00.000174 main     Log opened 2018-05-03T09:17:27.001996000Z
+May  3 05:17:27 seax kernel: [    4.676587] 00:00:00.000261 main     OS Product: Linux
+May  3 05:17:27 seax kernel: [    4.676624] 00:00:00.000304 main     OS Release: 4.9.0-6-686
+May  3 05:17:27 seax kernel: [    4.676682] 00:00:00.000340 main     OS Version: #1 SMP Debian 4.9.82-1+deb9u3 (2018-03-02)
+May  3 05:17:27 seax kernel: [    4.676732] 00:00:00.000399 main     Executable: /opt/VBoxGuestAdditions-5.2.8/sbin/VBoxService
+May  3 05:17:27 seax kernel: [    4.676732] 00:00:00.000400 main     Process ID: 602
+May  3 05:17:27 seax kernel: [    4.676732] 00:00:00.000402 main     Package type: LINUX_32BITS_GENERIC
+May  3 05:17:27 seax kernel: [    4.678062] 00:00:00.001740 main     5.2.8 r121009 started. Verbose level = 0
+May  3 05:17:27 seax systemd[1]: Started vboxadd-service.service.
+May  3 05:17:27 seax kernel: [    4.710664] random: crng init done
+May  3 05:18:48 seax systemd[1]: Created slice User Slice of entel.
+May  3 05:18:48 seax systemd[1]: Starting User Manager for UID 1000...
+May  3 05:18:48 seax systemd[1]: Started Session 1 of user entel.
+May  3 05:18:48 seax systemd[687]: Reached target Timers.
+May  3 05:18:48 seax systemd[687]: Listening on GnuPG cryptographic agent (access for web browsers).
+May  3 05:18:48 seax systemd[687]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+May  3 05:18:48 seax systemd[687]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+May  3 05:18:48 seax systemd[687]: Listening on GnuPG cryptographic agent and passphrase cache.
+May  3 05:18:48 seax systemd[687]: Reached target Sockets.
+May  3 05:18:48 seax systemd[687]: Reached target Paths.
+May  3 05:18:48 seax systemd[687]: Reached target Basic System.
+May  3 05:18:48 seax systemd[687]: Reached target Default.
+May  3 05:18:48 seax systemd[687]: Startup finished in 26ms.
+May  3 05:18:48 seax systemd[1]: Started User Manager for UID 1000.
+May  3 05:18:51 seax exim4[391]: Starting MTA: exim4.
+May  3 05:18:51 seax systemd[1]: Started LSB: exim Mail Transport Agent.
+May  3 05:18:51 seax systemd[1]: Reached target Multi-User System.
+May  3 05:18:51 seax systemd[1]: Reached target Graphical Interface.
+May  3 05:18:51 seax systemd[1]: Starting Update UTMP about System Runlevel Changes...
+May  3 05:18:51 seax systemd[1]: Started Update UTMP about System Runlevel Changes.
+May  3 05:18:51 seax systemd[1]: Startup finished in 2.182s (kernel) + 1min 26.986s (userspace) = 1min 29.168s.
+May  3 05:19:39 seax systemd[1]: Stopped target Timers.
+May  3 05:19:39 seax systemd[1]: Stopped Daily Cleanup of Temporary Directories.
+May  3 05:19:39 seax systemd[1]: Stopped Daily apt upgrade and clean activities.
+May  3 05:19:39 seax systemd[1]: Stopped Trigger anacron every hour.
+May  3 05:19:39 seax systemd[1]: Stopped target Graphical Interface.
+May  3 05:19:39 seax systemd[1]: Stopped target Multi-User System.
+May  3 05:19:39 seax systemd[1]: Stopping OpenBSD Secure Shell server...
+May  3 05:19:52 seax kernel: [    0.000000] Linux version 4.9.0-6-686 (debian-kernel@lists.debian.org) (gcc version 6.3.0 20170516 (Debian 6.3.0-18+deb9u1) ) #1 SMP Debian 4.9.82-1+deb9u3 (2018-03-02)
+May  3 05:19:52 seax kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+May  3 05:19:52 seax kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+May  3 05:19:52 seax kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x004: 'AVX registers'
+May  3 05:19:52 seax kernel: [    0.000000] x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+May  3 05:19:52 seax kernel: [    0.000000] x86/fpu: Enabled xstate features 0x7, context size is 832 bytes, using 'standard' format.
+May  3 05:19:52 seax kernel: [    0.000000] x86/fpu: Using 'eager' FPU context switches.
+May  3 05:19:52 seax kernel: [    0.000000] e820: BIOS-provided physical RAM map:
+May  3 05:19:52 seax kernel: [    0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
+May  3 05:19:52 seax kernel: [    0.000000] BIOS-e820: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+May  3 05:19:52 seax kernel: [    0.000000] BIOS-e820: [mem 0x00000000000f0000-0x00000000000fffff] reserved
+May  3 05:19:52 seax kernel: [    0.000000] BIOS-e820: [mem 0x0000000000100000-0x000000000ffeffff] usable
+May  3 05:19:52 seax kernel: [    0.000000] BIOS-e820: [mem 0x000000000fff0000-0x000000000fffffff] ACPI data
+May  3 05:19:52 seax kernel: [    0.000000] BIOS-e820: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+May  3 05:19:52 seax kernel: [    0.000000] BIOS-e820: [mem 0x00000000fee00000-0x00000000fee00fff] reserved
+May  3 05:19:52 seax kernel: [    0.000000] BIOS-e820: [mem 0x00000000fffc0000-0x00000000ffffffff] reserved
+May  3 05:19:52 seax kernel: [    0.000000] Notice: NX (Execute Disable) protection missing in CPU!
+May  3 05:19:52 seax kernel: [    0.000000] SMBIOS 2.5 present.
+May  3 05:19:52 seax kernel: [    0.000000] DMI: innotek GmbH VirtualBox/VirtualBox, BIOS VirtualBox 12/01/2006
+May  3 05:19:52 seax kernel: [    0.000000] Hypervisor detected: KVM
+May  3 05:19:52 seax kernel: [    0.000000] e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+May  3 05:19:52 seax kernel: [    0.000000] e820: remove [mem 0x000a0000-0x000fffff] usable
+May  3 05:19:52 seax kernel: [    0.000000] e820: last_pfn = 0xfff0 max_arch_pfn = 0x100000
+May  3 05:19:52 seax kernel: [    0.000000] MTRR default type: uncachable
+May  3 05:19:52 seax kernel: [    0.000000] MTRR variable ranges disabled:
+May  3 05:19:52 seax kernel: [    0.000000] MTRR: Disabled
+May  3 05:19:52 seax kernel: [    0.000000] x86/PAT: MTRRs disabled, skipping PAT initialization too.
+May  3 05:19:52 seax kernel: [    0.000000] CPU MTRRs all blank - virtualized system.
+May  3 05:19:52 seax kernel: [    0.000000] x86/PAT: Configuration [0-7]: WB  WT  UC- UC  WB  WT  UC- UC  
+May  3 05:19:52 seax kernel: [    0.000000] initial memory mapped: [mem 0x00000000-0x06bfffff]
+May  3 05:19:52 seax kernel: [    0.000000] Base memory trampoline at [c009b000] 9b000 size 16384
+May  3 05:19:52 seax kernel: [    0.000000] BRK [0x0692d000, 0x0692dfff] PGTABLE
+May  3 05:19:52 seax kernel: [    0.000000] RAMDISK: [mem 0x0e808000-0x0f853fff]
+May  3 05:19:52 seax kernel: [    0.000000] ACPI: Early table checksum verification disabled
+May  3 05:19:52 seax kernel: [    0.000000] ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+May  3 05:19:52 seax kernel: [    0.000000] ACPI: XSDT 0x000000000FFF0030 000034 (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+May  3 05:19:52 seax kernel: [    0.000000] ACPI: FACP 0x000000000FFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+May  3 05:19:52 seax kernel: [    0.000000] ACPI: DSDT 0x000000000FFF0410 0021FF (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+May  3 05:19:52 seax kernel: [    0.000000] ACPI: FACS 0x000000000FFF0200 000040
+May  3 05:19:52 seax kernel: [    0.000000] ACPI: FACS 0x000000000FFF0200 000040
+May  3 05:19:52 seax kernel: [    0.000000] ACPI: SSDT 0x000000000FFF0240 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+May  3 05:19:52 seax kernel: [    0.000000] 0MB HIGHMEM available.
+May  3 05:19:52 seax kernel: [    0.000000] 255MB LOWMEM available.
+May  3 05:19:52 seax kernel: [    0.000000]   mapped low ram: 0 - 0fff0000
+May  3 05:19:52 seax kernel: [    0.000000]   low ram: 0 - 0fff0000
+May  3 05:19:52 seax kernel: [    0.000000] kvm-clock: Using msrs 4b564d01 and 4b564d00
+May  3 05:19:52 seax kernel: [    0.000000] kvm-clock: cpu 0, msr 0:ffef001, primary cpu clock
+May  3 05:19:52 seax kernel: [    0.000000] kvm-clock: using sched offset of 156658642951 cycles
+May  3 05:19:52 seax kernel: [    0.000000] clocksource: kvm-clock: mask: 0xffffffffffffffff max_cycles: 0x1cd42e4dffb, max_idle_ns: 881590591483 ns
+May  3 05:19:52 seax kernel: [    0.000000] Zone ranges:
+May  3 05:19:52 seax kernel: [    0.000000]   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+May  3 05:19:52 seax kernel: [    0.000000]   Normal   [mem 0x0000000001000000-0x000000000ffeffff]
+May  3 05:19:52 seax kernel: [    0.000000]   HighMem  empty
+May  3 05:19:52 seax kernel: [    0.000000] Movable zone start for each node
+May  3 05:19:52 seax kernel: [    0.000000] Early memory node ranges
+May  3 05:19:52 seax kernel: [    0.000000]   node   0: [mem 0x0000000000001000-0x000000000009efff]
+May  3 05:19:52 seax kernel: [    0.000000]   node   0: [mem 0x0000000000100000-0x000000000ffeffff]
+May  3 05:19:52 seax kernel: [    0.000000] Initmem setup node 0 [mem 0x0000000000001000-0x000000000ffeffff]
+May  3 05:19:52 seax kernel: [    0.000000] On node 0 totalpages: 65422
+May  3 05:19:52 seax kernel: [    0.000000] free_area_init_node: node 0, pgdat c67ca440, node_mem_map cfdaf024
+May  3 05:19:52 seax kernel: [    0.000000]   DMA zone: 36 pages used for memmap
+May  3 05:19:52 seax kernel: [    0.000000]   DMA zone: 0 pages reserved
+May  3 05:19:52 seax kernel: [    0.000000]   DMA zone: 3998 pages, LIFO batch:0
+May  3 05:19:52 seax kernel: [    0.000000]   Normal zone: 540 pages used for memmap
+May  3 05:19:52 seax kernel: [    0.000000]   Normal zone: 61424 pages, LIFO batch:15
+May  3 05:19:52 seax kernel: [    0.000000] Using APIC driver default
+May  3 05:19:52 seax kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x4008
+May  3 05:19:52 seax kernel: [    0.000000] Found and enabled local APIC!
+May  3 05:19:52 seax kernel: [    0.000000] smpboot: Boot CPU (id 0) not listed by BIOS
+May  3 05:19:52 seax kernel: [    0.000000] smpboot: Allowing 1 CPUs, 0 hotplug CPUs
+May  3 05:19:52 seax kernel: [    0.000000] PM: Registered nosave memory: [mem 0x00000000-0x00000fff]
+May  3 05:19:52 seax kernel: [    0.000000] PM: Registered nosave memory: [mem 0x0009f000-0x0009ffff]
+May  3 05:19:52 seax kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000a0000-0x000effff]
+May  3 05:19:52 seax kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000f0000-0x000fffff]
+May  3 05:19:52 seax kernel: [    0.000000] e820: [mem 0x10000000-0xfebfffff] available for PCI devices
+May  3 05:19:52 seax kernel: [    0.000000] Booting paravirtualized kernel on KVM
+May  3 05:19:52 seax kernel: [    0.000000] clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+May  3 05:19:52 seax kernel: [    0.000000] setup_percpu: NR_CPUS:32 nr_cpumask_bits:32 nr_cpu_ids:1 nr_node_ids:1
+May  3 05:19:52 seax kernel: [    0.000000] percpu: Embedded 19 pages/cpu @cfd99000 s47948 r0 d29876 u77824
+May  3 05:19:52 seax kernel: [    0.000000] pcpu-alloc: s47948 r0 d29876 u77824 alloc=19*4096
+May  3 05:19:52 seax kernel: [    0.000000] pcpu-alloc: [0] 0 
+May  3 05:19:52 seax kernel: [    0.000000] PV qspinlock hash table entries: 512 (order: 0, 4096 bytes)
+May  3 05:19:52 seax kernel: [    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 64846
+May  3 05:19:52 seax kernel: [    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-4.9.0-6-686 root=UUID=d4fbc9c2-8b67-4039-b33f-d81794e0dc19 ro quiet
+May  3 05:19:52 seax kernel: [    0.000000] PID hash table entries: 1024 (order: 0, 4096 bytes)
+May  3 05:19:52 seax kernel: [    0.000000] Dentry cache hash table entries: 32768 (order: 5, 131072 bytes)
+May  3 05:19:52 seax kernel: [    0.000000] Inode-cache hash table entries: 16384 (order: 4, 65536 bytes)
+May  3 05:19:52 seax kernel: [    0.000000] Initializing CPU#0
+May  3 05:19:52 seax kernel: [    0.000000] Initializing HighMem for node 0 (00000000:00000000)
+May  3 05:19:52 seax kernel: [    0.000000] Memory: 232916K/261688K available (5723K kernel code, 648K rwdata, 1704K rodata, 716K init, 452K bss, 28772K reserved, 0K cma-reserved, 0K highmem)
+May  3 05:19:52 seax kernel: [    0.000000] virtual kernel memory layout:
+May  3 05:19:52 seax kernel: [    0.000000]     fixmap  : 0xffd36000 - 0xfffff000   (2852 kB)
+May  3 05:19:52 seax kernel: [    0.000000]     pkmap   : 0xff800000 - 0xffc00000   (4096 kB)
+May  3 05:19:52 seax kernel: [    0.000000]     vmalloc : 0xd07f0000 - 0xff7fe000   ( 752 MB)
+May  3 05:19:52 seax kernel: [    0.000000]     lowmem  : 0xc0000000 - 0xcfff0000   ( 255 MB)
+May  3 05:19:52 seax kernel: [    0.000000]       .init : 0xc67e7000 - 0xc689a000   ( 716 kB)
+May  3 05:19:52 seax kernel: [    0.000000]       .data : 0xc659710a - 0xc67e5100   (2359 kB)
+May  3 05:19:52 seax kernel: [    0.000000]       .text : 0xc6000000 - 0xc659710a   (5724 kB)
+May  3 05:19:52 seax kernel: [    0.000000] Checking if this processor honours the WP bit even in supervisor mode...Ok.
+May  3 05:19:52 seax kernel: [    0.000000] Hierarchical RCU implementation.
+May  3 05:19:52 seax kernel: [    0.000000] 	Build-time adjustment of leaf fanout to 32.
+May  3 05:19:52 seax kernel: [    0.000000] 	RCU restricting CPUs from NR_CPUS=32 to nr_cpu_ids=1.
+May  3 05:19:52 seax kernel: [    0.000000] RCU: Adjusting geometry for rcu_fanout_leaf=32, nr_cpu_ids=1
+May  3 05:19:52 seax kernel: [    0.000000] NR_IRQS:2304 nr_irqs:32 16
+May  3 05:19:52 seax kernel: [    0.000000] CPU 0 irqstacks, hard=ce42e000 soft=ce430000
+May  3 05:19:52 seax kernel: [    0.000000] Console: colour VGA+ 80x25
+May  3 05:19:52 seax kernel: [    0.000000] console [tty0] enabled
+May  3 05:19:52 seax kernel: [    0.000000] tsc: Detected 2496.002 MHz processor
+May  3 05:19:52 seax kernel: [    0.059042] Calibrating delay loop (skipped) preset value.. 4992.00 BogoMIPS (lpj=9984008)
+May  3 05:19:52 seax kernel: [    0.059049] pid_max: default: 32768 minimum: 301
+May  3 05:19:52 seax kernel: [    0.059076] ACPI: Core revision 20160831
+May  3 05:19:52 seax kernel: [    0.061861] ACPI: 2 ACPI AML tables successfully acquired and loaded
+May  3 05:19:52 seax kernel: [    0.061875] ACPI: setting ELCR to 0200 (from 0e00)
+May  3 05:19:52 seax kernel: [    0.061915] Security Framework initialized
+May  3 05:19:52 seax kernel: [    0.061916] Yama: disabled by default; enable with sysctl kernel.yama.*
+May  3 05:19:52 seax kernel: [    0.061923] AppArmor: AppArmor disabled by boot time parameter
+May  3 05:19:52 seax kernel: [    0.061938] Mount-cache hash table entries: 1024 (order: 0, 4096 bytes)
+May  3 05:19:52 seax kernel: [    0.061941] Mountpoint-cache hash table entries: 1024 (order: 0, 4096 bytes)
+May  3 05:19:52 seax kernel: [    0.062376] CPU: Physical Processor ID: 0
+May  3 05:19:52 seax kernel: [    0.062402] mce: CPU supports 0 MCE banks
+May  3 05:19:52 seax kernel: [    0.062430] process: using mwait in idle threads
+May  3 05:19:52 seax kernel: [    0.062448] Last level iTLB entries: 4KB 64, 2MB 8, 4MB 8
+May  3 05:19:52 seax kernel: [    0.062451] Last level dTLB entries: 4KB 64, 2MB 0, 4MB 0, 1GB 4
+May  3 05:19:52 seax kernel: [    0.062453] Spectre V2 : Mitigation: Full generic retpoline
+May  3 05:19:52 seax kernel: [    0.062454] Spectre V2 : Filling RSB on context switch
+May  3 05:19:52 seax kernel: [    0.085796] Freeing SMP alternatives memory: 24K
+May  3 05:19:52 seax kernel: [    0.096590] ftrace: allocating 23721 entries in 47 pages
+May  3 05:19:52 seax kernel: [    0.147816] smpboot: Max logical packages: 1
+May  3 05:19:52 seax kernel: [    0.147829] smpboot: SMP motherboard not detected
+May  3 05:19:52 seax kernel: [    0.147830] smpboot: SMP disabled
+May  3 05:19:52 seax kernel: [    0.147833] Enabling APIC mode:  Flat.  Using 0 I/O APICs
+May  3 05:19:52 seax kernel: [    0.251785] Performance Events: unsupported p6 CPU model 78 no PMU driver, software events only.
+May  3 05:19:52 seax kernel: [    0.251813] KVM setup paravirtual spinlock
+May  3 05:19:52 seax kernel: [    0.252724] x86: Booted up 1 node, 1 CPUs
+May  3 05:19:52 seax kernel: [    0.252727] smpboot: Total of 1 processors activated (4992.00 BogoMIPS)
+May  3 05:19:52 seax kernel: [    0.252921] devtmpfs: initialized
+May  3 05:19:52 seax kernel: [    0.253367] clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645041785100000 ns
+May  3 05:19:52 seax kernel: [    0.253372] futex hash table entries: 256 (order: 2, 16384 bytes)
+May  3 05:19:52 seax kernel: [    0.253405] pinctrl core: initialized pinctrl subsystem
+May  3 05:19:52 seax kernel: [    0.253612] NET: Registered protocol family 16
+May  3 05:19:52 seax kernel: [    0.253927] cpuidle: using governor ladder
+May  3 05:19:52 seax kernel: [    0.253929] cpuidle: using governor menu
+May  3 05:19:52 seax kernel: [    0.254014] ACPI: bus type PCI registered
+May  3 05:19:52 seax kernel: [    0.254017] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+May  3 05:19:52 seax kernel: [    0.254358] PCI: PCI BIOS revision 2.10 entry at 0xfda26, last bus=0
+May  3 05:19:52 seax kernel: [    0.254360] PCI: Using configuration type 1 for base access
+May  3 05:19:52 seax kernel: [    0.255989] HugeTLB registered 4 MB page size, pre-allocated 0 pages
+May  3 05:19:52 seax kernel: [    0.256290] ACPI: Added _OSI(Module Device)
+May  3 05:19:52 seax kernel: [    0.256292] ACPI: Added _OSI(Processor Device)
+May  3 05:19:52 seax kernel: [    0.256294] ACPI: Added _OSI(3.0 _SCP Extensions)
+May  3 05:19:52 seax kernel: [    0.256296] ACPI: Added _OSI(Processor Aggregator Device)
+May  3 05:19:52 seax kernel: [    0.256813] ACPI: Executed 1 blocks of module-level executable AML code
+May  3 05:19:52 seax kernel: [    0.263847] ACPI: Interpreter enabled
+May  3 05:19:52 seax kernel: [    0.263878] ACPI: (supports S0 S5)
+May  3 05:19:52 seax kernel: [    0.263881] ACPI: Using PIC for interrupt routing
+May  3 05:19:52 seax kernel: [    0.264417] PCI: Ignoring host bridge windows from ACPI; if necessary, use "pci=use_crs" and report a bug
+May  3 05:19:52 seax kernel: [    0.273407] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+May  3 05:19:52 seax kernel: [    0.273416] acpi PNP0A03:00: _OSC: OS supports [ASPM ClockPM Segments MSI]
+May  3 05:19:52 seax kernel: [    0.273448] acpi PNP0A03:00: _OSC: not requesting OS control; OS requires [ExtendedConfig ASPM ClockPM MSI]
+May  3 05:19:52 seax kernel: [    0.273453] acpi PNP0A03:00: fail to add MMCONFIG information, can't access extended PCI configuration space under this bridge.
+May  3 05:19:52 seax kernel: [    0.273590] acpi PNP0A03:00: host bridge window [io  0x0cf8-0x0cff] (ignored)
+May  3 05:19:52 seax kernel: [    0.273593] acpi PNP0A03:00: host bridge window [io  0x0000-0x0cf7 window] (ignored)
+May  3 05:19:52 seax kernel: [    0.273596] acpi PNP0A03:00: host bridge window [io  0x0d00-0xffff window] (ignored)
+May  3 05:19:52 seax kernel: [    0.273599] acpi PNP0A03:00: host bridge window [mem 0x000a0000-0x000bffff window] (ignored)
+May  3 05:19:52 seax kernel: [    0.273602] acpi PNP0A03:00: host bridge window [mem 0x10000000-0xfdffffff window] (ignored)
+May  3 05:19:52 seax kernel: [    0.273604] PCI: root bus 00: using default resources
+May  3 05:19:52 seax kernel: [    0.274098] PCI host bridge to bus 0000:00
+May  3 05:19:52 seax kernel: [    0.274103] pci_bus 0000:00: root bus resource [io  0x0000-0xffff]
+May  3 05:19:52 seax kernel: [    0.274106] pci_bus 0000:00: root bus resource [mem 0x00000000-0xffffffff]
+May  3 05:19:52 seax kernel: [    0.274109] pci_bus 0000:00: root bus resource [bus 00-ff]
+May  3 05:19:52 seax kernel: [    0.274198] pci 0000:00:00.0: [8086:1237] type 00 class 0x060000
+May  3 05:19:52 seax kernel: [    0.275481] pci 0000:00:01.0: [8086:7000] type 00 class 0x060100
+May  3 05:19:52 seax kernel: [    0.277049] pci 0000:00:01.1: [8086:7111] type 00 class 0x01018a
+May  3 05:19:52 seax kernel: [    0.277896] pci 0000:00:01.1: reg 0x20: [io  0xd000-0xd00f]
+May  3 05:19:52 seax kernel: [    0.278264] pci 0000:00:01.1: legacy IDE quirk: reg 0x10: [io  0x01f0-0x01f7]
+May  3 05:19:52 seax kernel: [    0.278267] pci 0000:00:01.1: legacy IDE quirk: reg 0x14: [io  0x03f6]
+May  3 05:19:52 seax kernel: [    0.278269] pci 0000:00:01.1: legacy IDE quirk: reg 0x18: [io  0x0170-0x0177]
+May  3 05:19:52 seax kernel: [    0.278272] pci 0000:00:01.1: legacy IDE quirk: reg 0x1c: [io  0x0376]
+May  3 05:19:52 seax kernel: [    0.278760] pci 0000:00:02.0: [80ee:beef] type 00 class 0x030000
+May  3 05:19:52 seax kernel: [    0.279953] pci 0000:00:02.0: reg 0x10: [mem 0xe0000000-0xe0ffffff pref]
+May  3 05:19:52 seax kernel: [    0.286519] pci 0000:00:03.0: [8086:100e] type 00 class 0x020000
+May  3 05:19:52 seax kernel: [    0.287123] pci 0000:00:03.0: reg 0x10: [mem 0xf0000000-0xf001ffff]
+May  3 05:19:52 seax kernel: [    0.288019] pci 0000:00:03.0: reg 0x18: [io  0xd010-0xd017]
+May  3 05:19:52 seax kernel: [    0.289960] pci 0000:00:04.0: [80ee:cafe] type 00 class 0x088000
+May  3 05:19:52 seax kernel: [    0.290262] pci 0000:00:04.0: reg 0x10: [io  0xd020-0xd03f]
+May  3 05:19:52 seax kernel: [    0.290616] pci 0000:00:04.0: reg 0x14: [mem 0xf0400000-0xf07fffff]
+May  3 05:19:52 seax kernel: [    0.290884] pci 0000:00:04.0: reg 0x18: [mem 0xf0800000-0xf0803fff pref]
+May  3 05:19:52 seax kernel: [    0.292226] pci 0000:00:05.0: [8086:2415] type 00 class 0x040100
+May  3 05:19:52 seax kernel: [    0.292356] pci 0000:00:05.0: reg 0x10: [io  0xd100-0xd1ff]
+May  3 05:19:52 seax kernel: [    0.292435] pci 0000:00:05.0: reg 0x14: [io  0xd200-0xd23f]
+May  3 05:19:52 seax kernel: [    0.293090] pci 0000:00:06.0: [106b:003f] type 00 class 0x0c0310
+May  3 05:19:52 seax kernel: [    0.293357] pci 0000:00:06.0: reg 0x10: [mem 0xf0804000-0xf0804fff]
+May  3 05:19:52 seax kernel: [    0.294825] pci 0000:00:07.0: [8086:7113] type 00 class 0x068000
+May  3 05:19:52 seax kernel: [    0.295219] pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+May  3 05:19:52 seax kernel: [    0.295231] pci 0000:00:07.0: quirk: [io  0x4100-0x410f] claimed by PIIX4 SMB
+May  3 05:19:52 seax kernel: [    0.295770] pci 0000:00:0b.0: [8086:265c] type 00 class 0x0c0320
+May  3 05:19:52 seax kernel: [    0.296057] pci 0000:00:0b.0: reg 0x10: [mem 0xf0805000-0xf0805fff]
+May  3 05:19:52 seax kernel: [    0.297713] pci 0000:00:0d.0: [8086:2829] type 00 class 0x010601
+May  3 05:19:52 seax kernel: [    0.297985] pci 0000:00:0d.0: reg 0x10: [io  0xd240-0xd247]
+May  3 05:19:52 seax kernel: [    0.298199] pci 0000:00:0d.0: reg 0x14: [io  0xd248-0xd24b]
+May  3 05:19:52 seax kernel: [    0.298460] pci 0000:00:0d.0: reg 0x18: [io  0xd250-0xd257]
+May  3 05:19:52 seax systemd[1]: Starting Flush Journal to Persistent Storage...
+May  3 05:19:52 seax systemd[1]: Started udev Kernel Device Manager.
+May  3 05:19:52 seax systemd[1]: Started Flush Journal to Persistent Storage.
+May  3 05:19:52 seax systemd[1]: Started udev Coldplug all Devices.
+May  3 05:19:52 seax systemd[1]: Found device 82540EM Gigabit Ethernet Controller (PRO/1000 MT Desktop Adapter).
+May  3 05:19:52 seax systemd[1]: Found device VBOX_HARDDISK 5.
+May  3 05:19:52 seax systemd[1]: Activating swap /dev/disk/by-uuid/8d6f2842-03b9-4611-9caa-db73d28fcabb...
+May  3 05:19:52 seax systemd[1]: Activated swap /dev/disk/by-uuid/8d6f2842-03b9-4611-9caa-db73d28fcabb.
+May  3 05:19:52 seax systemd[1]: Reached target Swap.
+May  3 05:19:52 seax systemd[1]: Started Set the console keyboard layout.
+May  3 05:19:52 seax systemd[1]: Reached target Local File Systems (Pre).
+May  3 05:19:52 seax systemd[1]: Reached target Local File Systems.
+May  3 05:19:52 seax systemd[1]: Starting Create Volatile Files and Directories...
+May  3 05:19:52 seax systemd[1]: Starting Raise network interfaces...
+May  3 05:19:52 seax systemd[1]: Starting Set console font and keymap...
+May  3 05:19:52 seax systemd[1]: Started ifup for enp0s3.
+May  3 05:19:52 seax systemd[1]: Started Set console font and keymap.
+May  3 05:19:52 seax systemd[1]: Started Create Volatile Files and Directories.
+May  3 05:19:52 seax systemd[1]: Starting Update UTMP about System Boot/Shutdown...
+May  3 05:19:52 seax systemd[1]: Started Update UTMP about System Boot/Shutdown.
+May  3 05:19:52 seax systemd[1]: Reached target System Initialization.
+May  3 05:19:52 seax systemd[1]: Started Daily Cleanup of Temporary Directories.
+May  3 05:19:52 seax systemd[1]: anacron.timer: Adding 36.374719s random time.
+May  3 05:19:52 seax systemd[1]: Started Trigger anacron every hour.
+May  3 05:19:52 seax systemd[1]: Listening on D-Bus System Message Bus Socket.
+May  3 05:19:52 seax systemd[1]: Reached target Sockets.
+May  3 05:19:52 seax systemd[1]: Reached target Basic System.
+May  3 05:19:52 seax systemd[1]: Started Regular background program processing daemon.
+May  3 05:19:52 seax systemd[1]: Starting System Logging Service...
+May  3 05:19:52 seax systemd[1]: Started D-Bus System Message Bus.
+May  3 05:19:52 seax cron[273]: (CRON) INFO (pidfile fd = 3)
+May  3 05:19:52 seax cron[273]: (CRON) INFO (Running @reboot jobs)
+May  3 05:19:52 seax liblogging-stdlog:  [origin software="rsyslogd" swVersion="8.24.0" x-pid="274" x-info="http://www.rsyslog.com"] start
+May  3 05:19:52 seax kernel: [    0.298693] pci 0000:00:0d.0: reg 0x1c: [io  0xd258-0xd25b]
+May  3 05:19:52 seax kernel: [    0.298905] pci 0000:00:0d.0: reg 0x20: [io  0xd260-0xd26f]
+May  3 05:19:52 seax kernel: [    0.299113] pci 0000:00:0d.0: reg 0x24: [mem 0xf0806000-0xf0807fff]
+May  3 05:19:52 seax kernel: [    0.299850] pci_bus 0000:00: on NUMA node 0
+May  3 05:19:52 seax kernel: [    0.300951] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+May  3 05:19:52 seax kernel: [    0.301192] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+May  3 05:19:52 seax kernel: [    0.301321] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+May  3 05:19:52 seax kernel: [    0.301413] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+May  3 05:19:52 seax kernel: [    0.301544] ACPI: Enabled 2 GPEs in block 00 to 07
+May  3 05:19:52 seax kernel: [    0.301666] vgaarb: setting as boot device: PCI:0000:00:02.0
+May  3 05:19:52 seax kernel: [    0.301668] vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+May  3 05:19:52 seax kernel: [    0.301670] vgaarb: loaded
+May  3 05:19:52 seax kernel: [    0.301670] vgaarb: bridge control possible 0000:00:02.0
+May  3 05:19:52 seax kernel: [    0.301742] PCI: Using ACPI for IRQ routing
+May  3 05:19:52 seax kernel: [    0.301743] PCI: pci_cache_line_size set to 64 bytes
+May  3 05:19:52 seax kernel: [    0.301945] e820: reserve RAM buffer [mem 0x0009fc00-0x0009ffff]
+May  3 05:19:52 seax kernel: [    0.301949] e820: reserve RAM buffer [mem 0x0fff0000-0x0fffffff]
+May  3 05:19:52 seax kernel: [    0.302107] clocksource: Switched to clocksource kvm-clock
+May  3 05:19:52 seax kernel: [    0.309297] VFS: Disk quotas dquot_6.6.0
+May  3 05:19:52 seax kernel: [    0.309311] VFS: Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+May  3 05:19:52 seax kernel: [    0.309374] pnp: PnP ACPI init
+May  3 05:19:52 seax kernel: [    0.309460] pnp 00:00: Plug and Play ACPI device, IDs PNP0303 (active)
+May  3 05:19:52 seax kernel: [    0.309524] pnp 00:01: Plug and Play ACPI device, IDs PNP0f03 (active)
+May  3 05:19:52 seax kernel: [    0.310221] pnp: PnP ACPI: found 2 devices
+May  3 05:19:52 seax kernel: [    0.310241] PnPBIOS: Disabled by ACPI PNP
+May  3 05:19:52 seax kernel: [    0.346235] clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+May  3 05:19:52 seax kernel: [    0.346246] pci_bus 0000:00: resource 4 [io  0x0000-0xffff]
+May  3 05:19:52 seax kernel: [    0.346248] pci_bus 0000:00: resource 5 [mem 0x00000000-0xffffffff]
+May  3 05:19:52 seax kernel: [    0.346299] NET: Registered protocol family 2
+May  3 05:19:52 seax kernel: [    0.346466] TCP established hash table entries: 2048 (order: 1, 8192 bytes)
+May  3 05:19:52 seax kernel: [    0.346469] TCP bind hash table entries: 2048 (order: 2, 16384 bytes)
+May  3 05:19:52 seax kernel: [    0.346472] TCP: Hash tables configured (established 2048 bind 2048)
+May  3 05:19:52 seax kernel: [    0.346479] UDP hash table entries: 256 (order: 1, 8192 bytes)
+May  3 05:19:52 seax kernel: [    0.346483] UDP-Lite hash table entries: 256 (order: 1, 8192 bytes)
+May  3 05:19:52 seax kernel: [    0.346518] NET: Registered protocol family 1
+May  3 05:19:52 seax kernel: [    0.346530] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+May  3 05:19:52 seax kernel: [    0.346559] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+May  3 05:19:52 seax kernel: [    0.346613] pci 0000:00:02.0: Video device with shadowed ROM at [mem 0x000c0000-0x000dffff]
+May  3 05:19:52 seax kernel: [    0.347529] ACPI: PCI Interrupt Link [LNKB] enabled at IRQ 10
+May  3 05:19:52 seax kernel: [    0.347531] PCI: setting IRQ 10 as level-triggered
+May  3 05:19:52 seax kernel: [    0.349439] ACPI: PCI Interrupt Link [LNKC] enabled at IRQ 9
+May  3 05:19:52 seax kernel: [    0.349440] PCI: setting IRQ 9 as level-triggered
+May  3 05:19:52 seax kernel: [    0.350046] PCI: CLS 0 bytes, default 64
+May  3 05:19:52 seax kernel: [    0.350100] Unpacking initramfs...
+May  3 05:19:52 seax kernel: [    0.656646] Freeing initrd memory: 16688K
+May  3 05:19:52 seax kernel: [    0.656826] platform rtc_cmos: registered platform RTC device (no PNP device found)
+May  3 05:19:52 seax kernel: [    0.657282] audit: initializing netlink subsys (disabled)
+May  3 05:19:52 seax kernel: [    0.657301] audit: type=2000 audit(1525339346.945:1): initialized
+May  3 05:19:52 seax kernel: [    0.657715] workingset: timestamp_bits=14 max_order=16 bucket_order=2
+May  3 05:19:52 seax kernel: [    0.657736] zbud: loaded
+May  3 05:19:52 seax kernel: [    0.658590] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 250)
+May  3 05:19:52 seax kernel: [    0.658634] io scheduler noop registered
+May  3 05:19:52 seax kernel: [    0.658636] io scheduler deadline registered
+May  3 05:19:52 seax kernel: [    0.658652] io scheduler cfq registered (default)
+May  3 05:19:52 seax kernel: [    0.658766] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+May  3 05:19:52 seax kernel: [    0.658774] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+May  3 05:19:52 seax kernel: [    0.658825] GHES: HEST is not enabled!
+May  3 05:19:52 seax kernel: [    0.658852] isapnp: Scanning for PnP cards...
+May  3 05:19:52 seax kernel: [    1.021079] isapnp: No Plug & Play device found
+May  3 05:19:52 seax kernel: [    1.021160] Serial: 8250/16550 driver, 4 ports, IRQ sharing enabled
+May  3 05:19:52 seax kernel: [    1.021539] Linux agpgart interface v0.103
+May  3 05:19:52 seax kernel: [    1.021780] i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f03:PS2M] at 0x60,0x64 irq 1,12
+May  3 05:19:52 seax kernel: [    1.022175] serio: i8042 KBD port at 0x60,0x64 irq 1
+May  3 05:19:52 seax kernel: [    1.022180] serio: i8042 AUX port at 0x60,0x64 irq 12
+May  3 05:19:52 seax kernel: [    1.022282] mousedev: PS/2 mouse device common for all mice
+May  3 05:19:52 seax kernel: [    1.022560] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input0
+May  3 05:19:52 seax kernel: [    1.022932] rtc_cmos rtc_cmos: rtc core: registered rtc_cmos as rtc0
+May  3 05:19:52 seax kernel: [    1.022955] rtc_cmos rtc_cmos: alarms up to one day, 114 bytes nvram
+May  3 05:19:52 seax kernel: [    1.022974] ledtrig-cpu: registered to indicate activity on CPUs
+May  3 05:19:52 seax kernel: [    1.023143] NET: Registered protocol family 10
+May  3 05:19:52 seax kernel: [    1.023311] mip6: Mobile IPv6
+May  3 05:19:52 seax kernel: [    1.023312] NET: Registered protocol family 17
+May  3 05:19:52 seax kernel: [    1.023314] mpls_gso: MPLS GSO support
+May  3 05:19:52 seax kernel: [    1.023403] Using IPI No-Shortcut mode
+May  3 05:19:52 seax kernel: [    1.023488] registered taskstats version 1
+May  3 05:19:52 seax kernel: [    1.023497] zswap: loaded using pool lzo/zbud
+May  3 05:19:52 seax kernel: [    1.023573] ima: No TPM chip found, activating TPM-bypass!
+May  3 05:19:52 seax kernel: [    1.023960] rtc_cmos rtc_cmos: setting system clock to 2018-05-03 09:19:49 UTC (1525339189)
+May  3 05:19:52 seax kernel: [    1.023986] PM: Hibernation image not present or could not be loaded.
+May  3 05:19:52 seax kernel: [    1.024094] Freeing unused kernel memory: 716K
+May  3 05:19:52 seax kernel: [    1.024126] Write protecting the kernel text: 5728k
+May  3 05:19:52 seax kernel: [    1.024154] Write protecting the kernel read-only data: 1708k
+May  3 05:19:52 seax kernel: [    1.035886] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:19:52 seax kernel: [    1.036016] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:19:52 seax kernel: [    1.036393] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:19:52 seax kernel: [    1.036462] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:19:52 seax kernel: [    1.036726] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:19:52 seax kernel: [    1.036788] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:19:52 seax kernel: [    1.036846] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:19:52 seax kernel: [    1.036903] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:19:52 seax kernel: [    1.036959] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:19:52 seax kernel: [    1.037015] random: udevadm: uninitialized urandom read (16 bytes read)
+May  3 05:19:52 seax kernel: [    1.056840] SCSI subsystem initialized
+May  3 05:19:52 seax kernel: [    1.061535] e1000: Intel(R) PRO/1000 Network Driver - version 7.3.21-k8-NAPI
+May  3 05:19:52 seax kernel: [    1.061536] e1000: Copyright (c) 1999-2006 Intel Corporation.
+May  3 05:19:52 seax kernel: [    1.079931] ACPI: bus type USB registered
+May  3 05:19:52 seax kernel: [    1.079977] usbcore: registered new interface driver usbfs
+May  3 05:19:52 seax kernel: [    1.079996] usbcore: registered new interface driver hub
+May  3 05:19:52 seax kernel: [    1.080021] usbcore: registered new device driver usb
+May  3 05:19:52 seax kernel: [    1.081451] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+May  3 05:19:52 seax kernel: [    1.081776] ehci-pci: EHCI PCI platform driver
+May  3 05:19:52 seax kernel: [    1.083544] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+May  3 05:19:52 seax kernel: [    1.085915] libata version 3.00 loaded.
+May  3 05:19:52 seax kernel: [    1.304242] psmouse serio1: hgpk: ID: 10 00 64
+May  3 05:19:52 seax kernel: [    1.310769] input: ImExPS/2 Generic Explorer Mouse as /devices/platform/i8042/serio1/input/input2
+May  3 05:19:52 seax kernel: [    1.520774] e1000 0000:00:03.0 eth0: (PCI:33MHz:32-bit) 08:00:27:37:e4:4b
+May  3 05:19:52 seax kernel: [    1.520787] e1000 0000:00:03.0 eth0: Intel(R) PRO/1000 Network Connection
+May  3 05:19:52 seax kernel: [    1.520969] piix4_smbus 0000:00:07.0: SMBus Host Controller at 0x4100, revision 0
+May  3 05:19:52 seax kernel: [    1.524469] ehci-pci 0000:00:0b.0: EHCI Host Controller
+May  3 05:19:52 seax kernel: [    1.524487] ehci-pci 0000:00:0b.0: new USB bus registered, assigned bus number 1
+May  3 05:19:52 seax kernel: [    1.525037] ehci-pci 0000:00:0b.0: irq 9, io mem 0xf0805000
+May  3 05:19:52 seax kernel: [    1.528304] e1000 0000:00:03.0 enp0s3: renamed from eth0
+May  3 05:19:52 seax kernel: [    1.538781] ehci-pci 0000:00:0b.0: USB 2.0 started, EHCI 1.00
+May  3 05:19:52 seax kernel: [    1.538957] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+May  3 05:19:52 seax kernel: [    1.538964] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+May  3 05:19:52 seax kernel: [    1.538969] usb usb1: Product: EHCI Host Controller
+May  3 05:19:52 seax kernel: [    1.538973] usb usb1: Manufacturer: Linux 4.9.0-6-686 ehci_hcd
+May  3 05:19:52 seax kernel: [    1.538977] usb usb1: SerialNumber: 0000:00:0b.0
+May  3 05:19:52 seax kernel: [    1.539959] hub 1-0:1.0: USB hub found
+May  3 05:19:52 seax kernel: [    1.539979] hub 1-0:1.0: 12 ports detected
+May  3 05:19:52 seax kernel: [    1.541085] ahci 0000:00:0d.0: version 3.0
+May  3 05:19:52 seax kernel: [    1.543114] ohci-pci: OHCI PCI platform driver
+May  3 05:19:52 seax kernel: [    1.550878] ACPI: PCI Interrupt Link [LNKA] enabled at IRQ 11
+May  3 05:19:52 seax kernel: [    1.550883] PCI: setting IRQ 11 as level-triggered
+May  3 05:19:52 seax kernel: [    1.551125] ahci 0000:00:0d.0: SSS flag set, parallel bus scan disabled
+May  3 05:19:52 seax kernel: [    1.551531] ahci 0000:00:0d.0: AHCI 0001.0100 32 slots 1 ports 3 Gbps 0x1 impl SATA mode
+May  3 05:19:52 seax kernel: [    1.551539] ahci 0000:00:0d.0: flags: 64bit ncq stag only ccc 
+May  3 05:19:52 seax kernel: [    1.552693] scsi host0: ahci
+May  3 05:19:52 seax kernel: [    1.552934] ata1: SATA max UDMA/133 abar m8192@0xf0806000 port 0xf0806100 irq 11
+May  3 05:19:52 seax kernel: [    1.553442] ata_piix 0000:00:01.1: version 2.13
+May  3 05:19:52 seax kernel: [    1.556242] scsi host1: ata_piix
+May  3 05:19:52 seax kernel: [    1.556740] scsi host2: ata_piix
+May  3 05:19:52 seax kernel: [    1.556925] ata2: PATA max UDMA/33 cmd 0x1f0 ctl 0x3f6 bmdma 0xd000 irq 14
+May  3 05:19:52 seax kernel: [    1.556929] ata3: PATA max UDMA/33 cmd 0x170 ctl 0x376 bmdma 0xd008 irq 15
+May  3 05:19:52 seax kernel: [    1.559731] ohci-pci 0000:00:06.0: OHCI PCI host controller
+May  3 05:19:52 seax kernel: [    1.559749] ohci-pci 0000:00:06.0: new USB bus registered, assigned bus number 2
+May  3 05:19:52 seax kernel: [    1.559854] ohci-pci 0000:00:06.0: irq 10, io mem 0xf0804000
+May  3 05:19:52 seax kernel: [    1.619495] usb usb2: New USB device found, idVendor=1d6b, idProduct=0001
+May  3 05:19:52 seax kernel: [    1.619502] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+May  3 05:19:52 seax kernel: [    1.619507] usb usb2: Product: OHCI PCI host controller
+May  3 05:19:52 seax kernel: [    1.619512] usb usb2: Manufacturer: Linux 4.9.0-6-686 ohci_hcd
+May  3 05:19:52 seax kernel: [    1.619516] usb usb2: SerialNumber: 0000:00:06.0
+May  3 05:19:52 seax kernel: [    1.620904] hub 2-0:1.0: USB hub found
+May  3 05:19:52 seax kernel: [    1.620961] hub 2-0:1.0: 12 ports detected
+May  3 05:19:52 seax kernel: [    1.667243] clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x23fa79125d1, max_idle_ns: 440795329579 ns
+May  3 05:19:52 seax kernel: [    1.723335] ata3.00: ATAPI: VBOX CD-ROM, 1.0, max UDMA/133
+May  3 05:19:52 seax kernel: [    1.724259] ata3.00: configured for UDMA/33
+May  3 05:19:52 seax kernel: [    1.871561] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+May  3 05:19:52 seax kernel: [    1.871820] ata1.00: ATA-6: VBOX HARDDISK, 1.0, max UDMA/133
+May  3 05:19:52 seax kernel: [    1.871826] ata1.00: 8388608 sectors, multi 128: LBA48 NCQ (depth 31/32)
+May  3 05:19:52 seax kernel: [    1.872258] ata1.00: configured for UDMA/133
+May  3 05:19:52 seax kernel: [    1.872567] scsi 0:0:0:0: Direct-Access     ATA      VBOX HARDDISK    1.0  PQ: 0 ANSI: 5
+May  3 05:19:52 seax kernel: [    1.874795] scsi 2:0:0:0: CD-ROM            VBOX     CD-ROM           1.0  PQ: 0 ANSI: 5
+May  3 05:19:52 seax kernel: [    1.890237] sd 0:0:0:0: [sda] 8388608 512-byte logical blocks: (4.29 GB/4.00 GiB)
+May  3 05:19:52 seax kernel: [    1.890315] sd 0:0:0:0: [sda] Write Protect is off
+May  3 05:19:52 seax kernel: [    1.890323] sd 0:0:0:0: [sda] Mode Sense: 00 3a 00 00
+May  3 05:19:52 seax kernel: [    1.890357] sd 0:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+May  3 05:19:52 seax kernel: [    1.897843]  sda: sda1 sda2 < sda5 >
+May  3 05:19:52 seax kernel: [    1.899049] sd 0:0:0:0: [sda] Attached SCSI disk
+May  3 05:19:52 seax kernel: [    1.911107] sr 2:0:0:0: [sr0] scsi3-mmc drive: 32x/32x xa/form2 tray
+May  3 05:19:52 seax kernel: [    1.911113] cdrom: Uniform CD-ROM driver Revision: 3.20
+May  3 05:19:52 seax kernel: [    1.912848] sr 2:0:0:0: Attached scsi CD-ROM sr0
+May  3 05:19:52 seax kernel: [    1.931317] random: fast init done
+May  3 05:19:52 seax kernel: [    2.032800] PM: Starting manual resume from disk
+May  3 05:19:52 seax kernel: [    2.032809] PM: Hibernation image partition 8:5 present
+May  3 05:19:52 seax kernel: [    2.032811] PM: Looking for hibernation image.
+May  3 05:19:52 seax kernel: [    2.033593] PM: Image not found (code -22)
+May  3 05:19:52 seax kernel: [    2.033596] PM: Hibernation image not present or could not be loaded.
+May  3 05:19:52 seax kernel: [    2.046258] usb 2-1: new full-speed USB device number 2 using ohci-pci
+May  3 05:19:52 seax kernel: [    2.176733] EXT4-fs (sda1): mounted filesystem with ordered data mode. Opts: (null)
+May  3 05:19:52 seax kernel: [    2.350831] usb 2-1: New USB device found, idVendor=80ee, idProduct=0021
+May  3 05:19:52 seax kernel: [    2.350835] usb 2-1: New USB device strings: Mfr=1, Product=3, SerialNumber=0
+May  3 05:19:52 seax kernel: [    2.350839] usb 2-1: Product: USB Tablet
+May  3 05:19:52 seax kernel: [    2.350842] usb 2-1: Manufacturer: VirtualBox
+May  3 05:19:52 seax kernel: [    2.396599] ip_tables: (C) 2000-2006 Netfilter Core Team
+May  3 05:19:52 seax kernel: [    2.742659] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+May  3 05:19:52 seax kernel: [    2.937211] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input3
+May  3 05:19:52 seax kernel: [    2.937215] ACPI: Power Button [PWRF]
+May  3 05:19:52 seax kernel: [    2.937361] input: Sleep Button as /devices/LNXSYSTM:00/LNXSLPBN:00/input/input4
+May  3 05:19:52 seax kernel: [    2.937365] ACPI: Sleep Button [SLPF]
+May  3 05:19:52 seax kernel: [    2.942217] ACPI: AC Adapter [AC] (off-line)
+May  3 05:19:52 seax kernel: [    2.948888] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+May  3 05:19:52 seax kernel: [    2.948963] input: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A03:00/LNXVIDEO:00/input/input5
+May  3 05:19:52 seax kernel: [    2.949954] ACPI: Battery Slot [BAT0] (battery present)
+May  3 05:19:52 seax kernel: [    3.030076] [drm] Initialized
+May  3 05:19:52 seax kernel: [    3.083734] vboxvideo: loading out-of-tree module taints kernel.
+May  3 05:19:52 seax kernel: [    3.098146] sd 0:0:0:0: Attached scsi generic sg0 type 0
+May  3 05:19:52 seax kernel: [    3.098520] sr 2:0:0:0: Attached scsi generic sg1 type 5
+May  3 05:19:52 seax kernel: [    3.107636] hidraw: raw HID events driver (C) Jiri Kosina
+May  3 05:19:52 seax kernel: [    3.129001] usbcore: registered new interface driver usbhid
+May  3 05:19:52 seax kernel: [    3.129003] usbhid: USB HID core driver
+May  3 05:19:52 seax kernel: [    3.154353] input: PC Speaker as /devices/platform/pcspkr/input/input6
+May  3 05:19:52 seax kernel: [    3.200031] RAPL PMU: API unit is 2^-32 Joules, 5 fixed counters, 10737418240 ms ovfl timer
+May  3 05:19:52 seax kernel: [    3.200032] RAPL PMU: hw unit of domain pp0-core 2^-0 Joules
+May  3 05:19:52 seax kernel: [    3.200033] RAPL PMU: hw unit of domain package 2^-0 Joules
+May  3 05:19:52 seax kernel: [    3.200034] RAPL PMU: hw unit of domain dram 2^-0 Joules
+May  3 05:19:52 seax kernel: [    3.200034] RAPL PMU: hw unit of domain pp1-gpu 2^-0 Joules
+May  3 05:19:52 seax kernel: [    3.200035] RAPL PMU: hw unit of domain psys 2^-0 Joules
+May  3 05:19:52 seax kernel: [    3.320187] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb2/2-1/2-1:1.0/0003:80EE:0021.0001/input/input7
+May  3 05:19:52 seax kernel: [    3.320284] hid-generic 0003:80EE:0021.0001: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+May  3 05:19:52 seax kernel: [    3.374834] Adding 522236k swap on /dev/sda5.  Priority:-1 extents:1 across:522236k FS
+May  3 05:19:52 seax kernel: [    3.705925] snd_intel8x0 0000:00:05.0: white list rate for 1028:0177 is 48000
+May  3 05:19:52 seax kernel: [    3.707759] [drm] VRAM 01000000
+May  3 05:19:52 seax kernel: [    3.724429] [TTM] Zone  kernel: Available graphics memory: 125172 kiB
+May  3 05:19:52 seax kernel: [    3.724431] [TTM] Initializing pool allocator
+May  3 05:19:52 seax kernel: [    3.726865] fbcon: vboxdrmfb (fb0) is primary device
+May  3 05:19:52 seax kernel: [    3.749207] Console: switching to colour frame buffer device 100x37
+May  3 05:19:52 seax kernel: [    3.750984] vboxvideo 0000:00:02.0: fb0: vboxdrmfb frame buffer device
+May  3 05:19:52 seax kernel: [    3.751169] [drm] Initialized vboxvideo 1.0.0 20130823 for 0000:00:02.0 on minor 0
+May  3 05:19:52 seax kernel: [    3.752179] ACPI: PCI Interrupt Link [LNKD] enabled at IRQ 11
+May  3 05:19:52 seax kernel: [    3.753150] vgdrvHeartbeatInit: Setting up heartbeat to trigger every 2000 milliseconds
+May  3 05:19:52 seax kernel: [    3.753438] input: Unspecified device as /devices/pci0000:00/0000:00:04.0/input/input8
+May  3 05:19:52 seax kernel: [    3.755806] vboxguest: misc device minor 58, IRQ 11, I/O port d020, MMIO at 00000000f0400000 (size 0x400000)
+May  3 05:19:52 seax kernel: [    3.755808] vboxguest: Successfully loaded version 5.2.8 (interface 0x00010004)
+May  3 05:19:52 seax systemd[1]: anacron.timer: Adding 3min 8.445883s random time.
+May  3 05:19:52 seax systemd[1]: Started irqbalance daemon.
+May  3 05:19:52 seax systemd[1]: Starting Login Service...
+May  3 05:19:52 seax systemd[1]: Starting vboxadd.service...
+May  3 05:19:52 seax systemd[1]: apt-daily.timer: Adding 3h 41min 13.155672s random time.
+May  3 05:19:52 seax systemd[1]: Started Daily apt download activities.
+May  3 05:19:52 seax systemd[1]: apt-daily-upgrade.timer: Adding 35min 30.662806s random time.
+May  3 05:19:52 seax systemd[1]: Started Daily apt upgrade and clean activities.
+May  3 05:19:52 seax systemd[1]: Reached target Timers.
+May  3 05:19:52 seax systemd[1]: Reached target Sound Card.
+May  3 05:19:52 seax systemd[1]: Started System Logging Service.
+May  3 05:19:52 seax systemd[1]: Started Login Service.
+May  3 05:19:52 seax /usr/sbin/irqbalance: Balancing is ineffective on systems with a single cpu.  Shutting down
+May  3 05:19:52 seax dhclient[322]: Internet Systems Consortium DHCP Client 4.3.5
+May  3 05:19:52 seax sh[251]: Internet Systems Consortium DHCP Client 4.3.5
+May  3 05:19:52 seax dhclient[322]: Copyright 2004-2016 Internet Systems Consortium.
+May  3 05:19:52 seax sh[251]: Copyright 2004-2016 Internet Systems Consortium.
+May  3 05:19:52 seax sh[251]: All rights reserved.
+May  3 05:19:52 seax sh[251]: For info, please visit https://www.isc.org/software/dhcp/
+May  3 05:19:52 seax dhclient[322]: All rights reserved.
+May  3 05:19:52 seax dhclient[322]: For info, please visit https://www.isc.org/software/dhcp/
+May  3 05:19:52 seax dhclient[322]: 
+May  3 05:19:52 seax kernel: [    3.930606] IPv6: ADDRCONF(NETDEV_UP): enp0s3: link is not ready
+May  3 05:19:52 seax kernel: [    3.934763] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+May  3 05:19:52 seax kernel: [    3.938698] IPv6: ADDRCONF(NETDEV_CHANGE): enp0s3: link becomes ready
+May  3 05:19:52 seax dhclient[322]: Listening on LPF/enp0s3/08:00:27:37:e4:4b
+May  3 05:19:52 seax sh[251]: Listening on LPF/enp0s3/08:00:27:37:e4:4b
+May  3 05:19:52 seax sh[251]: Sending on   LPF/enp0s3/08:00:27:37:e4:4b
+May  3 05:19:52 seax sh[251]: Sending on   Socket/fallback
+May  3 05:19:52 seax sh[251]: DHCPDISCOVER on enp0s3 to 255.255.255.255 port 67 interval 5
+May  3 05:19:52 seax dhclient[322]: Sending on   LPF/enp0s3/08:00:27:37:e4:4b
+May  3 05:19:52 seax dhclient[322]: Sending on   Socket/fallback
+May  3 05:19:52 seax dhclient[322]: DHCPDISCOVER on enp0s3 to 255.255.255.255 port 67 interval 5
+May  3 05:19:52 seax systemd[1]: Started Raise network interfaces.
+May  3 05:19:52 seax systemd[1]: Reached target Network.
+May  3 05:19:52 seax systemd[1]: Reached target Network is Online.
+May  3 05:19:52 seax systemd[1]: Starting LSB: exim Mail Transport Agent...
+May  3 05:19:52 seax systemd[1]: Starting Permit User Sessions...
+May  3 05:19:52 seax systemd[1]: Starting OpenBSD Secure Shell server...
+May  3 05:19:52 seax systemd[1]: Started Permit User Sessions.
+May  3 05:19:52 seax systemd[1]: Started Getty on tty1.
+May  3 05:19:52 seax systemd[1]: Reached target Login Prompts.
+May  3 05:19:52 seax systemd[1]: Started OpenBSD Secure Shell server.
+May  3 05:19:52 seax vboxadd[303]: VirtualBox Guest Additions: Starting.
+May  3 05:19:52 seax vboxadd[303]: /opt/VBoxGuestAdditions-5.2.8/init/vboxadd: 256: /opt/VBoxGuestAdditions-5.2.8/init/vboxadd: cannot create : Directory nonexistent
+May  3 05:19:52 seax kernel: [    4.349111] vboxsf: Successfully loaded version 5.2.8 (interface 0x00010004)
+May  3 05:19:52 seax systemd[1]: Started vboxadd.service.
+May  3 05:19:52 seax systemd[1]: Starting vboxadd-service.service...
+May  3 05:19:52 seax vboxadd-service[522]: vboxadd-service.sh: Starting VirtualBox Guest Addition service.
+May  3 05:19:52 seax vboxadd-service.sh: Starting VirtualBox Guest Addition service.
+May  3 05:19:52 seax kernel: [    4.501977] VBoxService 5.2.8 r121009 (verbosity: 0) linux.x86 (Feb 26 2018 16:01:06) release log
+May  3 05:19:52 seax kernel: [    4.501977] 00:00:00.000262 main     Log opened 2018-05-03T09:19:52.977891000Z
+May  3 05:19:52 seax kernel: [    4.502132] 00:00:00.000437 main     OS Product: Linux
+May  3 05:19:52 seax kernel: [    4.502203] 00:00:00.000547 main     OS Release: 4.9.0-6-686
+May  3 05:19:52 seax kernel: [    4.503197] 00:00:00.001508 main     OS Version: #1 SMP Debian 4.9.82-1+deb9u3 (2018-03-02)
+May  3 05:19:52 seax kernel: [    4.503446] 00:00:00.001755 main     Executable: /opt/VBoxGuestAdditions-5.2.8/sbin/VBoxService
+May  3 05:19:52 seax kernel: [    4.503446] 00:00:00.001758 main     Process ID: 540
+May  3 05:19:52 seax kernel: [    4.503446] 00:00:00.001761 main     Package type: LINUX_32BITS_GENERIC
+May  3 05:19:52 seax kernel: [    4.511065] 00:00:00.009375 main     5.2.8 r121009 started. Verbose level = 0
+May  3 05:19:52 seax vboxadd-service.sh: VirtualBox Guest Addition service started.
+May  3 05:19:52 seax systemd[1]: Started vboxadd-service.service.
+May  3 05:19:53 seax kernel: [    4.546549] random: crng init done
+May  3 05:19:53 seax exim4[355]: Starting MTA: exim4.
+May  3 05:19:53 seax systemd[1]: Started LSB: exim Mail Transport Agent.
+May  3 05:19:53 seax systemd[1]: Reached target Multi-User System.
+May  3 05:19:53 seax systemd[1]: Reached target Graphical Interface.
+May  3 05:19:53 seax systemd[1]: Starting Update UTMP about System Runlevel Changes...
+May  3 05:19:53 seax systemd[1]: Started Update UTMP about System Runlevel Changes.
+May  3 05:19:53 seax systemd[1]: Startup finished in 2.149s (kernel) + 2.598s (userspace) = 4.748s.
+May  3 05:19:53 seax dhclient[322]: DHCPREQUEST of 10.10.3.2 on enp0s3 to 255.255.255.255 port 67
+May  3 05:19:53 seax sh[251]: DHCPREQUEST of 10.10.3.2 on enp0s3 to 255.255.255.255 port 67
+May  3 05:19:53 seax sh[251]: DHCPOFFER of 10.10.3.2 from 10.10.3.1
+May  3 05:19:53 seax dhclient[322]: DHCPOFFER of 10.10.3.2 from 10.10.3.1
+May  3 05:19:53 seax dhclient[322]: DHCPACK of 10.10.3.2 from 10.10.3.1
+May  3 05:19:53 seax sh[251]: DHCPACK of 10.10.3.2 from 10.10.3.1
+May  3 05:19:53 seax dhclient[322]: bound to 10.10.3.2 -- renewal in 261 seconds.
+May  3 05:19:53 seax sh[251]: bound to 10.10.3.2 -- renewal in 261 seconds.
+May  3 05:19:53 seax systemd[1]: Reloading OpenBSD Secure Shell server.
+May  3 05:19:53 seax systemd[1]: Reloaded OpenBSD Secure Shell server.
+May  3 05:19:53 seax sh[251]: enp0s3=enp0s3
+May  3 05:20:07 seax systemd[1]: Created slice User Slice of entel.
+May  3 05:20:07 seax systemd[1]: Starting User Manager for UID 1000...
+May  3 05:20:07 seax systemd[1]: Started Session 1 of user entel.
+May  3 05:20:07 seax systemd[690]: Reached target Timers.
+May  3 05:20:07 seax systemd[690]: Listening on GnuPG cryptographic agent and passphrase cache.
+May  3 05:20:07 seax systemd[690]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+May  3 05:20:07 seax systemd[690]: Reached target Paths.
+May  3 05:20:07 seax systemd[690]: Listening on GnuPG cryptographic agent (access for web browsers).
+May  3 05:20:07 seax systemd[690]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+May  3 05:20:07 seax systemd[690]: Reached target Sockets.
+May  3 05:20:07 seax systemd[690]: Reached target Basic System.
+May  3 05:20:07 seax systemd[690]: Reached target Default.
+May  3 05:20:07 seax systemd[690]: Startup finished in 28ms.
+May  3 05:20:07 seax systemd[1]: Started User Manager for UID 1000.
+May  3 05:24:14 seax dhclient[663]: DHCPREQUEST of 10.10.3.2 on enp0s3 to 10.10.3.1 port 67
+May  3 05:24:14 seax dhclient[663]: DHCPACK of 10.10.3.2 from 10.10.3.1
+May  3 05:24:14 seax dhclient[663]: bound to 10.10.3.2 -- renewal in 241 seconds.

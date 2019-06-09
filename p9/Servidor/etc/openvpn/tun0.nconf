@@ -1,0 +1,3 @@
+dev tun0
+ifconfig 10.10.4.1 10.10.4.2
+secret /etc/openvpn/static.key

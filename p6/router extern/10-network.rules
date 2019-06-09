@@ -1,0 +1,4 @@
+SUBSYSTEM=="net", ACTION=="add", ATTR{address}=="08:00:27:00:01:22", NAME="eth-troncal"
+SUBSYSTEM=="net", ACTION=="add", ATTR{address}=="08:00:27:10:02:01", NAME="eth-dmz"
+SUBSYSTEM=="net", ACTION=="add", ATTR{address}=="08:00:27:10:04:01", NAME="eth-vpn"
+

@@ -1,0 +1,16 @@
+ERROR
+
+The requested URL could not be retrieved
+     ______________________________________________________________________________________
+
+   The following error was encountered while trying to retrieve the URL: http://facebook.com/
+
+     Access Denied.
+
+   Access control configuration prevents your request from being allowed at this time. Please
+   contact your service provider if you feel this is incorrect.
+
+   Your cache administrator is webmaster.
+     ______________________________________________________________________________________
+
+   Generated Mon, 30 Apr 2018 17:54:09 GMT by seax (squid/3.5.23)

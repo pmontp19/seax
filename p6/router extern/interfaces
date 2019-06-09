@@ -1,0 +1,22 @@
+# This file describes the network interfaces available on your system
+# and how to activate them. For more information, see interfaces(5).
+
+source /etc/network/interfaces.d/*
+
+# The loopback network interface
+auto lo
+iface lo inet loopback
+
+# The primary network interface
+allow-hotplug eth-troncal
+iface eth-troncal inet dhcp
+
+allow-hotplug eth-dmz
+iface eth-dmz inet static
+	address 10.10.2.1
+	netmask 255.255.255.240
+
+auto eth-vpn
+iface eth-vpn inet static
+	address 10.10.4.1
+	netmask 255.255.255.240

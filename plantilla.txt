@@ -1,0 +1,23 @@
+Pràctica . - ....	Cognom Nom
+
+- Fitxers involucrats: 
+	p?_cognaom_nom.txt 				-> fitxer d'exemple
+	...
+
+- Descripció
+	...
+	
+- Accions a fer:
+	Editar el fitxer p?_cognaom_nom.txt
+		~# nano p?_cognaom_nom.txt
+	...
+
+- Proves de validació
+	....
+
+- Comentaris
+	...
+
+- Documents d'interès
+	http://debian-handbook.info/browse/es-ES/stable/
+	...

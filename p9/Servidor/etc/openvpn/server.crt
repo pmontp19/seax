@@ -1,0 +1,99 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=ES, ST=BARCELONA, L=Vilanova, O=seax, OU=classe.seax, CN=seax CA/name=server/emailAddress=admin@seax.edu
+        Validity
+            Not Before: May 17 19:21:36 2018 GMT
+            Not After : May 14 19:21:36 2028 GMT
+        Subject: C=ES, ST=BARCELONA, L=Vilanova, O=seax, OU=classe.seax, CN=server/name=server/emailAddress=admin@seax.edu
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9e:6a:9a:ed:88:da:d9:56:53:f2:9f:72:71:fd:
+                    34:b5:54:c5:e2:cb:b1:52:4d:aa:3b:65:5c:bb:06:
+                    f4:61:4c:ab:85:97:ac:80:bd:81:7f:03:47:d6:51:
+                    f2:33:6c:3e:bc:cf:15:6b:f0:7a:ef:7b:42:22:cc:
+                    5f:c3:28:34:62:2f:46:47:6a:af:32:66:05:87:89:
+                    3f:01:2d:4f:91:d4:ab:65:90:23:40:42:46:d9:e2:
+                    35:ba:7d:38:51:0d:39:cb:f8:51:6e:18:0a:99:ae:
+                    68:f2:8f:22:57:36:84:76:cb:7d:fb:e1:c3:b4:58:
+                    e5:b8:fc:76:bb:98:83:63:61:15:91:8d:d0:76:da:
+                    e6:63:9f:16:cd:95:f1:28:35:db:11:3f:fc:4b:2a:
+                    bb:0d:12:ba:8b:31:48:a1:ca:9b:12:be:20:d9:2f:
+                    85:4f:18:72:ce:41:cd:97:b6:15:b0:22:1d:8a:a6:
+                    b4:6a:03:da:f6:7d:f7:d2:fa:dc:d0:e0:fc:48:55:
+                    43:56:d1:e2:b0:82:90:e6:3f:e1:a9:94:ae:f8:83:
+                    3d:12:0d:20:c7:97:ff:12:78:94:d1:d4:eb:1c:1d:
+                    86:85:e8:d3:54:99:bb:36:76:16:fb:d7:86:a6:a3:
+                    19:9a:b4:12:6e:f5:24:e1:f9:df:04:d8:1c:8b:d9:
+                    da:1f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                10:9E:5F:58:31:D0:43:6F:77:15:59:CD:25:F0:65:27:CF:4F:80:C5
+            X509v3 Authority Key Identifier: 
+                keyid:1B:84:7E:23:D5:71:40:B3:8B:3E:36:14:E4:11:AD:81:97:92:25:42
+                DirName:/C=ES/ST=BARCELONA/L=Vilanova/O=seax/OU=classe.seax/CN=seax CA/name=server/emailAddress=admin@seax.edu
+                serial:80:2F:46:4F:60:13:AE:BA
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:server
+    Signature Algorithm: sha256WithRSAEncryption
+         81:7c:f9:dd:49:dc:7d:f3:72:8e:15:12:12:db:d9:7d:ff:e0:
+         17:1a:a1:24:e6:82:e7:92:e6:62:e8:8a:cf:3b:6a:f8:19:11:
+         3f:dd:18:19:54:1e:c4:b1:fb:63:22:89:74:90:af:4a:17:c4:
+         2a:98:77:50:67:7e:9f:fc:49:c7:3c:cc:a2:30:6e:70:a0:30:
+         76:41:7a:42:8f:de:49:1b:1e:98:4c:ba:56:d9:c4:47:fe:8d:
+         eb:7e:6f:c3:50:6f:5c:07:84:f1:81:03:fa:9f:36:23:24:a0:
+         4d:3b:28:6f:a8:15:b0:8a:6a:0c:a1:25:0d:58:27:88:1e:47:
+         fa:cb:91:36:28:5a:a0:60:bf:cd:0a:53:c8:53:92:b3:f4:0f:
+         52:d3:e4:4d:00:3a:c1:ba:97:93:3e:a0:15:e6:9d:4f:5e:e2:
+         9b:5d:4f:1e:a3:ba:c5:ad:4e:f3:dc:c0:b4:9d:71:fc:35:8e:
+         c2:82:26:43:d4:38:f1:ae:74:0a:df:a4:8d:81:2d:f4:bf:f3:
+         58:76:b7:fe:cf:b9:28:07:5a:69:53:7e:23:f2:a2:5f:9f:89:
+         f4:e4:3b:17:cd:9c:79:85:dd:c3:56:2d:18:66:70:9c:4e:33:
+         94:1b:96:38:72:6f:01:b4:11:39:22:ac:e4:c6:be:67:d9:22:
+         fe:ec:69:83
+-----BEGIN CERTIFICATE-----
+MIIFMzCCBBugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBmzELMAkGA1UEBhMCRVMx
+EjAQBgNVBAgTCUJBUkNFTE9OQTERMA8GA1UEBxMIVmlsYW5vdmExDTALBgNVBAoT
+BHNlYXgxFDASBgNVBAsTC2NsYXNzZS5zZWF4MRAwDgYDVQQDEwdzZWF4IENBMQ8w
+DQYDVQQpEwZzZXJ2ZXIxHTAbBgkqhkiG9w0BCQEWDmFkbWluQHNlYXguZWR1MB4X
+DTE4MDUxNzE5MjEzNloXDTI4MDUxNDE5MjEzNlowgZoxCzAJBgNVBAYTAkVTMRIw
+EAYDVQQIEwlCQVJDRUxPTkExETAPBgNVBAcTCFZpbGFub3ZhMQ0wCwYDVQQKEwRz
+ZWF4MRQwEgYDVQQLEwtjbGFzc2Uuc2VheDEPMA0GA1UEAxMGc2VydmVyMQ8wDQYD
+VQQpEwZzZXJ2ZXIxHTAbBgkqhkiG9w0BCQEWDmFkbWluQHNlYXguZWR1MIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnmqa7Yja2VZT8p9ycf00tVTF4sux
+Uk2qO2Vcuwb0YUyrhZesgL2BfwNH1lHyM2w+vM8Va/B673tCIsxfwyg0Yi9GR2qv
+MmYFh4k/AS1PkdSrZZAjQEJG2eI1un04UQ05y/hRbhgKma5o8o8iVzaEdst9++HD
+tFjluPx2u5iDY2EVkY3QdtrmY58WzZXxKDXbET/8Syq7DRK6izFIocqbEr4g2S+F
+TxhyzkHNl7YVsCIdiqa0agPa9n330vrc0OD8SFVDVtHisIKQ5j/hqZSu+IM9Eg0g
+x5f/EniU0dTrHB2GhejTVJm7NnYW+9eGpqMZmrQSbvUk4fnfBNgci9naHwIDAQAB
+o4IBfzCCAXswCQYDVR0TBAIwADARBglghkgBhvhCAQEEBAMCBkAwNAYJYIZIAYb4
+QgENBCcWJUVhc3ktUlNBIEdlbmVyYXRlZCBTZXJ2ZXIgQ2VydGlmaWNhdGUwHQYD
+VR0OBBYEFBCeX1gx0ENvdxVZzSXwZSfPT4DFMIHQBgNVHSMEgcgwgcWAFBuEfiPV
+cUCziz42FOQRrYGXkiVCoYGhpIGeMIGbMQswCQYDVQQGEwJFUzESMBAGA1UECBMJ
+QkFSQ0VMT05BMREwDwYDVQQHEwhWaWxhbm92YTENMAsGA1UEChMEc2VheDEUMBIG
+A1UECxMLY2xhc3NlLnNlYXgxEDAOBgNVBAMTB3NlYXggQ0ExDzANBgNVBCkTBnNl
+cnZlcjEdMBsGCSqGSIb3DQEJARYOYWRtaW5Ac2VheC5lZHWCCQCAL0ZPYBOuujAT
+BgNVHSUEDDAKBggrBgEFBQcDATALBgNVHQ8EBAMCBaAwEQYDVR0RBAowCIIGc2Vy
+dmVyMA0GCSqGSIb3DQEBCwUAA4IBAQCBfPndSdx983KOFRIS29l9/+AXGqEk5oLn
+kuZi6IrPO2r4GRE/3RgZVB7EsftjIol0kK9KF8QqmHdQZ36f/EnHPMyiMG5woDB2
+QXpCj95JGx6YTLpW2cRH/o3rfm/DUG9cB4TxgQP6nzYjJKBNOyhvqBWwimoMoSUN
+WCeIHkf6y5E2KFqgYL/NClPIU5Kz9A9S0+RNADrBupeTPqAV5p1PXuKbXU8eo7rF
+rU7z3MC0nXH8NY7CgiZD1DjxrnQK36SNgS30v/NYdrf+z7koB1ppU34j8qJfn4n0
+5DsXzZx5hd3DVi0YZnCcTjOUG5Y4cm8BtBE5Iqzkxr5n2SL+7GmD
+-----END CERTIFICATE-----

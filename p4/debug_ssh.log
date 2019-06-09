@@ -1,0 +1,71 @@
+entel@seax:~$ ssh -v pi@192.168.0.150
+OpenSSH_7.4p1 Debian-10+deb9u2, OpenSSL 1.0.2l  25 May 2017
+debug1: Reading configuration data /etc/ssh/ssh_config
+debug1: /etc/ssh/ssh_config line 19: Applying options for *
+debug1: Connecting to 192.168.0.150 [192.168.0.150] port 22.
+debug1: Connection established.
+debug1: identity file /home/entel/.ssh/id_rsa type 1
+debug1: key_load_public: No such file or directory
+debug1: identity file /home/entel/.ssh/id_rsa-cert type -1
+debug1: key_load_public: No such file or directory
+debug1: identity file /home/entel/.ssh/id_dsa type -1
+debug1: key_load_public: No such file or directory
+debug1: identity file /home/entel/.ssh/id_dsa-cert type -1
+debug1: key_load_public: No such file or directory
+debug1: identity file /home/entel/.ssh/id_ecdsa type -1
+debug1: key_load_public: No such file or directory
+debug1: identity file /home/entel/.ssh/id_ecdsa-cert type -1
+debug1: key_load_public: No such file or directory
+debug1: identity file /home/entel/.ssh/id_ed25519 type -1
+debug1: key_load_public: No such file or directory
+debug1: identity file /home/entel/.ssh/id_ed25519-cert type -1
+debug1: Enabling compatibility mode for protocol 2.0
+debug1: Local version string SSH-2.0-OpenSSH_7.4p1 Debian-10+deb9u2
+debug1: Remote protocol version 2.0, remote software version OpenSSH_7.4p1 Raspbian-10+deb9u1
+debug1: match: OpenSSH_7.4p1 Raspbian-10+deb9u1 pat OpenSSH* compat 0x04000000
+debug1: Authenticating to 192.168.0.150:22 as 'pi'
+debug1: SSH2_MSG_KEXINIT sent
+debug1: SSH2_MSG_KEXINIT received
+debug1: kex: algorithm: curve25519-sha256
+debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+debug1: expecting SSH2_MSG_KEX_ECDH_REPLY
+debug1: Server host key: ecdsa-sha2-nistp256 SHA256:IBrULQe1bl8j63DWwWPhsyToFgKEHnpgqUonbkyHZeU
+debug1: Host '192.168.0.150' is known and matches the ECDSA host key.
+debug1: Found key in /home/entel/.ssh/known_hosts:8
+debug1: rekey after 134217728 blocks
+debug1: SSH2_MSG_NEWKEYS sent
+debug1: expecting SSH2_MSG_NEWKEYS
+debug1: SSH2_MSG_NEWKEYS received
+debug1: rekey after 134217728 blocks
+debug1: SSH2_MSG_EXT_INFO received
+debug1: kex_input_ext_info: server-sig-algs=<ssh-ed25519,ssh-rsa,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521>
+debug1: SSH2_MSG_SERVICE_ACCEPT received
+debug1: Authentications that can continue: publickey,password
+debug1: Next authentication method: publickey
+debug1: Offering RSA public key: /home/entel/.ssh/id_rsa
+debug1: Server accepts key: pkalg ssh-rsa blen 279
+debug1: Authentication succeeded (publickey).
+Authenticated to 192.168.0.150 ([192.168.0.150]:22).
+debug1: channel 0: new [client-session]
+debug1: Requesting no-more-sessions@openssh.com
+debug1: Entering interactive session.
+debug1: pledge: network
+debug1: client_input_global_request: rtype hostkeys-00@openssh.com want_reply 0
+debug1: Sending environment.
+debug1: Sending env LANG = en_US.UTF-8
+
+
+=====================================
+exit
+=====================================
+
+logout
+debug1: client_input_channel_req: channel 0 rtype exit-status reply 0
+debug1: client_input_channel_req: channel 0 rtype eow@openssh.com reply 0
+debug1: channel 0: free: client-session, nchannels 1
+Connection to 192.168.0.150 closed.
+Transferred: sent 3176, received 3488 bytes, in 2.7 seconds
+Bytes per second: sent 1160.8, received 1274.9
+debug1: Exit status 0

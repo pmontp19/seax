@@ -1,0 +1,17 @@
+Dades de lequip
+===============
+Data: Sun Mar  4 18:13:27 EST 2018
+Usuaris humans: entel
+Nom de l'equip: seax
+Adreca IP del router: 10.0.2.2
+Adreca IP externa: 47.63.35.53
+Adreces IP dels DNS: 192.168.0.1
+Nom de la inteficie: wlx00c0ca59419f
+MAC: 00:c0:ca:59:41:9f
+Adreça IP: 192.168.0.166/24
+Màscara de xarxa: /64
+Adreça de broadcast: global
+Adreça de la xarxa: 192.168.0.166/24
+fe80::2c0:caff:fe59:419f/64
+Nom de la xarxa: 
+MTU: 1500

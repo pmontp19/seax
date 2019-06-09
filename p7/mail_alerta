@@ -1,0 +1,17 @@
+From entel@seax.epsevg.upc.edu Sat May 05 14:46:22 2018
+Return-path: <entel@seax.epsevg.upc.edu>
+Envelope-to: entel@seax.epsevg.upc.edu
+Delivery-date: Sat, 05 May 2018 14:46:22 -0400
+Received: from entel by seax.epsevg.upc.edu with local (Exim 4.89)
+	(envelope-from <entel@seax.epsevg.upc.edu>)
+	id 1fF2CM-0000UK-35
+	for entel@seax.epsevg.upc.edu; Sat, 05 May 2018 14:46:22 -0400
+Subject: Alerta!
+To: <entel@seax.epsevg.upc.edu>
+X-Mailer: mail (GNU Mailutils 3.1.1)
+Message-Id: <E1fF2CM-0000UK-35@seax.epsevg.upc.edu>
+From: entel <entel@seax.epsevg.upc.edu>
+Date: Sat, 05 May 2018 14:46:22 -0400
+
+Tenim una anomalia a la xarxa DMZ, el servidor DHCP ha repartit una adresa a una maquina.
+

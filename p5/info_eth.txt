@@ -1,0 +1,187 @@
+Dades de lequip
+===============
+Data: Mon Feb 26 11:30:35 EST 2018
+Usuaris humans: entel
+Nom de l'equip: seax
+Adreca IP del router: 10.0.2.2
+Adreca IP externa: 47.63.35.53
+Adreces IP dels DNS: 8.8.8.8
+8.8.4.4
+apunt d'entrar
+a dins
+Nom de la inteficie: lo
+Adreça IP: 
+Nom local de l'equip: 
+Màscara de xarxa: 
+Adreça de broadcast: 00:00:00:00:00:00
+Adreça de la xarxa: 127.0.0.1/8
+::1/128
+Nom local de la xarxa: 
+Nom DNS de la xarxa: 
+MTU: 65536
+a dins
+Nom de la inteficie: enp0s3
+Adreça IP: 08:00:27:17:e6:0e
+Nom local de l'equip: 
+Màscara de xarxa: 
+Adreça de broadcast: ff:ff:ff:ff:ff:ff
+10.0.2.255
+Adreça de la xarxa: 10.0.2.15/24
+fe80::a00:27ff:fe17:e60e/64
+Nom local de la xarxa: 
+Nom DNS de la xarxa: 
+MTU: 1500
+
+
+Dades de lequip
+===============
+Data: Mon Feb 26 11:33:55 EST 2018
+Usuaris humans: entel
+Nom de l'equip: seax
+Adreca IP del router: 10.0.2.2
+Adreca IP externa: 47.63.35.53
+Adreces IP dels DNS: 8.8.8.8
+8.8.4.4
+apunt d'entrar
+a dins
+Nom de la inteficie: lo
+Adreça IP: 
+Nom local de l'equip: 
+Dades de lequip
+===============
+Data: Mon Feb 26 11:34:10 EST 2018
+Usuaris humans: entel
+Nom de l'equip: seax
+Adreca IP del router: 10.0.2.2
+Adreca IP externa: 47.63.35.53
+Adreces IP dels DNS: 8.8.8.8
+8.8.4.4
+apunt d'entrar
+a dins
+Nom de la inteficie: lo
+Adreça IP: 
+Nom local de l'equip: 
+Dades de lequip
+===============
+Data: Mon Feb 26 11:34:41 EST 2018
+Usuaris humans: entel
+Nom de l'equip: seax
+Adreca IP del router: 10.0.2.2
+Adreca IP externa: 47.63.35.53
+Adreces IP dels DNS: 8.8.8.8
+8.8.4.4
+apunt d'entrar
+a dins
+Nom de la inteficie: lo
+Adreça IP: 
+Nom local de l'equip: 
+Màscara de xarxa: 28
+Adreça de broadcast: 00:00:00:00:00:00
+Adreça de la xarxa: 127.0.0.1/8
+::1/128
+Nom local de la xarxa: 
+Nom DNS de la xarxa: 
+MTU: 65536
+a dins
+Nom de la inteficie: enp0s3
+Adreça IP: 08:00:27:17:e6:0e
+Nom local de l'equip: 
+Màscara de xarxa: 64
+Adreça de broadcast: ff:ff:ff:ff:ff:ff
+10.0.2.255
+Adreça de la xarxa: 10.0.2.15/24
+fe80::a00:27ff:fe17:e60e/64
+Nom local de la xarxa: 
+Nom DNS de la xarxa: 
+MTU: 1500
+
+
+Dades de lequip
+===============
+Data: Mon Feb 26 11:35:03 EST 2018
+Usuaris humans: entel
+Nom de l'equip: seax
+Adreca IP del router: 10.0.2.2
+Adreca IP externa: 47.63.35.53
+Adreces IP dels DNS: 8.8.8.8
+8.8.4.4
+apunt d'entrar
+a dins
+Nom de la inteficie: lo
+Adreça IP: 
+Nom local de l'equip: 
+Màscara de xarxa: 128
+Adreça de broadcast: 00:00:00:00:00:00
+Adreça de la xarxa: 127.0.0.1/8
+::1/128
+Nom local de la xarxa: 
+Nom DNS de la xarxa: 
+MTU: 65536
+a dins
+Nom de la inteficie: enp0s3
+Adreça IP: 08:00:27:17:e6:0e
+Nom local de l'equip: 
+Màscara de xarxa: /64
+Adreça de broadcast: ff:ff:ff:ff:ff:ff
+10.0.2.255
+Adreça de la xarxa: 10.0.2.15/24
+fe80::a00:27ff:fe17:e60e/64
+Nom local de la xarxa: 
+Nom DNS de la xarxa: 
+MTU: 1500
+
+
+Dades de lequip
+===============
+Data: Mon Feb 26 11:57:46 EST 2018
+Usuaris humans: entel
+Nom de l'equip: seax
+Adreca IP del router: 10.0.2.2
+Adreca IP externa: 47.63.35.53
+Adreces IP dels DNS: 8.8.8.8
+8.8.4.4
+apunt d'entrar
+a dins
+Nom de la inteficie: lo
+Adreça IP: 
+Nom local de l'equip: 
+Màscara de xarxa: 128
+Adreça de broadcast: 
+Adreça de la xarxa: 127.0.0.1/8
+::1/128
+Nom local de la xarxa: 
+Nom DNS de la xarxa: 
+MTU: 65536
+a dins
+Nom de la inteficie: enp0s3
+Adreça IP: 08:00:27:17:e6:0e
+Nom local de l'equip: 
+Màscara de xarxa: /64
+Adreça de broadcast: global
+Adreça de la xarxa: 10.0.2.15/24
+fe80::a00:27ff:fe17:e60e/64
+Nom local de la xarxa: 
+Nom DNS de la xarxa: 
+MTU: 1500
+
+
+Dades de lequip
+===============
+Data: Sun, Mar  4, 2018 10:16:19 AM
+Usuaris humans: 
+Nom de l'equip: ESL-DYF2ZF2
+Adreca IP del router: 
+Adreca IP externa: 
+Adreces IP dels DNS: 
+apunt d'entrar
+\n
+Dades de lequip
+===============
+Data: Mon, Mar 19, 2018 10:15:06 AM
+Usuaris humans: 
+Nom de l'equip: ESL-DYF2ZF2
+Adreca IP del router: 
+Adreca IP externa: 
+Adreces IP dels DNS: 
+apunt d'entrar
+\n

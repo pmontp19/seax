@@ -1,0 +1,298 @@
+
+
+Dades de lequip
+===============
+Data: Sun Mar  4 17:41:50 EST 2018
+Usuaris humans: entel
+Nom de l'equip: seax
+Adreca IP del router: 10.0.2.2
+Adreca IP externa: 47.63.35.53
+Adreces IP dels DNS: 8.8.8.8
+8.8.4.4
+Nom de la inteficie: wlx00c0ca59419f
+MAC: 00:c0:ca:59:41:9f
+Xarxa wifi operativa 1
+ Adreça MAC AP: 78:81:02:6B:A5:71
+ Nº de canal: 1 
+ Qualitat: 70/70
+ Nivell de senyal: -29 dBm  
+ ESSID: "vodafoneA570"
+ Xifrat: si
+Xarxa wifi operativa 2
+ Adreça MAC AP: 00:26:5A:69:7B:36
+ Nº de canal: 6 
+ Qualitat: 49/70
+ Nivell de senyal: -61 dBm  
+ ESSID: "Foment wifi"
+ Xifrat: si
+Xarxa wifi operativa 3
+ Adreça MAC AP: 72:23:3D:37:1B:8C
+ Nº de canal: 10 
+ Qualitat: 45/70
+ Nivell de senyal: -65 dBm  
+ ESSID: "vodafoneLAIA"
+ Xifrat: si
+Xarxa wifi operativa 4
+ Adreça MAC AP: 98:97:D1:7F:3F:A4
+ Nº de canal: 11 
+ Qualitat: 39/70
+ Nivell de senyal: -71 dBm  
+ ESSID: "MOVISTAR_3FA3"
+ Xifrat: si
+Xarxa wifi operativa 5
+ Adreça MAC AP: 00:B6:B7:19:BF:01
+ Nº de canal: 1 
+ Qualitat: 35/70
+ Nivell de senyal: -75 dBm  
+ ESSID: "link_not_sure"
+ Xifrat: si
+Xarxa wifi operativa 6
+ Adreça MAC AP: A8:D3:F7:01:DE:8D
+ Nº de canal: 1 
+ Qualitat: 55/70
+ Nivell de senyal: -55 dBm  
+ ESSID: "Orange-DE8B"
+ Xifrat: si
+Xarxa wifi operativa 7
+ Adreça MAC AP: 78:81:02:17:C5:39
+ Nº de canal: 4 
+ Qualitat: 43/70
+ Nivell de senyal: -67 dBm  
+ ESSID: "La Cava Vodafone"
+ Xifrat: si
+Xarxa wifi operativa 8
+ Adreça MAC AP: 0E:BF:6D:5C:E9:C4
+ Nº de canal: 11 
+ Qualitat: 55/70
+ Nivell de senyal: -55 dBm  
+ ESSID: ""
+ Xifrat: si
+Xarxa wifi operativa 9
+ Adreça MAC AP: 34:81:C4:04:97:69
+ Nº de canal: 1 
+ Qualitat: 63/70
+ Nivell de senyal: -47 dBm  
+ ESSID: "FRITZ!Box 7272"
+ Xifrat: si
+Xarxa wifi operativa 10
+ Adreça MAC AP: 78:81:02:0E:99:59
+ Nº de canal: 8 
+ Qualitat: 35/70
+ Nivell de senyal: -75 dBm  
+ ESSID: "vodafone9958"
+ Xifrat: si
+Xarxa wifi operativa 11
+ Adreça MAC AP: 9C:6F:52:3A:DA:D2
+ Nº de canal: 9 
+ Qualitat: 41/70
+ Nivell de senyal: -69 dBm  
+ ESSID: "MIWIFI_A2eD"
+ Xifrat: si
+Xarxa wifi operativa 12
+ Adreça MAC AP: E2:41:36:98:33:F8
+ Nº de canal: 1 
+ Qualitat: 35/70
+ Nivell de senyal: -75 dBm  
+ ESSID: "MOVISTAR_33F8"
+ Xifrat: si
+Xarxa wifi operativa 13
+ Adreça MAC AP: 98:97:D1:B7:50:7C
+ Nº de canal: 1 
+ Qualitat: 31/70
+ Nivell de senyal: -79 dBm  
+ ESSID: "MOVISTAR_507B"
+ Xifrat: si
+Xarxa wifi operativa 14
+ Adreça MAC AP: D8:FB:5E:2A:0C:78
+ Nº de canal: 1 
+ Qualitat: 33/70
+ Nivell de senyal: -77 dBm  
+ ESSID: "MOVISTAR_0C77"
+ Xifrat: si
+Xarxa wifi operativa 15
+ Adreça MAC AP: C8:3A:35:25:E2:08
+ Nº de canal: 1 
+ Qualitat: 43/70
+ Nivell de senyal: -67 dBm  
+ ESSID: "E208"
+ Xifrat: si
+Xarxa wifi operativa 16
+ Adreça MAC AP: D4:60:E3:33:3D:91
+ Nº de canal: 4 
+ Qualitat: 41/70
+ Nivell de senyal: -69 dBm  
+ ESSID: "BAR ITALIA"
+ Xifrat: si
+Xarxa wifi operativa 17
+ Adreça MAC AP: 70:8B:CD:E9:34:88
+ Nº de canal: 10 
+ Qualitat: 39/70
+ Nivell de senyal: -71 dBm  
+ ESSID: "pepephone_ADSL3HGZ"
+ Xifrat: si
+Xarxa wifi operativa 18
+ Adreça MAC AP: 04:A1:51:C8:11:EE
+ Nº de canal: 11 
+ Qualitat: 37/70
+ Nivell de senyal: -73 dBm  
+ ESSID: "MOVISTAR_8A58_EXT"
+ Xifrat: si
+Xarxa wifi operativa 19
+ Adreça MAC AP: 04:BF:6D:5C:E9:C6
+ Nº de canal: 11 
+ Qualitat: 55/70
+ Nivell de senyal: -55 dBm  
+ ESSID: "sowifi-mesh"
+ Xifrat: si
+Xarxa wifi operativa 20
+ Adreça MAC AP: 34:57:60:DD:86:C2
+ Nº de canal: 11 
+ Qualitat: 31/70
+ Nivell de senyal: -79 dBm  
+ ESSID: "MOVISTAR_86C1"
+ Xifrat: si
+Dades de lequip
+===============
+Data: Sun Mar  4 17:43:22 EST 2018
+Usuaris humans: entel
+Nom de l'equip: seax
+Adreca IP del router: 10.0.2.2
+Adreca IP externa: 47.63.35.53
+Adreces IP dels DNS: 8.8.8.8
+8.8.4.4
+Nom de la inteficie: wlx00c0ca59419f
+MAC: 00:c0:ca:59:41:9f
+Xarxa wifi operativa 1
+ Adreça MAC AP: 78:81:02:6B:A5:71
+ Nº de canal: 1 
+ Qualitat: 70/70
+ Nivell de senyal: -31 dBm  
+ ESSID: "vodafoneA570"
+ Xifrat: si
+Xarxa wifi operativa 2
+ Adreça MAC AP: 00:26:5A:69:7B:36
+ Nº de canal: 6 
+ Qualitat: 47/70
+ Nivell de senyal: -63 dBm  
+ ESSID: "Foment wifi"
+ Xifrat: si
+Xarxa wifi operativa 3
+ Adreça MAC AP: 72:23:3D:37:1B:8C
+ Nº de canal: 10 
+ Qualitat: 41/70
+ Nivell de senyal: -69 dBm  
+ ESSID: "vodafoneLAIA"
+ Xifrat: si
+Xarxa wifi operativa 4
+ Adreça MAC AP: 00:B6:B7:19:BF:01
+ Nº de canal: 1 
+ Qualitat: 39/70
+ Nivell de senyal: -71 dBm  
+ ESSID: "link_not_sure"
+ Xifrat: si
+Xarxa wifi operativa 5
+ Adreça MAC AP: A8:D3:F7:01:DE:8D
+ Nº de canal: 1 
+ Qualitat: 53/70
+ Nivell de senyal: -57 dBm  
+ ESSID: "Orange-DE8B"
+ Xifrat: si
+Xarxa wifi operativa 6
+ Adreça MAC AP: 78:81:02:17:C5:39
+ Nº de canal: 4 
+ Qualitat: 43/70
+ Nivell de senyal: -67 dBm  
+ ESSID: "La Cava Vodafone"
+ Xifrat: si
+Xarxa wifi operativa 7
+ Adreça MAC AP: 34:81:C4:04:97:69
+ Nº de canal: 1 
+ Qualitat: 59/70
+ Nivell de senyal: -51 dBm  
+ ESSID: "FRITZ!Box 7272"
+ Xifrat: si
+Xarxa wifi operativa 8
+ Adreça MAC AP: 78:81:02:0E:99:59
+ Nº de canal: 8 
+ Qualitat: 33/70
+ Nivell de senyal: -77 dBm  
+ ESSID: "vodafone9958"
+ Xifrat: si
+Xarxa wifi operativa 9
+ Adreça MAC AP: 9C:6F:52:3A:DA:D2
+ Nº de canal: 9 
+ Qualitat: 43/70
+ Nivell de senyal: -67 dBm  
+ ESSID: "MIWIFI_A2eD"
+ Xifrat: si
+Xarxa wifi operativa 10
+ Adreça MAC AP: D8:FB:5E:2A:0C:78
+ Nº de canal: 1 
+ Qualitat: 31/70
+ Nivell de senyal: -79 dBm  
+ ESSID: "MOVISTAR_0C77"
+ Xifrat: si
+Xarxa wifi operativa 11
+ Adreça MAC AP: D4:60:E3:33:3D:91
+ Nº de canal: 4 
+ Qualitat: 49/70
+ Nivell de senyal: -61 dBm  
+ ESSID: "BAR ITALIA"
+ Xifrat: si
+Xarxa wifi operativa 12
+ Adreça MAC AP: 70:8B:CD:E9:34:88
+ Nº de canal: 10 
+ Qualitat: 37/70
+ Nivell de senyal: -73 dBm  
+ ESSID: "pepephone_ADSL3HGZ"
+ Xifrat: si
+Xarxa wifi operativa 13
+ Adreça MAC AP: 04:A1:51:C8:11:EE
+ Nº de canal: 11 
+ Qualitat: 37/70
+ Nivell de senyal: -73 dBm  
+ ESSID: "MOVISTAR_8A58_EXT"
+ Xifrat: si
+Xarxa wifi operativa 14
+ Adreça MAC AP: 04:BF:6D:5C:E9:C6
+ Nº de canal: 11 
+ Qualitat: 53/70
+ Nivell de senyal: -57 dBm  
+ ESSID: "sowifi-mesh"
+ Xifrat: si
+Xarxa wifi operativa 15
+ Adreça MAC AP: 34:57:60:DD:86:C2
+ Nº de canal: 11 
+ Qualitat: 33/70
+ Nivell de senyal: -77 dBm  
+ ESSID: "MOVISTAR_86C1"
+ Xifrat: si
+Xarxa wifi operativa 16
+ Adreça MAC AP: F0:B4:29:24:A3:DB
+ Nº de canal: 4 
+ Qualitat: 35/70
+ Nivell de senyal: -75 dBm  
+ ESSID: "ratowifi"
+ Xifrat: si
+Xarxa wifi operativa 17
+ Adreça MAC AP: F2:B4:29:24:A3:DD
+ Nº de canal: 4 
+ Qualitat: 35/70
+ Nivell de senyal: -75 dBm  
+ ESSID: "  \xE5\xB0\x8F\xE7\xB1\xB3\xE5\x85\xB1\xE4\xBA\xABWiFi_A3DA"
+ Xifrat: no
+Xarxa wifi operativa 18
+ Adreça MAC AP: 98:97:D1:0F:8A:59
+ Nº de canal: 11 
+ Qualitat: 39/70
+ Nivell de senyal: -71 dBm  
+ ESSID: "MOVISTAR_8A58"
+ Xifrat: si
+Xarxa wifi operativa 19
+ Adreça MAC AP: 02:BF:6D:5C:E9:C4
+ Nº de canal: 11 
+ Qualitat: 53/70
+ Nivell de senyal: -57 dBm  
+ ESSID: "La Cava wine bar"
+ Xifrat: no
+
